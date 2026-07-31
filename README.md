@@ -1,6 +1,7 @@
 # CopilotbuddyProfile
 
 **Profile Questbot by Kurumi**
+Discord: Kurumisay
 
 ---
 
