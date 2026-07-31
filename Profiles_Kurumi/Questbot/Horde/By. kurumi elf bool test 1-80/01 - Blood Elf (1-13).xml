@@ -1,0 +1,1176 @@
+<HBProfile>
+	<Name>New Kurumi prem\elf bool test\01 - Blood Elf (1-13)</Name>
+	<MinLevel>1</MinLevel>
+	<MaxLevel>13</MaxLevel>
+	<MinDurability>0.2</MinDurability>
+	<TargetElites>False</TargetElites>
+	<MinFreeBagSlots>2</MinFreeBagSlots>
+	<SellGrey>True</SellGrey>
+	<SellWhite>True</SellWhite>
+	<SellGreen>True</SellGreen>
+	<SellBlue>False</SellBlue>
+	<SellPurple>False</SellPurple>
+	<MailGrey>False</MailGrey>
+	<MailWhite>False</MailWhite>
+	<MailGreen>True</MailGreen>
+	<MailBlue>True</MailBlue>
+	<MailPurple>True</MailPurple>
+	<Vendors>
+		<Vendor Name="Halthenis" Entry="16675" Type="Train" TrainClass="Hunter" X="9926.74" Y="-7396.38" Z="13.7191" />
+		<Vendor Name="Ranger Sallina" Entry="15513" Type="Train" TrainClass="Hunter" X="10384.7" Y="-6410.67" Z="38.6156" />
+		<Vendor Name="Julia Sunstriker" Entry="15279" Type="Train" TrainClass="Mage" X="10337.2" Y="-6419.45" Z="38.6156" />
+		<Vendor Name="Ponaris" Entry="16692" Type="Train" TrainClass="Mage" X="9875.0" Y="-7395.0" Z="13.0" />
+		<Vendor Name="Гарридель" Entry="16269" Type="Train" TrainClass="Mage" X="9462.24" Y="-6853.45" Z="28.378485" />
+		<Vendor Name="Jesthenis Sunstriker" Entry="15280" Type="Train" TrainClass="Paladin" X="10366.7" Y="-6431.53" Z="38.6157" />
+		<Vendor Name="Noellene" Entry="16691" Type="Train" TrainClass="Paladin" X="9648.21" Y="-7071.54" Z="14.31" />
+		<Vendor Name="Lotheolan" Entry="16689" Type="Train" TrainClass="Priest" X="9519.7" Y="-7427.59" Z="14.26" />
+		<Vendor Name="Matron Arena" Entry="15284" Type="Train" TrainClass="Priest" X="10372.4" Y="-6428.84" Z="38.6155" />
+		<Vendor Name="Pathstalker Kariel" Entry="15285" Type="Train" TrainClass="Rogue" X="10384.5" Y="-6404.99" Z="38.6156" />
+		<Vendor Name="Zelanis" Entry="16684" Type="Train" TrainClass="Rogue" X="9732.89" Y="-7366.4" Z="24.4147" />
+		<Vendor Name="Summoner Teli&apos;Larien" Entry="15283" Type="Train" TrainClass="Warlock" X="10337.6" Y="-6405.03" Z="38.6156" />
+		<Vendor Name="Talionia" Entry="16647" Type="Train" TrainClass="Warlock" X="9773.28" Y="-7301.98" Z="14.7505" />
+		<Vendor Name="Bemarrin" Entry="16681" Type="Train" TrainClass="Warrior" X="9850.97" Y="-7517.68" Z="19.8144" />
+		<Vendor Name="Abigail Sawyer" Entry="4604" Type="Repair" X="1629.87" Y="348.38" Z="-62.07" />
+		<Vendor Name="Alexandre Lefevre" Entry="3552" Type="Repair" X="571.54" Y="1576.59" Z="132.86" />
+		<Vendor Name="Arathel Sunforge" Entry="15400" Type="Repair" X="8986.43" Y="-7419.07" Z="89.49" />
+		<Vendor Name="Blacksmith Rand" Entry="2116" Type="Repair" X="1842.44" Y="1570.19" Z="96.67" />
+		<Vendor Name="Gordon Wendham" Entry="4556" Type="Repair" X="1610.45" Y="283.26" Z="-43.02" />
+		<Vendor Name="Harold Raims" Entry="2117" Type="Repair" X="1836.24" Y="1569.16" Z="96.91" />
+		<Vendor Name="Jainthess Thelryn" Entry="15291" Type="Repair" X="10416.8" Y="-6316.6" Z="35.58" />
+		<Vendor Name="Keeli" Entry="16625" Type="Repair" X="9454.48" Y="-7144.83" Z="16.22" />
+		<Vendor Name="Слейн" Entry="18926" Type="Repair" X="9482.34" Y="-6805.51" Z="16.494278" />
+		<Vendor Name="Louis Warren" Entry="4557" Type="Repair" X="1616.24" Y="286.54" Z="-43.02" />
+		<Vendor Name="Morgum" Entry="3321" Type="Repair" X="1589.02" Y="-4469.48" Z="7.99" />
+		<Vendor Name="Noblegarden Merchant" Entry="32837" Type="Repair" X="354.24" Y="-4684.24" Z="16.46" />
+		<Vendor Name="Ollanus" Entry="3317" Type="Repair" X="1583.8" Y="-4473.31" Z="8.06" />
+		<Vendor Name="Ray&apos;ma" Entry="27489" Type="Repair" X="1473.72" Y="-4207.13" Z="42.96" />
+		<Vendor Name="Sebastian Meloche" Entry="3553" Type="Repair" X="508.91" Y="1630.16" Z="104.89" />
+		<Vendor Name="Tynna" Entry="16626" Type="Repair" X="9453.93" Y="-7134.74" Z="16.14" />
+		<Vendor Name="Winthren" Entry="16693" Type="Repair" X="9453.0" Y="-7126.1" Z="16.15" />
+		<Vendor Name="Wuark" Entry="3167" Type="Repair" X="358.13" Y="-4706.73" Z="14.48" />
+		<Vendor Name="Barkeep Morag" Entry="5611" Type="Food" X="1640.83" Y="-4446.99" Z="15.73" />
+		<Vendor Name="Edwin Harly" Entry="2140" Type="Food" X="549.58" Y="1602.99" Z="128.56" />
+		<Vendor Name="Eleanor Rusk" Entry="4555" Type="Food" X="1564.76" Y="209.6" Z="-43.02" />
+		<Vendor Name="Grimtak" Entry="3881" Type="Food" X="305.72" Y="-4665.87" Z="16.53" />
+		<Vendor Name="Gwyn Farrow" Entry="5886" Type="Food" X="553.08" Y="1600.14" Z="129.21" />
+		<Vendor Name="Innkeeper Delaniel" Entry="15433" Type="Food" X="9476.91" Y="-6859.21" Z="17.42" />
+		<Vendor Name="Innkeeper Grosk" Entry="6928" Type="Food" X="340.36" Y="-4686.29" Z="16.54" />
+		<Vendor Name="Innkeeper Gryshka" Entry="6929" Type="Food" X="1633.99" Y="-4439.37" Z="15.76" />
+		<Vendor Name="Innkeeper Jovia" Entry="17630" Type="Food" X="9565.68" Y="-7222.8" Z="16.43" />
+		<Vendor Name="Joshua Kien" Entry="2115" Type="Food" X="1866.02" Y="1574.45" Z="94.4" />
+		<Vendor Name="Marniel Amberlight" Entry="15397" Type="Food" X="8700.38" Y="-6638.36" Z="72.83" />
+		<Vendor Name="Martine Tramblay" Entry="3550" Type="Food" X="2040.91" Y="57.46" Z="33.95" />
+		<Vendor Name="Quelis" Entry="16677" Type="Food" X="9585.85" Y="-7240.29" Z="27.11" />
+		<Vendor Name="Ronald Burch" Entry="4553" Type="Food" X="1602.12" Y="275.44" Z="-55.26" />
+		<Vendor Name="Sathren Azuredawn" Entry="16191" Type="Food" X="9580.71" Y="-7054.05" Z="18.73" />
+		<Vendor Name="Tawny Grisette" Entry="4554" Type="Food" X="1622.25" Y="263.73" Z="-43.1" />
+		<Vendor Name="Trak&apos;gen" Entry="3313" Type="Food" X="1520.54" Y="-4355.58" Z="19.09" />
+		<Vendor Name="Vinemaster Suntouched" Entry="16442" Type="Food" X="9681.59" Y="-7363.88" Z="12.02" />
+		<Vendor Name="Zalene Firstlight" Entry="16443" Type="Food" X="8990.88" Y="-7462.58" Z="86.77" />
+		<Vendor Name="Zachariah Post" Entry="4731" Type="Sell" X="2250.38" Y="328.11" Z="35.27" />
+		<Vendor Name="[DND] TAR Pedestal - Trainer, Druid" Entry="26751" Type="Reagent" X="1822.94" Y="1585.59" Z="95.47" />
+		<Vendor Name="[DND] TAR Pedestal - Trainer, Hunter" Entry="26752" Type="Reagent" X="1827.36" Y="1585.33" Z="94.89" />
+		<Vendor Name="Algernon" Entry="4610" Type="Reagent" X="1399.98" Y="377.06" Z="-65.94" />
+		<Vendor Name="Andrew Hilbert" Entry="3556" Type="Reagent" X="528.07" Y="1634.62" Z="104.71" />
+		<Vendor Name="Borya" Entry="3364" Type="Reagent" X="1792.65" Y="-4565.39" Z="23.11" />
+		<Vendor Name="Deynna" Entry="16638" Type="Reagent" X="9741.92" Y="-7074.09" Z="16.84" />
+		<Vendor Name="Flakk" Entry="3168" Type="Reagent" X="328.73" Y="-4763.78" Z="12.63" />
+		<Vendor Name="Halis Dawnstrider" Entry="16444" Type="Reagent" X="8731.69" Y="-6656.5" Z="70.67" />
+		<Vendor Name="Horthus" Entry="3323" Type="Reagent" X="1744.9" Y="-4317.86" Z="33.64" />
+		<Vendor Name="Jark" Entry="3164" Type="Reagent" X="321.55" Y="-4838.4" Z="10.61" />
+		<Vendor Name="Katrina Alliestar" Entry="4615" Type="Reagent" X="1564.79" Y="348.16" Z="-62.07" />
+		<Vendor Name="Lilly" Entry="5757" Type="Reagent" X="243.8" Y="1643.27" Z="142.36" />
+		<Vendor Name="Sheri" Entry="16259" Type="Reagent" X="9491.64" Y="-6856.79" Z="17.51" />
+		<Vendor Name="Shimra" Entry="5817" Type="Reagent" X="1522.3" Y="-4352.53" Z="19.15" />
+		<Vendor Name="Thaddeus Webb" Entry="4617" Type="Reagent" X="1487.59" Y="274.73" Z="-62.07" />
+		<Vendor Name="Zalle" Entry="16611" Type="Reagent" X="9572.41" Y="-7060.69" Z="18.74" />
+		<Vendor Name="Darlia" Entry="16683" Type="Poison" X="9742.54" Y="-7375.3" Z="24.36" />
+		<Vendor Name="Ezekiel Graves" Entry="4585" Type="Poison" X="1550.34" Y="151.73" Z="-62.09" />
+		<Vendor Name="Patrice Dwyer" Entry="3551" Type="Poison" X="496.0" Y="1647.86" Z="125.66" />
+		<Vendor Name="Rekkul" Entry="3334" Type="Poison" X="1811.04" Y="-4270.9" Z="7.41" />
+		<Vendor Name="Alessandro Luca" Entry="7683" Type="General" X="1527.93" Y="310.86" Z="-62.06" />
+		<Vendor Name="Bithrus" Entry="16650" Type="General" X="9738.16" Y="-7161.36" Z="14.42" />
+		<Vendor Name="Darkcaller Yanka" Entry="15197" Type="General" X="1731.76" Y="521.97" Z="35.98" />
+		<Vendor Name="Jilanne" Entry="16860" Type="General" X="8713.83" Y="-6625.3" Z="93.53" />
+		<Vendor Name="Joanna Whitehall" Entry="5698" Type="General" X="1653.56" Y="365.23" Z="-60.68" />
+		<Vendor Name="Jonathan Chambers" Entry="4590" Type="General" X="1486.12" Y="208.88" Z="-62.07" />
+		<Vendor Name="Lady Palanseer" Entry="34043" Type="General" X="1674.48" Y="-4211.93" Z="56.48" />
+		<Vendor Name="Raider Bork" Entry="12796" Type="General" X="1633.56" Y="-4263.7" Z="49.43" />
+		<Vendor Name="Rathin" Entry="16690" Type="General" X="9765.38" Y="-7198.92" Z="16.51" />
+		<Vendor Name="Solanin" Entry="18947" Type="General" X="9309.14" Y="-6555.41" Z="34.8" />
+		<Vendor Name="Xan&apos;tish" Entry="8404" Type="General" X="1527.53" Y="-4154.75" Z="40.63" />
+	</Vendors>
+	<AvoidMobs>
+	</AvoidMobs>
+	<Blackspots>
+		<Blackspot X="9131.814" Y="-6198.6714" Z="24.041576" Radius="8" />
+		<Blackspot X="9126.357" Y="-6193.258" Z="25.899017" Radius="6" />
+		<Blackspot X="9079.223" Y="-6184.745" Z="23.286911" Radius="5" />
+	</Blackspots>
+	<Mailboxes>
+	</Mailboxes>
+
+	<Quest Id="8325" Name="Reclaiming Sunstrider Isle">
+		<Objective Type="KillMob" MobId="15274" KillCount="8">
+			<Hotspots>
+				<Hotspot X="10187.8" Y="-6347.56" Z="30.459" />
+				<Hotspot X="10195.0" Y="-6320.27" Z="28.3769" />
+				<Hotspot X="10206.3" Y="-6307.28" Z="26.9459" />
+				<Hotspot X="10213.5" Y="-6351.58" Z="29.3" />
+				<Hotspot X="10214.2" Y="-6337.41" Z="30.85" />
+				<Hotspot X="10220.9" Y="-6328.75" Z="30.85" />
+				<Hotspot X="10202.1" Y="-6368.75" Z="29.8369" />
+				<Hotspot X="10220.6" Y="-6361.77" Z="30.85" />
+				<Hotspot X="10242.9" Y="-6339.76" Z="30.85" />
+				<Hotspot X="10235.6" Y="-6329.73" Z="29.9529" />
+				<Hotspot X="10226.8" Y="-6324.62" Z="31.6" />
+				<Hotspot X="10252.9" Y="-6317.51" Z="27.268" />
+			</Hotspots>
+		</Objective>
+	</Quest>
+	<Quest Id="8326" Name="Unfortunate Measures">
+		<Objective Type="CollectItem" ItemId="20797" CollectCount="8">
+			<Hotspots>
+				<Hotspot X="10286.7" Y="-6295.87" Z="25.6512" />
+				<Hotspot X="10276.8" Y="-6268.98" Z="26.1512" />
+				<Hotspot X="10291.6" Y="-6279.82" Z="26.7762" />
+				<Hotspot X="10269.2" Y="-6410.45" Z="40.2181" />
+				<Hotspot X="10316.2" Y="-6415.58" Z="37.8301" />
+				<Hotspot X="10308.9" Y="-6246.58" Z="28.1924" />
+				<Hotspot X="10378.0" Y="-6454.66" Z="36.6107" />
+				<Hotspot X="10305.5" Y="-6451.96" Z="45.4285" />
+				<Hotspot X="10424.7" Y="-6429.96" Z="42.5668" />
+				<Hotspot X="10447.8" Y="-6313.91" Z="42.8548" />
+				<Hotspot X="10424.9" Y="-6290.69" Z="35.0849" />
+				<Hotspot X="10354.7" Y="-6470.09" Z="37.5364" />
+				<Hotspot X="10413.3" Y="-6452.52" Z="39.5459" />
+			</Hotspots>
+		</Objective>
+	</Quest>
+	<Quest Id="8330" Name="Solanian&apos;s Belongings">
+		<Objective Type="CollectItem" ItemId="20470" CollectCount="1">
+			<CollectFrom>
+				<GameObject Name="Solonian&apos;s Scrying Orb" Id="180510" />
+			</CollectFrom>
+			<Hotspots>
+				<Hotspot X="10091.08" Y="-6216.918" Z="16.66722" />
+			</Hotspots>
+		</Objective>
+		<Objective Type="CollectItem" ItemId="20471" CollectCount="1">
+			<CollectFrom>
+				<GameObject Name="Scroll of Scourge Magic" Id="180511" />
+			</CollectFrom>
+			<Hotspots>
+				<Hotspot X="10296.56" Y="-6030.346" Z="28.44278" />
+			</Hotspots>
+		</Objective>
+		<Objective Type="CollectItem" ItemId="20472" CollectCount="1">
+			<CollectFrom>
+				<GameObject Name="Solonian&apos;s Journal" Id="180512" />
+			</CollectFrom>
+			<Hotspots>
+				<Hotspot X="10221.65" Y="-6342.844" Z="30.84069" />
+			</Hotspots>
+		</Objective>
+	</Quest>
+	<Quest Id="8334" Name="Aggression">
+		<Objective Type="KillMob" MobId="15271" KillCount="7">
+			<Hotspots>
+				<Hotspot X="10105.3" Y="-6423.38" Z="30.8718" />
+				<Hotspot X="10082.7" Y="-6381.62" Z="10.7393" />
+				<Hotspot X="10101.0" Y="-6363.83" Z="15.734" />
+				<Hotspot X="10106.2" Y="-6382.96" Z="20.0423" />
+				<Hotspot X="10058.5" Y="-6284.86" Z="10.8042" />
+			</Hotspots>
+		</Objective>
+		<Objective Type="KillMob" MobId="15294" KillCount="7">
+			<Hotspots>
+				<Hotspot X="10096.0" Y="-6354.86" Z="11.5868" />
+				<Hotspot X="10102.6" Y="-6363.13" Z="16.1144" />
+				<Hotspot X="10067.2" Y="-6267.55" Z="13.0933" />
+				<Hotspot X="10073.9" Y="-6280.82" Z="13.9683" />
+				<Hotspot X="10085.1" Y="-6280.95" Z="12.8433" />
+			</Hotspots>
+		</Objective>
+	</Quest>
+	<Quest Id="8335" Name="Felendren the Banished">
+		<Objective Type="KillMob" MobId="15273" KillCount="8">
+			<Hotspots>
+				<Hotspot X="10235.4" Y="-5984.8" Z="38.944" />
+				<Hotspot X="10214.1" Y="-5973.8" Z="38.9443" />
+				<Hotspot X="10217.6" Y="-5999.77" Z="39.0439" />
+				<Hotspot X="10226.7" Y="-5982.19" Z="38.9441" />
+				<Hotspot X="10189.6" Y="-6043.44" Z="25.9605" />
+				<Hotspot X="10129.1" Y="-6065.56" Z="25.6708" />
+				<Hotspot X="10119.8" Y="-6049.0" Z="26.0172" />
+				<Hotspot X="10098.4" Y="-6085.73" Z="32.2173" />
+				<Hotspot X="10180.0" Y="-5967.25" Z="63.5704" />
+				<Hotspot X="10143.8" Y="-5986.14" Z="63.5704" />
+				<Hotspot X="10158.9" Y="-5984.66" Z="63.5704" />
+				<Hotspot X="10155.4" Y="-5958.16" Z="63.5704" />
+				<Hotspot X="10088.2" Y="-5972.94" Z="63.5749" />
+			</Hotspots>
+		</Objective>
+		<Objective Type="KillMob" MobId="15298" KillCount="2">
+			<Hotspots>
+				<Hotspot X="10158.0" Y="-6026.5" Z="63.7448" />
+				<Hotspot X="10156.3" Y="-5992.24" Z="110.237" />
+				<Hotspot X="10083.7" Y="-6034.95" Z="42.2431" />
+				<Hotspot X="10131.4" Y="-6011.43" Z="110.154" />
+			</Hotspots>
+		</Objective>
+		<Objective Type="CollectItem" ItemId="20799" CollectCount="1">
+			<CollectFrom>
+				<Mob Name="Felendren the Banished" Id="15367" />
+			</CollectFrom>
+			<Hotspots>
+				<Hotspot X="10150.9" Y="-6006.24" Z="110.15398" />
+			</Hotspots>
+		</Objective>
+	</Quest>
+	<Quest Id="8336" Name="A Fistful of Slivers">
+		<Objective Type="CollectItem" ItemId="20482" CollectCount="6">
+			<Hotspots>
+				<Hotspot X="10235.4" Y="-5984.8" Z="38.944" />
+				<Hotspot X="10214.1" Y="-5973.8" Z="38.9443" />
+				<Hotspot X="10187.8" Y="-6347.56" Z="30.459" />
+				<Hotspot X="10195.0" Y="-6320.27" Z="28.3769" />
+				<Hotspot X="10206.3" Y="-6307.28" Z="26.9459" />
+			</Hotspots>
+		</Objective>
+	</Quest>
+	<Quest Id="8338" Name="Tainted Arcane Sliver">
+		<Objective Type="CollectItem" ItemId="20483" CollectCount="1">
+			<Hotspots>
+				<Hotspot X="10158.0" Y="-6026.5" Z="63.745" />
+				<Hotspot X="10235.4" Y="-5984.8" Z="38.944" />
+				<Hotspot X="10150.9" Y="-6006.24" Z="110.237" />
+			</Hotspots>
+		</Objective>
+	</Quest>
+	<Quest Id="8345" Name="The Shrine of Dath&apos;Remar">
+		<!-- GameObject 180516 wall pos: 10405.8, -5946.01, 42.5082 — hotspots = stand points below -->
+		<Objective Type="UseObject" ObjectId="180516" UseCount="1">
+			<CollectFrom>
+				<GameObject Name="Shrine of Dath&apos;Remar" Id="180516" />
+			</CollectFrom>
+			<Hotspots>
+				<Hotspot X="10404.059" Y="-5948.356" Z="41.25197" />
+				<Hotspot X="10404.12" Y="-5947.504" Z="41.28845" />
+				<Hotspot X="10403.45" Y="-5949.631" Z="41.17837" />
+			</Hotspots>
+		</Objective>
+	</Quest>
+	<Quest Id="8346" Name="Thirst Unending">
+	</Quest>
+	<Quest Id="8347" Name="Aiding the Outrunners">
+	</Quest>
+	<Quest Id="8350" Name="Completing the Delivery">
+		<Objective Type="CollectItem" ItemId="20804" CollectCount="1">
+		</Objective>
+	</Quest>
+	<Quest Id="8463" Name="Unstable Mana Crystals">
+		<Objective Type="CollectItem" ItemId="20743" CollectCount="6">
+			<CollectFrom>
+				<GameObject Name="Unstable Mana Crystal Crate" Id="180600" />
+			</CollectFrom>
+			<Hotspots>
+				<Hotspot X="9908.08" Y="-6620.55" Z="14.1499" />
+				<Hotspot X="9502.51" Y="-6539.89" Z="21.62" />
+				<Hotspot X="9505.36" Y="-6648.59" Z="15.02" />
+				<Hotspot X="9540.79" Y="-6495.06" Z="22.7" />
+				<Hotspot X="9548.16" Y="-6678.08" Z="8.09" />
+				<Hotspot X="9574.68" Y="-6607.12" Z="1.56" />
+				<Hotspot X="9584.84" Y="-6649.49" Z="6.51" />
+				<Hotspot X="9604.47" Y="-6673.21" Z="-5.61" />
+				<Hotspot X="9704.138" Y="-6700.706" Z="0.5272774" />
+			</Hotspots>
+		</Objective>
+	</Quest>
+	<Quest Id="8468" Name="Wanted: Thaelis the Hungerer">
+		<Objective Type="CollectItem" ItemId="21781" CollectCount="1">
+			<CollectFrom>
+				<Mob Name="Thaelis the Hungerer" Id="15949" />
+			</CollectFrom>
+			<Hotspots>
+				<Hotspot X="9804.5" Y="-6704.95" Z="2.6091256" />
+			</Hotspots>
+		</Objective>
+	</Quest>
+	<Quest Id="8472" Name="Major Malfunction">
+		<Objective Type="CollectItem" ItemId="21808" CollectCount="6">
+			<Hotspots>
+				<Hotspot X="9533.15" Y="-6657.62" Z="12.7572" />
+				<Hotspot X="9646.82" Y="-6800.99" Z="11.3963" />
+				<Hotspot X="9805.17" Y="-6490.02" Z="9.4958" />
+				<Hotspot X="9866.35" Y="-6617.36" Z="9.0531" />
+				<Hotspot X="9896.41" Y="-6713.59" Z="12.1371" />
+				<Hotspot X="9824.36" Y="-6736.01" Z="19.2058" />
+			</Hotspots>
+		</Objective>
+		<Objective Type="KillMob" MobId="15638" KillCount="6">
+			<Hotspots>
+				<Hotspot X="9533.15" Y="-6657.62" Z="12.7572" />
+				<Hotspot X="9646.82" Y="-6800.99" Z="11.3963" />
+				<Hotspot X="9805.17" Y="-6490.02" Z="9.4958" />
+			</Hotspots>
+		</Objective>
+	</Quest>
+	<Quest Id="8475" Name="The Dead Scar">
+		<Objective Type="KillMob" MobId="15654" KillCount="8">
+			<Hotspots>
+				<Hotspot X="9319.04" Y="-6990.06" Z="16.2523" />
+				<Hotspot X="9271.21" Y="-6972.31" Z="5.0772" />
+				<Hotspot X="9293.16" Y="-6938.06" Z="6.2178" />
+				<Hotspot X="9291.61" Y="-6908.02" Z="8.7144" />
+				<Hotspot X="9163.88" Y="-6914.03" Z="6.8684" />
+				<Hotspot X="9219.43" Y="-6948.79" Z="5.1417" />
+				<Hotspot X="9280.34" Y="-6950.11" Z="5.6165" />
+				<Hotspot X="9196.79" Y="-7011.84" Z="5.3592" />
+			</Hotspots>
+		</Objective>
+	</Quest>
+	<Quest Id="8476" Name="Amani Encroachment">
+		<Objective Type="KillMob" MobId="15643" KillCount="5">
+			<Hotspots>
+				<Hotspot X="8857.26" Y="-7679.81" Z="137.108" />
+				<Hotspot X="8739.7" Y="-7777.98" Z="163.348" />
+				<Hotspot X="8714.87" Y="-7879.51" Z="164.727" />
+				<Hotspot X="8610.73" Y="-7886.85" Z="154.978" />
+				<Hotspot X="8683.02" Y="-7933.14" Z="153.04" />
+			</Hotspots>
+		</Objective>
+		<Objective Type="KillMob" MobId="15641" KillCount="5">
+			<Hotspots>
+				<Hotspot X="8648.74" Y="-7855.22" Z="159.849" />
+				<Hotspot X="8650.58" Y="-7916.69" Z="153.996" />
+				<Hotspot X="8687.24" Y="-7944.7" Z="152.838" />
+				<Hotspot X="8512.94" Y="-7948.96" Z="155.71" />
+			</Hotspots>
+		</Objective>
+	</Quest>
+	<Quest Id="8477" Name="The Spearcrafter&apos;s Hammer">
+		<Objective Type="CollectItem" ItemId="20759" CollectCount="1">
+			<Hotspots>
+				<Hotspot X="8668.46" Y="-7939.93" Z="153.41" />
+			</Hotspots>
+		</Objective>
+		<Objective Type="KillMob" MobId="15408" KillCount="1">
+			<Hotspots>
+				<Hotspot X="8668.46" Y="-7939.93" Z="153.41" />
+			</Hotspots>
+		</Objective>
+	</Quest>
+	<Quest Id="8479" Name="Zul&apos;Marosh">
+		<Objective Type="CollectItem" ItemId="20760" CollectCount="1">
+			<Hotspots>
+				<Hotspot X="8425.4" Y="-7566.3" Z="174.681" />
+			</Hotspots>
+		</Objective>
+		<Objective Type="KillMob" MobId="15407" KillCount="1">
+			<Hotspots>
+				<Hotspot X="8425.4" Y="-7566.3" Z="174.681" />
+			</Hotspots>
+		</Objective>
+	</Quest>
+	<Quest Id="8480" Name="Lost Armaments">
+		<Objective Type="CollectItem" ItemId="22413" CollectCount="8">
+			<Hotspots>
+				<Hotspot X="8849.25" Y="-6278.24" Z="8.0203" />
+			</Hotspots>
+		</Objective>
+	</Quest>
+	<Quest Id="8482" Name="Incriminating Documents">
+		<Objective Type="CollectItem" ItemId="20765" CollectCount="1">
+			<Hotspots>
+				<Hotspot X="9121.22" Y="-6171.12" Z="35.5665" />
+				<Hotspot X="9005.09" Y="-6194.03" Z="23.3583" />
+				<Hotspot X="9045.06" Y="-6164.24" Z="30.2885" />
+				<Hotspot X="9089.52" Y="-6126.73" Z="35.8958" />
+				<Hotspot X="9039.11" Y="-6298.55" Z="22.6258" />
+			</Hotspots>
+		</Objective>
+		<Objective Type="KillMob" MobId="15968" KillCount="1">
+			<Hotspots>
+				<Hotspot X="9121.22" Y="-6171.12" Z="35.5665" />
+				<Hotspot X="9005.09" Y="-6194.03" Z="23.3583" />
+				<Hotspot X="9045.06" Y="-6164.24" Z="30.2885" />
+			</Hotspots>
+		</Objective>
+	</Quest>
+	<Quest Id="8483" Name="The Dwarven Spy">
+		<Objective Type="CollectItem" ItemId="20764" CollectCount="1">
+			<Hotspots>
+				<Hotspot X="9291.54" Y="-6682.77" Z="22.5366" />
+			</Hotspots>
+		</Objective>
+		<Objective Type="KillMob" MobId="15420" KillCount="1">
+			<Hotspots>
+				<Hotspot X="9291.54" Y="-6682.77" Z="22.5366" />
+			</Hotspots>
+		</Objective>
+	</Quest>
+	<Quest Id="8486" Name="Arcane Instability">
+		<Objective Type="KillMob" MobId="15648" KillCount="5">
+			<Hotspots>
+				<Hotspot X="9152.9" Y="-6222.26" Z="17.1799" />
+				<Hotspot X="9099.81" Y="-6230.37" Z="29.2046" />
+				<Hotspot X="9153.88" Y="-6182.6" Z="35.579" />
+				<Hotspot X="9170.414" Y="-6216.9126" Z="17.66377" />
+				<Hotspot X="9177.165" Y="-6178.1216" Z="33.82607" />
+				<Hotspot X="9120.651" Y="-6150.099" Z="36.44475" />
+				<Hotspot X="9062.182" Y="-6129.813" Z="32.38604" />
+			</Hotspots>
+		</Objective>
+		<Objective Type="KillMob" MobId="15647" KillCount="5">
+			<Hotspots>
+				<Hotspot X="9146.17" Y="-6248.99" Z="17.6942" />
+				<Hotspot X="9179.39" Y="-6211.8" Z="18.6498" />
+				<Hotspot X="9073.05" Y="-6255.76" Z="17.1847" />
+				<Hotspot X="9059.671" Y="-6216.458" Z="17.311235" />
+				<Hotspot X="9062.182" Y="-6129.813" Z="32.38604" />
+			</Hotspots>
+		</Objective>
+	</Quest>
+	<Quest Id="8487" Name="Corrupted Soil">
+		<Objective Type="CollectItem" ItemId="20771" CollectCount="8">
+		</Objective>
+	</Quest>
+	<Quest Id="8488" Name="Unexpected Results">
+	</Quest>
+	<Quest Id="8491" Name="Pelt Collection">
+		<Objective Type="CollectItem" ItemId="20772" CollectCount="6">
+			<Hotspots>
+				<Hotspot X="9214.48" Y="-6655.06" Z="37.9443" />
+				<Hotspot X="9098.89" Y="-6710.81" Z="22.8928" />
+				<Hotspot X="9346.69" Y="-6587.55" Z="38.0384" />
+				<Hotspot X="9379.91" Y="-6540.06" Z="44.5011" />
+				<Hotspot X="8944.83" Y="-6205.64" Z="9.2919" />
+				<Hotspot X="9073.04" Y="-6389.65" Z="2.7683" />
+			</Hotspots>
+		</Objective>
+	</Quest>
+	<Quest Id="8884" Name="Fish Heads, Fish Heads...">
+		<Objective Type="CollectItem" ItemId="21757" CollectCount="8">
+			<Hotspots>
+				<Hotspot X="8896.9" Y="-5777.99" Z="-3.443" />
+				<Hotspot X="8883.25" Y="-5787.77" Z="-2.178" />
+				<Hotspot X="8876.48" Y="-5739.55" Z="0.424" />
+				<Hotspot X="8787.04" Y="-5782.95" Z="1.438" />
+				<Hotspot X="8811.2" Y="-5706.32" Z="-3.325" />
+				<Hotspot X="8872.57" Y="-5727.32" Z="0.39" />
+				<Hotspot X="8727.13" Y="-5704.0" Z="-2.784" />
+				<Hotspot X="8684.06" Y="-5709.82" Z="1.169" />
+			</Hotspots>
+		</Objective>
+	</Quest>
+	<Quest Id="8886" Name="Grimscale Pirates!">
+		<Objective Type="CollectItem" ItemId="21771" CollectCount="6">
+			<Hotspots>
+				<Hotspot X="8684.06" Y="-5709.82" Z="1.169" />
+				<Hotspot X="8727.13" Y="-5704.0" Z="-2.784" />
+				<Hotspot X="8787.04" Y="-5782.95" Z="1.438" />
+				<Hotspot X="8896.9" Y="-5777.99" Z="-3.443" />
+			</Hotspots>
+		</Objective>
+	</Quest>
+	<Quest Id="8887" Name="Captain Kelisendra&apos;s Lost Rutters">
+		<Objective Type="CollectItem" ItemId="21776" CollectCount="1">
+			<Hotspots>
+				<Hotspot X="8896.9" Y="-5777.99" Z="-3.443" />
+				<Hotspot X="8883.25" Y="-5787.77" Z="-2.178" />
+				<Hotspot X="8876.48" Y="-5739.55" Z="0.424" />
+				<Hotspot X="8787.04" Y="-5782.95" Z="1.438" />
+				<Hotspot X="8811.2" Y="-5706.32" Z="-3.325" />
+				<Hotspot X="8727.13" Y="-5704.0" Z="-2.784" />
+				<Hotspot X="8684.06" Y="-5709.82" Z="1.169" />
+			</Hotspots>
+		</Objective>
+	</Quest>
+	<Quest Id="8888" Name="The Magister&apos;s Apprentice">
+	</Quest>
+	<Quest Id="8889" Name="Deactivating the Spire">
+		<Objective Type="CollectItem" ItemId="180916" CollectCount="1">
+			<CollectFrom>
+				<GameObject Name="Duskwither Spire Power Source" Id="180916" />
+			</CollectFrom>
+			<Hotspots>
+				<Hotspot X="9335.96" Y="-7883.82" Z="144.475" />
+			</Hotspots>
+		</Objective>
+		<Objective Type="CollectItem" ItemId="180919" CollectCount="1">
+			<CollectFrom>
+				<GameObject Name="Duskwither Spire Power Source" Id="180919" />
+			</CollectFrom>
+			<Hotspots>
+				<Hotspot X="9336.0" Y="-7884.21" Z="161.0" />
+			</Hotspots>
+		</Objective>
+		<Objective Type="CollectItem" ItemId="180920" CollectCount="1">
+			<CollectFrom>
+				<GameObject Name="Duskwither Spire Power Source" Id="180920" />
+			</CollectFrom>
+			<Hotspots>
+				<Hotspot X="9290.02" Y="-7917.32" Z="178.928" />
+			</Hotspots>
+		</Objective>
+		<Objective Type="CollectItem" ItemId="24337" CollectCount="1">
+		</Objective>
+	</Quest>
+	<Quest Id="8890" Name="Word from the Spire">
+	</Quest>
+	<Quest Id="8891" Name="Abandoned Investigations">
+		<Objective Type="CollectItem" ItemId="21783" CollectCount="1">
+		</Objective>
+	</Quest>
+	<Quest Id="8892" Name="Situation at Sunsail Anchorage">
+		<Objective Type="KillMob" MobId="15645" KillCount="5">
+			<Hotspots>
+				<Hotspot X="8804.08" Y="-6099.0" Z="4.814" />
+				<Hotspot X="8765.95" Y="-6053.09" Z="4.816" />
+				<Hotspot X="8746.32" Y="-6093.98" Z="20.1386" />
+				<Hotspot X="8806.47" Y="-6101.2" Z="20.3703" />
+				<Hotspot X="8725.09" Y="-6102.71" Z="20.2316" />
+				<Hotspot X="8709.87" Y="-6084.02" Z="14.9198" />
+			</Hotspots>
+		</Objective>
+		<Objective Type="KillMob" MobId="16162" KillCount="5">
+			<Hotspots>
+				<Hotspot X="8792.4" Y="-6066.88" Z="4.8186" />
+				<Hotspot X="8744.48" Y="-6114.81" Z="20.1345" />
+				<Hotspot X="8719.38" Y="-6045.9" Z="10.0807" />
+				<Hotspot X="8802.87" Y="-6087.35" Z="4.8215" />
+				<Hotspot X="8768.19" Y="-6112.81" Z="20.1277" />
+			</Hotspots>
+		</Objective>
+	</Quest>
+	<Quest Id="8894" Name="Cleaning up the Grounds">
+		<Objective Type="KillMob" MobId="15966" KillCount="6">
+			<Hotspots>
+				<Hotspot X="9317.49" Y="-7868.12" Z="159.206" />
+				<Hotspot X="9329.17" Y="-7861.92" Z="159.206" />
+				<Hotspot X="9345.83" Y="-7837.5" Z="62.566" />
+				<Hotspot X="9416.77" Y="-7839.91" Z="46.0201" />
+				<Hotspot X="9471.31" Y="-7846.7" Z="22.0407" />
+				<Hotspot X="9494.03" Y="-7889.02" Z="15.932" />
+				<Hotspot X="9547.09" Y="-7874.77" Z="15.2383" />
+			</Hotspots>
+		</Objective>
+		<Objective Type="KillMob" MobId="15967" KillCount="6">
+			<Hotspots>
+				<Hotspot X="9266.1" Y="-7847.47" Z="74.9413" />
+				<Hotspot X="9332.83" Y="-7837.41" Z="64.0013" />
+				<Hotspot X="9309.99" Y="-7881.6" Z="159.206" />
+				<Hotspot X="9321.98" Y="-7875.84" Z="142.245" />
+				<Hotspot X="9337.4" Y="-7868.27" Z="142.246" />
+				<Hotspot X="9377.63" Y="-7844.6" Z="53.6287" />
+				<Hotspot X="9406.02" Y="-7887.66" Z="18.6278" />
+				<Hotspot X="9453.35" Y="-7880.87" Z="23.4324" />
+			</Hotspots>
+		</Objective>
+	</Quest>
+	<Quest Id="8895" Name="Delivery to the North Sanctum">
+		<Objective Type="CollectItem" ItemId="21807" CollectCount="1">
+		</Objective>
+	</Quest>
+	<Quest Id="9035" Name="Roadside Ambush">
+	</Quest>
+	<Quest Id="9062" Name="Soaked Pages">
+		<Objective Type="CollectItem" ItemId="22414" CollectCount="1">
+		</Objective>
+	</Quest>
+	<Quest Id="9064" Name="Taking the Fall">
+		<Objective Type="CollectItem" ItemId="22414" CollectCount="1">
+		</Objective>
+	</Quest>
+	<Quest Id="9066" Name="Swift Discipline">
+		<Objective Type="KillMob" MobId="15945" KillCount="1">
+			<Hotspots>
+				<Hotspot X="9037.79" Y="-6697.62" Z="12.6447" />
+			</Hotspots>
+		</Objective>
+		<Objective Type="KillMob" MobId="15941" KillCount="1">
+			<Hotspots>
+				<Hotspot X="9188.76" Y="-6712.91" Z="25.997" />
+			</Hotspots>
+		</Objective>
+		<Objective Type="CollectItem" ItemId="22473" CollectCount="1">
+		</Objective>
+	</Quest>
+	<Quest Id="9067" Name="The Party Never Ends">
+		<Objective Type="CollectItem" ItemId="22775" CollectCount="1">
+		</Objective>
+		<Objective Type="CollectItem" ItemId="22776" CollectCount="1">
+		</Objective>
+		<Objective Type="CollectItem" ItemId="22777" CollectCount="1">
+		</Objective>
+	</Quest>
+	<Quest Id="9076" Name="Wretched Ringleader">
+		<Objective Type="CollectItem" ItemId="22487" CollectCount="1">
+			<Hotspots>
+				<Hotspot X="8763.01" Y="-6103.01" Z="73.159" />
+			</Hotspots>
+		</Objective>
+		<Objective Type="KillMob" MobId="16294" KillCount="1">
+			<Hotspots>
+				<Hotspot X="8763.01" Y="-6103.01" Z="73.159" />
+			</Hotspots>
+		</Objective>
+	</Quest>
+	<Quest Id="9119" Name="Malfunction at the West Sanctum">
+	</Quest>
+	<Quest Id="9252" Name="Defending Fairbreeze Village">
+		<Objective Type="KillMob" MobId="15658" KillCount="4">
+			<Hotspots>
+				<Hotspot X="8743.88" Y="-7145.57" Z="35.3512" />
+				<Hotspot X="8692.87" Y="-7059.0" Z="47.5174" />
+				<Hotspot X="8629.0" Y="-7045.69" Z="65.6301" />
+				<Hotspot X="8780.38" Y="-7000.49" Z="39.7555" />
+				<Hotspot X="8850.89" Y="-7045.91" Z="22.5728" />
+			</Hotspots>
+		</Objective>
+		<Objective Type="KillMob" MobId="15657" KillCount="4">
+			<Hotspots>
+				<Hotspot X="8115.51" Y="-6785.53" Z="69.3076" />
+				<Hotspot X="8085.12" Y="-6721.64" Z="63.1082" />
+				<Hotspot X="8221.09" Y="-6850.13" Z="82.4023" />
+				<Hotspot X="8313.02" Y="-6954.12" Z="93.5131" />
+				<Hotspot X="8460.11" Y="-6992.96" Z="93.1645" />
+			</Hotspots>
+		</Objective>
+	</Quest>
+	<Quest Id="9254" Name="The Wayward Apprentice">
+	</Quest>
+	<Quest Id="9255" Name="Research Notes">
+		<Objective Type="CollectItem" ItemId="22735" CollectCount="1">
+		</Objective>
+	</Quest>
+	<Quest Id="9352" Name="Darnassian Intrusions">
+		<Objective Type="KillMob" MobId="15968" KillCount="1">
+			<Hotspots>
+				<Hotspot X="9121.22" Y="-6171.12" Z="35.5665" />
+				<Hotspot X="9005.09" Y="-6194.03" Z="23.3583" />
+				<Hotspot X="9045.06" Y="-6164.24" Z="30.2885" />
+				<Hotspot X="9089.52" Y="-6126.73" Z="35.8958" />
+				<Hotspot X="9039.11" Y="-6298.55" Z="22.6258" />
+			</Hotspots>
+		</Objective>
+	</Quest>
+	<Quest Id="9358" Name="Ranger Sareyn">
+	</Quest>
+	<Quest Id="9359" Name="Farstrider Retreat">
+	</Quest>
+	<Quest Id="9360" Name="Amani Invasion">
+		<Objective Type="CollectItem" ItemId="23249" CollectCount="1">
+			<Hotspots>
+				<Hotspot X="8425.4" Y="-7566.3" Z="174.681" />
+			</Hotspots>
+		</Objective>
+		<Objective Type="KillMob" MobId="15407" KillCount="1">
+			<Hotspots>
+				<Hotspot X="8425.4" Y="-7566.3" Z="174.681" />
+			</Hotspots>
+		</Objective>
+	</Quest>
+	<Quest Id="9363" Name="Warning Fairbreeze Village">
+	</Quest>
+	<Quest Id="9394" Name="Where&apos;s Wyllithen?">
+	</Quest>
+	<Quest Id="9395" Name="Saltheril&apos;s Haven">
+	</Quest>
+	<Quest Id="9704" Name="Slain by the Wretched">
+	</Quest>
+	<Quest Id="9705" Name="Package Recovery">
+		<Objective Type="CollectItem" ItemId="20804" CollectCount="1">
+		</Objective>
+	</Quest>
+	<Quest Id="421" Name="Prove Your Worth">
+		<Objective Type="KillMob" MobId="1769" KillCount="5">
+			<Hotspots>
+				<Hotspot X="1000.84" Y="1159.94" Z="49.1103" />
+				<Hotspot X="1113.59" Y="1111.84" Z="41.3153" />
+				<Hotspot X="1107.61" Y="1137.6" Z="44.1844" />
+				<Hotspot X="1058.75" Y="1142.8" Z="43.2838" />
+				<Hotspot X="932.549" Y="1237.23" Z="47.0936" />
+				<Hotspot X="919.399" Y="1223.84" Z="46.7811" />
+			</Hotspots>
+		</Objective>
+	</Quest>
+	<Quest Id="422" Name="Arugal&apos;s Folly">
+		<Objective Type="CollectItem" ItemId="3155" CollectCount="1">
+		</Objective>
+	</Quest>
+	<Quest Id="428" Name="Lost Deathstalkers">
+	</Quest>
+	<Quest Id="429" Name="Wild Hearts">
+		<Objective Type="CollectItem" ItemId="3164" CollectCount="6">
+			<Hotspots>
+				<Hotspot X="1376.31" Y="679.446" Z="39.7203" />
+				<Hotspot X="1513.06" Y="555.113" Z="52.3071" />
+				<Hotspot X="1353.13" Y="719.534" Z="35.5323" />
+				<Hotspot X="1501.68" Y="728.545" Z="44.2541" />
+				<Hotspot X="1490.29" Y="580.927" Z="53.0487" />
+				<Hotspot X="1448.39" Y="548.308" Z="50.9762" />
+			</Hotspots>
+		</Objective>
+	</Quest>
+	<Quest Id="435" Name="Escorting Erland">
+	</Quest>
+	<Quest Id="437" Name="The Dead Fields">
+		<Objective Type="CollectItem" ItemId="3622" CollectCount="1">
+			<Hotspots>
+				<Hotspot X="1073.84" Y="1543.37" Z="28.6752" />
+			</Hotspots>
+		</Objective>
+		<Objective Type="KillMob" MobId="1983" KillCount="1">
+			<Hotspots>
+				<Hotspot X="1073.84" Y="1543.37" Z="28.6752" />
+			</Hotspots>
+		</Objective>
+	</Quest>
+	<Quest Id="447" Name="A Recipe For Death">
+		<Objective Type="CollectItem" ItemId="3253" CollectCount="6">
+			<Hotspots>
+				<Hotspot X="1268.41" Y="1389.86" Z="48.9957" />
+				<Hotspot X="1248.44" Y="1306.71" Z="45.5006" />
+				<Hotspot X="1148.69" Y="1332.77" Z="33.1924" />
+				<Hotspot X="976.378" Y="1581.2" Z="32.2575" />
+				<Hotspot X="937.697" Y="1517.39" Z="40.0309" />
+				<Hotspot X="1015.48" Y="1436.06" Z="47.1773" />
+			</Hotspots>
+		</Objective>
+		<Objective Type="CollectItem" ItemId="3254" CollectCount="6">
+			<Hotspots>
+				<Hotspot X="1310.57" Y="1988.27" Z="14.2705" />
+				<Hotspot X="1260.01" Y="1977.84" Z="16.4491" />
+				<Hotspot X="1240.55" Y="2014.81" Z="13.7392" />
+				<Hotspot X="1221.11" Y="1887.73" Z="11.5197" />
+				<Hotspot X="1245.92" Y="1951.19" Z="12.3655" />
+				<Hotspot X="1379.21" Y="1960.81" Z="15.2344" />
+				<Hotspot X="1411.07" Y="2008.79" Z="14.0618" />
+			</Hotspots>
+		</Objective>
+	</Quest>
+	<Quest Id="840" Name="Conscript of the Horde">
+		<Objective Type="CollectItem" ItemId="4992" CollectCount="1">
+		</Objective>
+	</Quest>
+
+	<QuestOrder>
+		<CustomBehavior File="UserSettings" LootMobs="True" TrainNewSkills="True" FindVendorsAutomatically="True" LearnFlightPaths="True" UseFlightPaths="True" PullDistance="25" />
+
+		<!-- ======================================================== -->
+		<!-- ZYGOR STEP 1-3: Reclaiming Sunstrider Isle -->
+		<!-- ======================================================== -->
+		<PickUp QuestName="Reclaiming Sunstrider Isle" QuestId="8325" GiverName="Magistrix Erona" GiverId="15278" X="10352.0" Y="-6359.93" Z="34.1146" />
+		<RunTo X="10187.8" Y="-6347.56" Z="30.459" QuestId="8325" />
+		<Objective QuestName="Reclaiming Sunstrider Isle" QuestId="8325" Type="KillMob" MobId="15274" KillCount="8" />
+		<TurnIn QuestName="Reclaiming Sunstrider Isle" QuestId="8325" TurnInName="Magistrix Erona" TurnInId="15278" X="10352.0" Y="-6359.93" Z="34.1146" />
+
+		<!-- ======================================================== -->
+		<!-- ZYGOR STEP 4: Unfortunate Measures + Class Quests -->
+		<!-- ======================================================== -->
+		<PickUp QuestName="Unfortunate Measures" QuestId="8326" GiverName="Magistrix Erona" GiverId="15278" X="10352.0" Y="-6359.93" Z="34.1146" />
+
+		<!-- ======================================================== -->
+		<!-- ZYGOR STEP 11-14: Solanian + Ithanas + Helion -->
+		<!-- ======================================================== -->
+		<PickUp QuestName="Solanian&apos;s Belongings" QuestId="8330" GiverName="Well Watcher Solanian" GiverId="15295" X="10406.0" Y="-6396.24" Z="52.1757" />
+		<PickUp QuestName="The Shrine of Dath&apos;Remar" QuestId="8345" GiverName="Well Watcher Solanian" GiverId="15295" X="10406.0" Y="-6396.24" Z="52.1757" />
+		<PickUp QuestName="A Fistful of Slivers" QuestId="8336" GiverName="Arcanist Ithanas" GiverId="15296" X="10413.7" Y="-6372.46" Z="35.7242" />
+		<PickUp QuestName="Thirst Unending" QuestId="8346" GiverName="Arcanist Helion" GiverId="15297" X="10419.7" Y="-6318.62" Z="35.6568" />
+
+		<!-- ======================================================== -->
+		<!-- ZYGOR STEP 15: Arcane Torrent (Thirst Unending) + Slivers + Unfortunate Measures -->
+		<!-- Все три задания - Mana Wyrm area (одна зона) -->
+		<!-- ======================================================== -->
+		<While Condition="((HasQuest(8346)) &amp;&amp; (!IsQuestCompleted(8346)))">
+			<CustomBehavior File="CastSpellOn" QuestId="8346" MobId="15274" SpellId="28730" NumOfTimes="1" Range="8" MinRange="3" MobHpPercentLeft="100" X="10206.3" Y="-6307.28" Z="26.9459" />
+		</While>
+		<Objective QuestName="A Fistful of Slivers" QuestId="8336" Type="CollectItem" ItemId="20482" CollectCount="6" />
+
+		<!-- ======================================================== -->
+		<!-- ZYGOR STEP 16: Unfortunate Measures - Springpaw area -->
+		<!-- ======================================================== -->
+		<Objective QuestName="Unfortunate Measures" QuestId="8326" Type="CollectItem" ItemId="20797" CollectCount="8" />
+		<TurnIn QuestName="Unfortunate Measures" QuestId="8326" TurnInName="Magistrix Erona" TurnInId="15278" X="10352.0" Y="-6359.93" Z="34.1146" />
+		<PickUp QuestName="Report to Lanthan Perilon" QuestId="8327" GiverName="Magistrix Erona" GiverId="15278" X="10352.0" Y="-6359.93" Z="34.1146" />
+
+		<!-- ======================================================== -->
+		<!-- ZYGOR STEP 19-20: Turn in Slivers + Thirst -->
+		<!-- ======================================================== -->
+		<TurnIn QuestName="A Fistful of Slivers" QuestId="8336" TurnInName="Arcanist Ithanas" TurnInId="15296" X="10413.7" Y="-6372.46" Z="35.7242" />
+		<TurnIn QuestName="Thirst Unending" QuestId="8346" TurnInName="Arcanist Helion" TurnInId="15297" X="10419.7" Y="-6318.62" Z="35.6568" />
+
+		<!-- ======================================================== -->
+		<!-- ZYGOR STEP 21-23: Report + Aggression -->
+		<!-- ======================================================== -->
+		<TurnIn QuestName="Report to Lanthan Perilon" QuestId="8327" TurnInName="Lanthan Perilon" TurnInId="15281" X="10302.3" Y="-6229.3" Z="26.7049" />
+		<PickUp QuestName="Aggression" QuestId="8334" GiverName="Lanthan Perilon" GiverId="15281" X="10302.3" Y="-6229.3" Z="26.7049" />
+		<RunTo X="10105.3" Y="-6423.38" Z="30.8718" QuestId="8334" />
+		<Objective QuestName="Aggression" QuestId="8334" Type="KillMob" MobId="15271" KillCount="7" />
+		<RunTo X="10096.0" Y="-6354.86" Z="11.5868" QuestId="8334" />
+		<Objective QuestName="Aggression" QuestId="8334" Type="KillMob" MobId="15294" KillCount="7" />
+
+		<!-- ======================================================== -->
+		<!-- ZYGOR STEP 24-27: Shrine + Solanian Belongings (по пути от Aggression) -->
+		<!-- Quest 8345 — QuestProfileEditor: If/MyCTM approach + Objective UseObject -->
+		<!-- Object 180516 on wall: 10405.8, -5946.01, 42.5082                    -->
+		<!-- Scroll of Scourge Magic: X=10296.56 Y=-6030.346                        -->
+		<!-- Scrying Orb: X=10091.08 Y=-6216.918                                    -->
+		<!-- Journal: X=10221.65 Y=-6342.844                                        -->
+		<!-- ======================================================== -->
+		<If Condition="HasQuest(8345) &amp;&amp; !IsQuestCompleted(8345)">
+			<CustomBehavior File="MyCTM" QuestId="8345" X="10404.059" Y="-5948.356" Z="41.25197" />
+			<CustomBehavior File="MyCTM" QuestId="8345" X="10404.12" Y="-5947.504" Z="41.28845" />
+			<CustomBehavior File="MyCTM" QuestId="8345" X="10403.45" Y="-5949.631" Z="41.17837" />
+		</If>
+		<Objective QuestName="The Shrine of Dath&apos;Remar" QuestId="8345" Type="UseObject" ObjectId="180516" UseCount="1" />
+		<While Condition="HasQuest(8330) &amp;&amp; !IsQuestCompleted(8330) &amp;&amp; !Me.CarriedItems.Any(i => i.Entry == 20471)">
+			<CustomBehavior File="InteractWith" QuestId="8330" MobId="180511" MobType="GameObject" Loot="True" CollectionDistance="50" Range="5" NumOfTimes="1" WaitTime="3000" X="10296.56" Y="-6030.346" Z="28.44278" />
+		</While>
+		<While Condition="HasQuest(8330) &amp;&amp; !IsQuestCompleted(8330) &amp;&amp; !Me.CarriedItems.Any(i => i.Entry == 20470)">
+			<CustomBehavior File="InteractWith" QuestId="8330" MobId="180510" MobType="GameObject" Loot="True" CollectionDistance="50" Range="5" NumOfTimes="1" WaitTime="3000" X="10091.08" Y="-6216.918" Z="16.66722" />
+		</While>
+		<While Condition="HasQuest(8330) &amp;&amp; !IsQuestCompleted(8330) &amp;&amp; !Me.CarriedItems.Any(i => i.Entry == 20472)">
+			<CustomBehavior File="InteractWith" QuestId="8330" MobId="180512" MobType="GameObject" Loot="True" CollectionDistance="50" Range="5" NumOfTimes="1" WaitTime="3000" X="10221.65" Y="-6342.844" Z="30.84069" />
+		</While>
+
+		<!-- ======================================================== -->
+		<!-- ZYGOR STEP 28-29: Turn in Solanian + Aggression → Felendren -->
+		<!-- ======================================================== -->
+		<TurnIn QuestName="Solanian&apos;s Belongings" QuestId="8330" TurnInName="Well Watcher Solanian" TurnInId="15295" X="10406.0" Y="-6396.24" Z="52.1757" />
+		<TurnIn QuestName="The Shrine of Dath&apos;Remar" QuestId="8345" TurnInName="Well Watcher Solanian" TurnInId="15295" X="10406.0" Y="-6396.24" Z="52.1757" />
+		<TurnIn QuestName="Aggression" QuestId="8334" TurnInName="Lanthan Perilon" TurnInId="15281" X="10302.3" Y="-6229.3" Z="26.7049" />
+		<PickUp QuestName="Felendren the Banished" QuestId="8335" GiverName="Lanthan Perilon" GiverId="15281" X="10302.3" Y="-6229.3" Z="26.7049" />
+
+		<!-- ======================================================== -->
+		<!-- ZYGOR STEP 30: Felendren - Arcane Wraith/Tainted + Tainted Arcane Sliver (на месте) -->
+		<!-- ======================================================== -->
+		<RunTo X="10235.4" Y="-5984.8" Z="38.944" QuestId="8335" />
+		<Objective QuestName="Felendren the Banished" QuestId="8335" Type="KillMob" MobId="15273" KillCount="8" />
+		<RunTo X="10158.0" Y="-6026.5" Z="63.7448" QuestId="8335" />
+		<Objective QuestName="Felendren the Banished" QuestId="8335" Type="KillMob" MobId="15298" KillCount="2" />
+		<!-- Убив Tainted Arcane Wraith, сразу подбираем Sliver и принимаем квест 8338 -->
+		<If Condition="!HasQuest(8338) &amp;&amp; !Me.CarriedItems.Any(i => i.Entry == 20483)">
+			<Objective QuestName="Tainted Arcane Sliver" QuestId="8338" Type="CollectItem" ItemId="20483" CollectCount="1" />
+		</If>
+		<If Condition="!HasQuest(8338) &amp;&amp; Me.CarriedItems.Any(i => i.Entry == 20483)">
+			<CustomBehavior File="Misc\RunLua" Lua="for b=0,4 do for s=1,GetContainerNumSlots(b) do local l=GetContainerItemLink(b,s) if l and l:find(&quot;item:20483&quot;) then UseContainerItem(b,s) return end end end" WaitTime="2000" />
+		</If>
+
+		<!-- ======================================================== -->
+		<!-- ZYGOR STEP 31: Felendren босс на вершине башни -->
+		<!-- ======================================================== -->
+		<RunTo X="10150.9" Y="-6006.24" Z="110.15398" QuestId="8335" />
+		<Objective QuestName="Felendren the Banished" QuestId="8335" Type="CollectItem" ItemId="20799" CollectCount="1" />
+
+		<!-- ======================================================== -->
+		<!-- ZYGOR STEP 32-34: Turn in Felendren → Aiding the Outrunners + Tainted Arcane Sliver -->
+		<!-- ======================================================== -->
+		<TurnIn QuestName="Felendren the Banished" QuestId="8335" TurnInName="Lanthan Perilon" TurnInId="15281" X="10302.3" Y="-6229.3" Z="26.7049" />
+		<CustomBehavior File="Misc\RunLua" Lua="if QuestFrameRewardPanel and QuestFrameRewardPanel:IsVisible() then GetQuestReward(2) end" WaitTime="2000" />
+		<PickUp QuestName="Aiding the Outrunners" QuestId="8347" GiverName="Lanthan Perilon" GiverId="15281" X="10302.3" Y="-6229.3" Z="26.7049" />
+		<TurnIn QuestName="Tainted Arcane Sliver" QuestId="8338" TurnInName="Arcanist Helion" TurnInId="15297" X="10419.7" Y="-6318.62" Z="35.6568" />
+
+		<!-- ======================================================== -->
+		<!-- ZYGOR STEP 35-38: Outrunners → Slain Outrunner → Package Recovery -->
+		<!-- ======================================================== -->
+		<RunTo X="9984.04" Y="-6478.02" Z="1.0799" QuestId="8347" />
+		<TurnIn QuestName="Aiding the Outrunners" QuestId="8347" TurnInName="Outrunner Alarion" TurnInId="15301" X="9984.04" Y="-6478.02" Z="1.0799" />
+		<PickUp QuestName="Slain by the Wretched" QuestId="9704" GiverName="Outrunner Alarion" GiverId="15301" X="9984.04" Y="-6478.02" Z="1.0799" />
+		<TurnIn QuestName="Slain by the Wretched" QuestId="9704" TurnInName="Slain Outrunner" TurnInId="17849" X="9871" Y="-6557.19" Z="10.299662" />
+		<PickUp QuestName="Package Recovery" QuestId="9705" GiverName="Slain Outrunner" GiverId="17849" X="9871" Y="-6557.19" Z="10.299662" />
+		<TurnIn QuestName="Package Recovery" QuestId="9705" TurnInName="Outrunner Alarion" TurnInId="15301" X="9984.04" Y="-6478.02" Z="1.0799" />
+		<PickUp QuestName="Completing the Delivery" QuestId="8350" GiverName="Outrunner Alarion" GiverId="15301" X="9984.04" Y="-6478.02" Z="1.0799" />
+
+		<!-- ======================================================== -->
+		<!-- ZYGOR STEP 39-48: Falconwing Square (Major Malfunction, Unstable Crystals, Thaelis) -->
+		<!-- ======================================================== -->
+		<PickUp QuestName="Major Malfunction" QuestId="8472" GiverName="Magister Jaronis" GiverId="15418" X="9521.17" Y="-6814.85" Z="16.5752" />
+		<TurnIn QuestName="Completing the Delivery" QuestId="8350" TurnInName="Innkeeper Delaniel" TurnInId="15433" X="9476.91" Y="-6859.21" Z="17.4246" />
+		<PickUp QuestName="Unstable Mana Crystals" QuestId="8463" GiverName="Aeldon Sunbrand" GiverId="15403" X="9531.33" Y="-6859.75" Z="18.7898" />
+		<PickUp QuestName="Wanted: Thaelis the Hungerer" QuestId="8468" GiverName="Wanted: Thaelis the Hungerer" GiverId="180918" GiverType="Object" X="9522.12" Y="-6860.65" Z="18.7132" />
+
+		<!-- ZYGOR STEP 44-45: Кристаллы + Arcane Core + Thaelis (одна зона) -->
+		<If Condition="HasQuest(8468) &amp;&amp; !IsQuestCompleted(8468)">
+			<RunTo X="9804.5" Y="-6704.95" Z="2.6091256" QuestId="8468" />
+			<Objective QuestName="Wanted: Thaelis the Hungerer" QuestId="8468" Type="CollectItem" ItemId="21781" CollectCount="1" />
+		</If>
+		<Objective QuestName="Unstable Mana Crystals" QuestId="8463" Type="CollectItem" ItemId="20743" CollectCount="6" />
+		<Objective QuestName="Major Malfunction" QuestId="8472" Type="CollectItem" ItemId="21808" CollectCount="6" />
+
+		<!-- ZYGOR STEP 46-49: Turn in's в Falconwing Square -->
+		<TurnIn QuestName="Major Malfunction" QuestId="8472" TurnInName="Magister Jaronis" TurnInId="15418" X="9521.17" Y="-6814.85" Z="16.5752" />
+		<PickUp QuestName="Delivery to the North Sanctum" QuestId="8895" GiverName="Magister Jaronis" GiverId="15418" X="9521.17" Y="-6814.85" Z="16.5752" />
+		<If Condition="HasQuest(8468) &amp;&amp; (IsQuestCompleted(8468) || Me.CarriedItems.Any(i => i.Entry == 21781))">
+			<TurnIn QuestName="Wanted: Thaelis the Hungerer" QuestId="8468" TurnInName="Sergeant Kan&apos;ren" TurnInId="16924" X="9512.21" Y="-6840.16" Z="16.4934" />
+		</If>
+		<TurnIn QuestName="Unstable Mana Crystals" QuestId="8463" TurnInName="Aeldon Sunbrand" TurnInId="15403" X="9531.33" Y="-6859.75" Z="18.7898" />
+		<PickUp QuestName="Darnassian Intrusions" QuestId="9352" GiverName="Aeldon Sunbrand" GiverId="15403" X="9531.33" Y="-6859.75" Z="18.7898" />
+
+		<!-- ======================================================== -->
+		<!-- ZYGOR STEP 50-55: North Sanctum → West Sanctum (Arcane Instability + Darnassian Intrusions) -->
+		<!-- ======================================================== -->
+		<TurnIn QuestName="Delivery to the North Sanctum" QuestId="8895" TurnInName="Ley-Keeper Caidanis" TurnInId="15405" X="9297.13" Y="-6685.43" Z="22.5423" />
+		<PickUp QuestName="Malfunction at the West Sanctum" QuestId="9119" GiverName="Ley-Keeper Caidanis" GiverId="15405" X="9297.13" Y="-6685.43" Z="22.5423" />
+		<!-- Принять Roadside Ambush у Apprentice Ralen по пути к West Sanctum -->
+		<PickUp QuestName="Roadside Ambush" QuestId="9035" GiverName="Apprentice Ralen" GiverId="15941" X="9188.76" Y="-6712.91" Z="25.997" />
+		<TurnIn QuestName="Malfunction at the West Sanctum" QuestId="9119" TurnInName="Ley-Keeper Velania" TurnInId="15401" X="9155.78" Y="-6294.84" Z="21.1295" />
+		<PickUp QuestName="Arcane Instability" QuestId="8486" GiverName="Ley-Keeper Velania" GiverId="15401" X="9155.78" Y="-6294.84" Z="21.1295" />
+
+		<!-- ZYGOR STEP 53-54: Arcane Instability + Darnassian Intrusions (одна зона - West Sanctum) -->
+		<RunTo X="9146.17" Y="-6248.99" Z="17.6942" QuestId="8486" />
+		<Objective QuestName="Arcane Instability" QuestId="8486" Type="KillMob" MobId="15647" KillCount="5" />
+		<Objective QuestName="Arcane Instability" QuestId="8486" Type="KillMob" MobId="15648" KillCount="5" />
+		<!-- Darnassian Scout убивается в той же зоне, Incriminating Documents подбирается автоматически -->
+		<Objective QuestName="Darnassian Intrusions" QuestId="9352" Type="KillMob" MobId="15968" KillCount="1" />
+		<If Condition="!HasQuest(8482) &amp;&amp; Me.CarriedItems.Any(i => i.Entry == 20765)">
+			<CustomBehavior File="Misc\RunLua" Lua="UseItemByName(20765)" WaitTime="2000" />
+		</If>
+
+		<!-- ZYGOR STEP 55: Turn in Arcane Instability + Darnassian Intrusions у Velania -->
+		<TurnIn QuestName="Arcane Instability" QuestId="8486" TurnInName="Ley-Keeper Velania" TurnInId="15401" X="9155.78" Y="-6294.84" Z="21.1295" />
+		<TurnIn QuestName="Darnassian Intrusions" QuestId="9352" TurnInName="Ley-Keeper Velania" TurnInId="15401" X="9155.78" Y="-6294.84" Z="21.1295" />
+
+		<!-- ======================================================== -->
+		<!-- ZYGOR STEP 57-59: Fish Heads + Kelisendra's Lost Rutters (одна зона - murlocs) -->
+		<!-- ======================================================== -->
+		<PickUp QuestName="Fish Heads, Fish Heads..." QuestId="8884" GiverName="Hathvelion Sungaze" GiverId="15920" X="9123.11" Y="-5959.77" Z="32.6951" />
+		<!-- Оба задания выполняются в одной зоне среди муrlocs -->
+		<Objective QuestName="Fish Heads, Fish Heads..." QuestId="8884" Type="CollectItem" ItemId="21757" CollectCount="8" />
+		<If Condition="!HasQuest(8887) &amp;&amp; !Me.CarriedItems.Any(i => i.Entry == 21776)">
+			<Objective QuestName="Captain Kelisendra&apos;s Lost Rutters" QuestId="8887" Type="CollectItem" ItemId="21776" CollectCount="1" />
+		</If>
+		<If Condition="!HasQuest(8887) &amp;&amp; Me.CarriedItems.Any(i => i.Entry == 21776)">
+			<CustomBehavior File="Misc\RunLua" Lua="for b=0,4 do for s=1,GetContainerNumSlots(b) do local l=GetContainerItemLink(b,s) if l and l:find(&quot;item:21776&quot;) then UseContainerItem(b,s) return end end end" WaitTime="2000" />
+		</If>
+		<TurnIn QuestName="Fish Heads, Fish Heads..." QuestId="8884" TurnInName="Hathvelion Sungaze" TurnInId="15920" X="9123.11" Y="-5959.77" Z="32.6951" />
+
+		<!-- ======================================================== -->
+		<!-- ZYGOR STEP 60-66: Captain Kelisendra + Lost Armaments + Grimscale Pirates + Wretched Ringleader -->
+		<!-- ======================================================== -->
+		<TurnIn QuestName="Captain Kelisendra&apos;s Lost Rutters" QuestId="8887" TurnInName="Captain Kelisendra" TurnInId="15921" X="8854.16" Y="-6278.03" Z="7.874" />
+		<PickUp QuestName="Grimscale Pirates!" QuestId="8886" GiverName="Captain Kelisendra" GiverId="15921" X="8854.16" Y="-6278.03" Z="7.874" />
+		<PickUp QuestName="Lost Armaments" QuestId="8480" GiverName="Velendris Whitemorn" GiverId="15404" X="8849.25" Y="-6278.24" Z="8.0203" />
+		<!-- Оба задания в одной зоне - пиратский лагерь муrlocs -->
+		<Objective QuestName="Lost Armaments" QuestId="8480" Type="CollectItem" ItemId="22413" CollectCount="8" />
+		<Objective QuestName="Grimscale Pirates!" QuestId="8886" Type="CollectItem" ItemId="21771" CollectCount="6" />
+		<TurnIn QuestName="Grimscale Pirates!" QuestId="8886" TurnInName="Captain Kelisendra" TurnInId="15921" X="8854.16" Y="-6278.03" Z="7.874" />
+		<TurnIn QuestName="Lost Armaments" QuestId="8480" TurnInName="Velendris Whitemorn" TurnInId="15404" X="8849.25" Y="-6278.24" Z="8.0203" />
+		<PickUp QuestName="Wretched Ringleader" QuestId="9076" GiverName="Velendris Whitemorn" GiverId="15404" X="8849.25" Y="-6278.24" Z="8.0203" />
+		<If Condition="HasQuest(9076) &amp;&amp; !IsQuestCompleted(9076)">
+			<RunTo X="8763.01" Y="-6103.01" Z="73.159" QuestId="9076" />
+			<Objective QuestName="Wretched Ringleader" QuestId="9076" Type="KillMob" MobId="16294" KillCount="1" />
+		</If>
+		<TurnIn QuestName="Wretched Ringleader" QuestId="9076" TurnInName="Velendris Whitemorn" TurnInId="15404" X="8849.25" Y="-6278.24" Z="8.0203" />
+
+		<!-- ======================================================== -->
+		<!-- ZYGOR STEP 67-72: Fairbreeze Village - взять все квесты -->
+		<!-- ======================================================== -->
+		<PickUp QuestName="Pelt Collection" QuestId="8491" GiverName="Velan Brightoak" GiverId="15417" X="8755.61" Y="-6690.05" Z="69.6853" />
+		<PickUp QuestName="Saltheril&apos;s Haven" QuestId="9395" GiverName="Magistrix Landra Dawnstrider" GiverId="16210" X="8718.34" Y="-6655.9" Z="72.8381" />
+		<PickUp QuestName="The Wayward Apprentice" QuestId="9254" GiverName="Magistrix Landra Dawnstrider" GiverId="16210" X="8718.34" Y="-6655.9" Z="72.8381" />
+		<PickUp QuestName="Ranger Sareyn" QuestId="9358" GiverName="Marniel Amberlight" GiverId="15397" X="8700.38" Y="-6638.36" Z="72.8276" />
+		<PickUp QuestName="Situation at Sunsail Anchorage" QuestId="8892" GiverName="Ranger Degolien" GiverId="15939" X="8716.27" Y="-6622.22" Z="80.7642" />
+
+		<!-- ======================================================== -->
+		<!-- ZYGOR STEP 72-74: Roadside Ambush → Soaked Pages → Taking the Fall -->
+		<!-- ======================================================== -->
+		<TurnIn QuestName="Roadside Ambush" QuestId="9035" TurnInName="Apprentice Meledor" TurnInId="15945" X="9037.79" Y="-6697.62" Z="12.6447" />
+		<PickUp QuestName="Soaked Pages" QuestId="9062" GiverName="Apprentice Meledor" GiverId="15945" X="9037.79" Y="-6697.62" Z="12.6447" />
+		<TurnIn QuestName="Soaked Pages" QuestId="9062" TurnInName="Apprentice Meledor" TurnInId="15945" X="9037.79" Y="-6697.62" Z="12.6447" />
+		<PickUp QuestName="Taking the Fall" QuestId="9064" GiverName="Apprentice Meledor" GiverId="15945" X="9037.79" Y="-6697.62" Z="12.6447" />
+
+		<!-- ======================================================== -->
+		<!-- ZYGOR STEP 75-77: Incriminating Documents → Dwarven Spy (Falconwing + North Sanctum) -->
+		<!-- ======================================================== -->
+		<If Condition="!HasQuest(8482) &amp;&amp; !Me.CarriedItems.Any(i => i.Entry == 20765)">
+			<Objective QuestName="Incriminating Documents" QuestId="8482" Type="CollectItem" ItemId="20765" CollectCount="1" />
+		</If>
+		<If Condition="!HasQuest(8482) &amp;&amp; Me.CarriedItems.Any(i => i.Entry == 20765)">
+			<CustomBehavior File="Misc\RunLua" Lua="for b=0,4 do for s=1,GetContainerNumSlots(b) do local l=GetContainerItemLink(b,s) if l and l:find(&quot;item:20765&quot;) then UseContainerItem(b,s) return end end end" WaitTime="2000" />
+		</If>
+		<TurnIn QuestName="Incriminating Documents" QuestId="8482" TurnInName="Aeldon Sunbrand" TurnInId="15403" X="9531.33" Y="-6859.75" Z="18.7898" />
+		<PickUp QuestName="The Dwarven Spy" QuestId="8483" GiverName="Aeldon Sunbrand" GiverId="15403" X="9531.33" Y="-6859.75" Z="18.7898" />
+		<TurnIn QuestName="The Dwarven Spy" QuestId="8483" TurnInName="Aeldon Sunbrand" TurnInId="15403" X="9531.33" Y="-6859.75" Z="18.7898" />
+
+		<!-- ======================================================== -->
+		<!-- ZYGOR STEP 78-80: The Dead Scar -->
+		<!-- ======================================================== -->
+		<PickUp QuestName="The Dead Scar" QuestId="8475" GiverName="Ranger Jaela" GiverId="15416" X="9374.84" Y="-6966.58" Z="18.1612" />
+		<RunTo X="9319.04" Y="-6990.06" Z="16.2523" QuestId="8475" />
+		<Objective QuestName="The Dead Scar" QuestId="8475" Type="KillMob" MobId="15654" KillCount="8" />
+		<TurnIn QuestName="The Dead Scar" QuestId="8475" TurnInName="Ranger Jaela" TurnInId="15416" X="9374.84" Y="-6966.58" Z="18.1612" />
+
+		<!-- ======================================================== -->
+		<!-- ZYGOR STEP 81: Taking the Fall → Swift Discipline -->
+		<!-- ======================================================== -->
+		<TurnIn QuestName="Taking the Fall" QuestId="9064" TurnInName="Instructor Antheol" TurnInId="15970" X="9251.98" Y="-7230.74" Z="16.4737" />
+		<PickUp QuestName="Swift Discipline" QuestId="9066" GiverName="Instructor Antheol" GiverId="15970" X="9251.98" Y="-7230.74" Z="16.4737" />
+
+		<!-- ======================================================== -->
+		<!-- ZYGOR STEP 82-85: The Wayward Apprentice → Corrupted Soil → Unexpected Results → Research Notes -->
+		<!-- ======================================================== -->
+		<If Condition="HasQuest(9254)">
+			<TurnIn QuestName="The Wayward Apprentice" QuestId="9254" TurnInName="Apprentice Mirveda" TurnInId="15402" X="8711.23" Y="-7160.89" Z="43.6012" />
+		</If>
+		<PickUp QuestName="Corrupted Soil" QuestId="8487" GiverName="Apprentice Mirveda" GiverId="15402" X="8711.23" Y="-7160.89" Z="43.6012" />
+		<Objective QuestName="Corrupted Soil" QuestId="8487" Type="CollectItem" ItemId="20771" CollectCount="8" />
+		<TurnIn QuestName="Corrupted Soil" QuestId="8487" TurnInName="Apprentice Mirveda" TurnInId="15402" X="8711.23" Y="-7160.89" Z="43.6012" />
+		<PickUp QuestName="Unexpected Results" QuestId="8488" GiverName="Apprentice Mirveda" GiverId="15402" X="8711.23" Y="-7160.89" Z="43.6012" />
+		<!-- Protect Mirveda, then auto turn in -->
+		<TurnIn QuestName="Unexpected Results" QuestId="8488" TurnInName="Apprentice Mirveda" TurnInId="15402" X="8711.23" Y="-7160.89" Z="43.6012" />
+		<PickUp QuestName="Research Notes" QuestId="9255" GiverName="Apprentice Mirveda" GiverId="15402" X="8711.23" Y="-7160.89" Z="43.6012" />
+		<TurnIn QuestName="Research Notes" QuestId="9255" TurnInName="Magistrix Landra Dawnstrider" TurnInId="16210" X="8718.34" Y="-6655.9" Z="72.8381" />
+
+		<!-- ======================================================== -->
+		<!-- ZYGOR STEP 87-89: Ranger Sareyn → Defending Fairbreeze Village -->
+		<!-- ======================================================== -->
+		<TurnIn QuestName="Ranger Sareyn" QuestId="9358" TurnInName="Ranger Sareyn" TurnInId="15942" X="8684.63" Y="-6798.71" Z="94.0984" />
+		<PickUp QuestName="Defending Fairbreeze Village" QuestId="9252" GiverName="Ranger Sareyn" GiverId="15942" X="8684.63" Y="-6798.71" Z="94.0984" />
+		<RunTo X="8743.88" Y="-7145.57" Z="35.3512" QuestId="9252" />
+		<Objective QuestName="Defending Fairbreeze Village" QuestId="9252" Type="KillMob" MobId="15658" KillCount="4" />
+		<RunTo X="8115.51" Y="-6785.53" Z="69.3076" QuestId="9252" />
+		<Objective QuestName="Defending Fairbreeze Village" QuestId="9252" Type="KillMob" MobId="15657" KillCount="4" />
+		<TurnIn QuestName="Defending Fairbreeze Village" QuestId="9252" TurnInName="Ranger Sareyn" TurnInId="15942" X="8684.63" Y="-6798.71" Z="94.0984" />
+
+		<!-- ======================================================== -->
+		<!-- ZYGOR STEP 91: Saltheril's Haven → The Party Never Ends -->
+		<!-- ======================================================== -->
+		<If Condition="HasQuest(9395)">
+			<TurnIn QuestName="Saltheril&apos;s Haven" QuestId="9395" TurnInName="Lord Saltheril" TurnInId="16144" X="8626.61" Y="-6366.06" Z="55.4326" />
+		</If>
+		<PickUp QuestName="The Party Never Ends" QuestId="9067" GiverName="Lord Saltheril" GiverId="16144" X="8626.61" Y="-6366.06" Z="55.4326" />
+
+		<!-- ======================================================== -->
+		<!-- ZYGOR STEP 92-94: Situation at Sunsail Anchorage + Pelt Collection (параллельно) -->
+		<!-- ======================================================== -->
+		<RunTo X="8804.08" Y="-6099.0" Z="4.814" QuestId="8892" />
+		<Objective QuestName="Situation at Sunsail Anchorage" QuestId="8892" Type="KillMob" MobId="15645" KillCount="5" />
+		<Objective QuestName="Situation at Sunsail Anchorage" QuestId="8892" Type="KillMob" MobId="16162" KillCount="5" />
+		<Objective QuestName="Pelt Collection" QuestId="8491" Type="CollectItem" ItemId="20772" CollectCount="6" />
+		<TurnIn QuestName="Pelt Collection" QuestId="8491" TurnInName="Velan Brightoak" TurnInId="15417" X="8755.61" Y="-6690.05" Z="69.6853" />
+		<TurnIn QuestName="Situation at Sunsail Anchorage" QuestId="8892" TurnInName="Ranger Degolien" TurnInId="15939" X="8716.27" Y="-6622.22" Z="80.7642" />
+		<PickUp QuestName="Farstrider Retreat" QuestId="9359" GiverName="Ranger Degolien" GiverId="15939" X="8716.27" Y="-6622.22" Z="80.7642" />
+
+		<!-- ======================================================== -->
+		<!-- ZYGOR STEP 97-99: Swift Discipline (дисциплинируем учеников) -->
+		<!-- ======================================================== -->
+		<While Condition="HasQuest(9066) &amp;&amp; !IsQuestCompleted(9066)">
+			<CustomBehavior File="UseItemOn" QuestId="9066" MobId="15945" ItemId="22473" NumOfTimes="1" Range="5" CollectionDistance="1000" WaitTime="2000" X="9037.79" Y="-6697.62" Z="12.6447" />
+			<CustomBehavior File="UseItemOn" QuestId="9066" MobId="15941" ItemId="22473" NumOfTimes="1" Range="5" CollectionDistance="1000" WaitTime="2000" X="9188.76" Y="-6712.91" Z="25.997" />
+		</While>
+		<TurnIn QuestName="Swift Discipline" QuestId="9066" TurnInName="Instructor Antheol" TurnInId="15970" X="9251.98" Y="-7230.74" Z="16.4737" />
+
+		<!-- ======================================================== -->
+		<!-- ZYGOR STEP 124-138: Farstrider Retreat → Duskwither Spire (большой блок) -->
+		<!-- ======================================================== -->
+		<TurnIn QuestName="Farstrider Retreat" QuestId="9359" TurnInName="Lieutenant Dawnrunner" TurnInId="15399" X="8980.84" Y="-7458.36" Z="86.7743" />
+		<PickUp QuestName="Amani Encroachment" QuestId="8476" GiverName="Lieutenant Dawnrunner" GiverId="15399" X="8980.84" Y="-7458.36" Z="86.7743" />
+		<PickUp QuestName="The Spearcrafter&apos;s Hammer" QuestId="8477" GiverName="Arathel Sunforge" GiverId="15400" X="8986.43" Y="-7419.07" Z="89.4855" />
+		<PickUp QuestName="The Magister&apos;s Apprentice" QuestId="8888" GiverName="Magister Duskwither" GiverId="15951" X="9026.38" Y="-7457.56" Z="103.374" />
+
+		<!-- ZYGOR STEP 127-135: Duskwither Spire (Apprentice + Деактивация + Groundskeeper) -->
+		<TurnIn QuestName="The Magister&apos;s Apprentice" QuestId="8888" TurnInName="Apprentice Loralthalis" TurnInId="15924" X="9186.27" Y="-7827.28" Z="98.2947" />
+		<PickUp QuestName="Deactivating the Spire" QuestId="8889" GiverName="Apprentice Loralthalis" GiverId="15924" X="9186.27" Y="-7827.28" Z="98.2947" />
+		<PickUp QuestName="Where&apos;s Wyllithen?" QuestId="9394" GiverName="Apprentice Loralthalis" GiverId="15924" X="9186.27" Y="-7827.28" Z="98.2947" />
+		<!-- Деактивируем Power Sources (1-й, 2-й этаж, верхний) -->
+		<RunTo X="9335.96" Y="-7883.82" Z="144.475" QuestId="8889" />
+		<While Condition="HasQuest(8889) &amp;&amp; !IsQuestCompleted(8889) &amp;&amp; !Me.CarriedItems.Any(i => i.Entry == 180916)">
+			<CustomBehavior File="InteractWith" QuestId="8889" MobId="180916" MobType="GameObject" CollectionDistance="50" Range="5" NumOfTimes="1" WaitTime="3000" X="9335.96" Y="-7883.82" Z="144.475" />
+		</While>
+		<RunTo X="9336.0" Y="-7884.21" Z="161.0" QuestId="8889" />
+		<While Condition="HasQuest(8889) &amp;&amp; !IsQuestCompleted(8889) &amp;&amp; !Me.CarriedItems.Any(i => i.Entry == 180919)">
+			<CustomBehavior File="InteractWith" QuestId="8889" MobId="180919" MobType="GameObject" CollectionDistance="50" Range="5" NumOfTimes="1" WaitTime="3000" X="9336.0" Y="-7884.21" Z="161.0" />
+		</While>
+		<!-- Abandoned Investigations - Журнал на 2-м этаже -->
+		<PickUp QuestName="Abandoned Investigations" QuestId="8891" GiverName="Apprentice Loralthalis" GiverId="15924" X="9186.27" Y="-7827.28" Z="98.2947" />
+		<RunTo X="9290.02" Y="-7917.32" Z="178.928" QuestId="8889" />
+		<While Condition="HasQuest(8889) &amp;&amp; !IsQuestCompleted(8889) &amp;&amp; !Me.CarriedItems.Any(i => i.Entry == 180920)">
+			<CustomBehavior File="InteractWith" QuestId="8889" MobId="180920" MobType="GameObject" CollectionDistance="50" Range="5" NumOfTimes="1" WaitTime="3000" X="9290.02" Y="-7917.32" Z="178.928" />
+		</While>
+
+		<!-- ZYGOR STEP 133-135: Where's Wyllithen? + Cleaning up the Grounds -->
+		<TurnIn QuestName="Where&apos;s Wyllithen?" QuestId="9394" TurnInName="Groundskeeper Wyllithen" TurnInId="15969" X="9500.11" Y="-7871.48" Z="16.2059" />
+		<PickUp QuestName="Cleaning up the Grounds" QuestId="8894" GiverName="Groundskeeper Wyllithen" GiverId="15969" X="9500.11" Y="-7871.48" Z="16.2059" />
+		<RunTo X="9317.49" Y="-7868.12" Z="159.206" QuestId="8894" />
+		<Objective QuestName="Cleaning up the Grounds" QuestId="8894" Type="KillMob" MobId="15966" KillCount="6" />
+		<RunTo X="9266.1" Y="-7847.47" Z="74.9413" QuestId="8894" />
+		<Objective QuestName="Cleaning up the Grounds" QuestId="8894" Type="KillMob" MobId="15967" KillCount="6" />
+		<TurnIn QuestName="Cleaning up the Grounds" QuestId="8894" TurnInName="Groundskeeper Wyllithen" TurnInId="15969" X="9500.11" Y="-7871.48" Z="16.2059" />
+
+		<!-- ZYGOR STEP 136-138: Deactivating the Spire + Word + Abandoned Investigations -->
+		<TurnIn QuestName="Deactivating the Spire" QuestId="8889" TurnInName="Apprentice Loralthalis" TurnInId="15924" X="9186.27" Y="-7827.28" Z="98.2947" />
+		<PickUp QuestName="Word from the Spire" QuestId="8890" GiverName="Apprentice Loralthalis" GiverId="15924" X="9186.27" Y="-7827.28" Z="98.2947" />
+		<TurnIn QuestName="Word from the Spire" QuestId="8890" TurnInName="Magister Duskwither" TurnInId="15951" X="9026.38" Y="-7457.56" Z="103.374" />
+		<TurnIn QuestName="Abandoned Investigations" QuestId="8891" TurnInName="Magister Duskwither" TurnInId="15951" X="9026.38" Y="-7457.56" Z="103.374" />
+
+		<!-- ======================================================== -->
+		<!-- ZYGOR STEP 140-146: Amani Encroachment + Spearcrafter + Zul'Marosh + Amani Invasion -->
+		<!-- Все три задания в одной зоне - Amani camp -->
+		<!-- ======================================================== -->
+		<RunTo X="8857.26" Y="-7679.81" Z="137.108" QuestId="8476" />
+		<Objective QuestName="Amani Encroachment" QuestId="8476" Type="KillMob" MobId="15643" KillCount="5" />
+		<Objective QuestName="Amani Encroachment" QuestId="8476" Type="KillMob" MobId="15641" KillCount="5" />
+		<!-- Spearcrafter Otembe убивается в той же зоне -->
+		<Objective QuestName="The Spearcrafter&apos;s Hammer" QuestId="8477" Type="CollectItem" ItemId="20759" CollectCount="1" />
+		<!-- Принять Zul'Marosh у Ven'jashi (рядом с лагерем) -->
+		<PickUp QuestName="Zul&apos;Marosh" QuestId="8479" GiverName="Ven&apos;jashi" GiverId="15406" X="8666.61" Y="-7960.89" Z="151.876" />
+		<Objective QuestName="Zul&apos;Marosh" QuestId="8479" Type="CollectItem" ItemId="20760" CollectCount="1" />
+		<!-- Amani Invasion Plans подбираются с Зул'Мароша -->
+		<If Condition="!HasQuest(9360) &amp;&amp; !Me.CarriedItems.Any(i => i.Entry == 23249)">
+			<Objective QuestName="Amani Invasion" QuestId="9360" Type="CollectItem" ItemId="23249" CollectCount="1" />
+		</If>
+		<If Condition="!HasQuest(9360) &amp;&amp; Me.CarriedItems.Any(i => i.Entry == 23249)">
+			<CustomBehavior File="Misc\RunLua" Lua="for b=0,4 do for s=1,GetContainerNumSlots(b) do local l=GetContainerItemLink(b,s) if l and l:find(&quot;item:23249&quot;) then UseContainerItem(b,s) return end end end" WaitTime="2000" />
+		</If>
+		<TurnIn QuestName="Zul&apos;Marosh" QuestId="8479" TurnInName="Ven&apos;jashi" TurnInId="15406" X="8666.61" Y="-7960.89" Z="151.876" />
+
+		<!-- ZYGOR STEP 145-148: Turn in все у Lieutenant Dawnrunner + Spearcrafter + Warning Fairbreeze -->
+		<TurnIn QuestName="Amani Encroachment" QuestId="8476" TurnInName="Lieutenant Dawnrunner" TurnInId="15399" X="8980.84" Y="-7458.36" Z="86.7743" />
+		<TurnIn QuestName="Amani Invasion" QuestId="9360" TurnInName="Lieutenant Dawnrunner" TurnInId="15399" X="8980.84" Y="-7458.36" Z="86.7743" />
+		<PickUp QuestName="Warning Fairbreeze Village" QuestId="9363" GiverName="Lieutenant Dawnrunner" GiverId="15399" X="8980.84" Y="-7458.36" Z="86.7743" />
+		<TurnIn QuestName="The Spearcrafter&apos;s Hammer" QuestId="8477" TurnInName="Arathel Sunforge" TurnInId="15400" X="8986.43" Y="-7419.07" Z="89.4855" />
+
+		<!-- ZYGOR STEP 147-149: Hearthstone to Fairbreeze → Warning + Party Never Ends -->
+		<TurnIn QuestName="Warning Fairbreeze Village" QuestId="9363" TurnInName="Ranger Degolien" TurnInId="15939" X="8716.27" Y="-6622.22" Z="80.7642" />
+		<TurnIn QuestName="The Party Never Ends" QuestId="9067" TurnInName="Lord Saltheril" TurnInId="16144" X="8626.61" Y="-6366.06" Z="55.4326" />
+
+		<!-- ======================================================== -->
+		<!-- ZYGOR STEP 155-174: Silverpine Forest (Sepulcher) -->
+		<!-- ======================================================== -->
+		<PickUp QuestName="A Recipe For Death" QuestId="447" GiverName="Apothecary Renferrel" GiverId="1937" X="522.449" Y="1652.3" Z="125.843" />
+		<PickUp QuestName="Lost Deathstalkers" QuestId="428" GiverName="High Executor Hadrec" GiverId="1952" X="522.449" Y="1626.15" Z="104.997" />
+		<PickUp QuestName="The Dead Fields" QuestId="437" GiverName="High Executor Hadrec" GiverId="1952" X="522.449" Y="1626.15" Z="104.997" />
+		<PickUp QuestName="Prove Your Worth" QuestId="421" GiverName="Dalar Dawnweaver" GiverId="1938" X="552.829" Y="1593.87" Z="130.219" />
+		<!-- ZYGOR STEP 159: Kill Moonrage Whitescalp -->
+		<RunTo X="1000.84" Y="1159.94" Z="49.1103" QuestId="421" />
+		<Objective QuestName="Prove Your Worth" QuestId="421" Type="KillMob" MobId="1769" KillCount="5" />
+		<TurnIn QuestName="Prove Your Worth" QuestId="421" TurnInName="Dalar Dawnweaver" TurnInId="1938" X="552.829" Y="1593.87" Z="130.219" />
+		<PickUp QuestName="Arugal&apos;s Folly" QuestId="422" GiverName="Dalar Dawnweaver" GiverId="1938" X="552.829" Y="1593.87" Z="130.219" />
+		<!-- ZYGOR STEP 162-165: The Dead Fields + Recipe For Death (параллельно) -->
+		<RunTo X="1073.84" Y="1543.37" Z="28.6752" QuestId="437" />
+		<Objective QuestName="The Dead Fields" QuestId="437" Type="KillMob" MobId="1983" KillCount="1" />
+		<Objective QuestName="A Recipe For Death" QuestId="447" Type="CollectItem" ItemId="3253" CollectCount="6" />
+		<Objective QuestName="A Recipe For Death" QuestId="447" Type="CollectItem" ItemId="3254" CollectCount="6" />
+		<!-- ZYGOR STEP 166-169: Lost Deathstalkers → Wild Hearts → Escorting Erland -->
+		<TurnIn QuestName="Lost Deathstalkers" QuestId="428" TurnInName="Rane Yorick" TurnInId="1950" X="1290.69" Y="1204.7" Z="52.8049" />
+		<PickUp QuestName="Wild Hearts" QuestId="429" GiverName="Rane Yorick" GiverId="1950" X="1290.69" Y="1204.7" Z="52.8049" />
+		<Objective QuestName="Wild Hearts" QuestId="429" Type="CollectItem" ItemId="3164" CollectCount="6" />
+		<PickUp QuestName="Escorting Erland" QuestId="435" GiverName="Deathstalker Erland" GiverId="1978" X="1409.68" Y="1090.26" Z="53.7694" />
+		<TurnIn QuestName="Escorting Erland" QuestId="435" TurnInName="Rane Yorick" TurnInId="1950" X="1290.69" Y="1204.7" Z="52.8049" />
+		<!-- ZYGOR STEP 170-172: Turn in Arugal's Folly + Dead Fields + Wild Hearts -->
+		<TurnIn QuestName="Arugal&apos;s Folly" QuestId="422" TurnInName="Dalar Dawnweaver" TurnInId="1938" X="552.829" Y="1593.87" Z="130.219" />
+		<TurnIn QuestName="The Dead Fields" QuestId="437" TurnInName="High Executor Hadrec" TurnInId="1952" X="522.449" Y="1626.15" Z="104.997" />
+		<TurnIn QuestName="Wild Hearts" QuestId="429" TurnInName="Apothecary Renferrel" TurnInId="1937" X="522.449" Y="1652.3" Z="125.843" />
+		<!-- ZYGOR STEP 174: A Recipe For Death (Undercity) -->
+		<TurnIn QuestName="A Recipe For Death" QuestId="447" TurnInName="Master Apothecary Faranell" TurnInId="2055" X="1434.48" Y="404.854" Z="-85.1753" />
+
+		<!-- ======================================================== -->
+		<!-- ZYGOR STEP 181-182: Conscript of the Horde (Orgrimmar/Barrens) -->
+		<!-- ======================================================== -->
+		<PickUp QuestName="Conscript of the Horde" QuestId="840" GiverName="Takrin Pathseeker" GiverId="3336" X="271.805" Y="-4650.83" Z="11.7894" />
+		<CustomBehavior File="LoadProfile" ProfileName="02 - Main Guide (13-20)" />
+	</QuestOrder>
+</HBProfile>

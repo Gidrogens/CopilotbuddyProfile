@@ -1,0 +1,44 @@
+<HBProfile>
+	<Name>8345 Shrine Dath&apos;Remar — Quest Profile Editor</Name>
+	<MinLevel>1</MinLevel>
+	<MaxLevel>80</MaxLevel>
+	<MinDurability>0.2</MinDurability>
+	<SellGrey>True</SellGrey>
+	<SellWhite>True</SellWhite>
+	<SellGreen>True</SellGreen>
+	<SellBlue>True</SellBlue>
+	<SellPurple>True</SellPurple>
+	<MailGrey>True</MailGrey>
+	<MailWhite>True</MailWhite>
+	<MailGreen>True</MailGreen>
+	<MailBlue>True</MailBlue>
+	<MailPurple>True</MailPurple>
+	<TargetElites>False</TargetElites>
+
+	<!-- Quest Override: Object 180516 on wall at 10405.8, -5946.01, 42.5082 -->
+	<Quest Id="8345" Name="The Shrine of Dath&apos;Remar">
+		<Objective Type="UseObject" ObjectId="180516" UseCount="1">
+			<CollectFrom>
+				<GameObject Name="Shrine of Dath&apos;Remar" Id="180516" />
+			</CollectFrom>
+			<Hotspots>
+				<Hotspot X="10404.059" Y="-5948.356" Z="41.25197" />
+				<Hotspot X="10404.12" Y="-5947.504" Z="41.28845" />
+				<Hotspot X="10403.45" Y="-5949.631" Z="41.17837" />
+			</Hotspots>
+		</Objective>
+	</Quest>
+
+	<QuestOrder>
+		<PickUp QuestName="The Shrine of Dath&apos;Remar" QuestId="8345" GiverName="Well Watcher Solanian" GiverId="15295" X="10406.0" Y="-6396.24" Z="52.1757" />
+
+		<If Condition="HasQuest(8345) &amp;&amp; !IsQuestCompleted(8345)">
+			<CustomBehavior File="MyCTM" QuestId="8345" X="10404.059" Y="-5948.356" Z="41.25197" />
+			<CustomBehavior File="MyCTM" QuestId="8345" X="10404.12" Y="-5947.504" Z="41.28845" />
+			<CustomBehavior File="MyCTM" QuestId="8345" X="10403.45" Y="-5949.631" Z="41.17837" />
+		</If>
+		<Objective QuestName="The Shrine of Dath&apos;Remar" QuestId="8345" Type="UseObject" ObjectId="180516" UseCount="1" />
+
+		<TurnIn QuestName="The Shrine of Dath&apos;Remar" QuestId="8345" TurnInName="Well Watcher Solanian" TurnInId="15295" X="10406.0" Y="-6396.24" Z="52.1757" />
+	</QuestOrder>
+</HBProfile>

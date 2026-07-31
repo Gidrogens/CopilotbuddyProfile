@@ -1,0 +1,2167 @@
+<HBProfile>
+	<Name>New Kurumi prem\ork\15 - Outland (68-70)</Name>
+	<MinLevel>68</MinLevel>
+	<MaxLevel>70</MaxLevel>
+	<MinDurability>0.2</MinDurability>
+	<TargetElites>False</TargetElites>
+	<MinFreeBagSlots>2</MinFreeBagSlots>
+	<SellGrey>True</SellGrey>
+	<SellWhite>True</SellWhite>
+	<SellGreen>True</SellGreen>
+	<SellBlue>False</SellBlue>
+	<SellPurple>False</SellPurple>
+	<MailGrey>False</MailGrey>
+	<MailWhite>False</MailWhite>
+	<MailGreen>True</MailGreen>
+	<MailBlue>True</MailBlue>
+	<MailPurple>True</MailPurple>
+	<Vendors>
+		<Vendor Name="Blazzle" Entry="28344" Type="Repair" X="3063.41" Y="3677.57" Z="142.76" />
+		<Vendor Name="Kezzik the Striker" Entry="32405" Type="Repair" X="3066.45" Y="3638.87" Z="145.22" />
+		<Vendor Name="Boots" Entry="19617" Type="Food" X="3080.51" Y="3684.4" Z="142.53" />
+		<Vendor Name="Gant" Entry="19572" Type="Food" X="3073.64" Y="3656.38" Z="143.17" />
+		<Vendor Name="Kizzie" Entry="19574" Type="Sell" X="2953.86" Y="3636.46" Z="144.36" />
+		<Vendor Name="Apprentice Andrethan" Entry="20463" Type="Reagent" X="2290.12" Y="2266.04" Z="93.72" />
+		<Vendor Name="Qiff" Entry="19575" Type="Reagent" X="2975.46" Y="3663.07" Z="143.17" />
+		<Vendor Name="Dealer Dunar" Entry="20194" Type="Poison" X="3351.22" Y="2877.95" Z="144.25" />
+		<Vendor Name="Sab&apos;aoth" Entry="22479" Type="Poison" X="2954.91" Y="1782.12" Z="139.2" />
+		<Vendor Name="Leeni &quot;Smiley&quot; Smalls" Entry="33919" Type="General" X="3070.16" Y="3635.11" Z="143.86" />
+	</Vendors>
+	<AvoidMobs>
+	</AvoidMobs>
+	<Blackspots>
+	</Blackspots>
+	<Mailboxes>
+	</Mailboxes>
+
+	<Quest Id="10173" Name="The Archmage&apos;s Staff">
+		<Objective Type="CollectItem" ItemId="28292" CollectCount="1">
+			<Hotspots>
+				<Hotspot X="2683.67" Y="3123.88" Z="133.612" />
+			</Hotspots>
+		</Objective>
+		<Objective Type="CollectItem" ItemId="29207" CollectCount="1">
+		</Objective>
+		<Objective Type="KillMob" MobId="19493" KillCount="1">
+			<Hotspots>
+				<Hotspot X="2683.67" Y="3123.88" Z="133.612" />
+			</Hotspots>
+		</Objective>
+	</Quest>
+	<Quest Id="10174" Name="Curse of the Violet Tower">
+	</Quest>
+	<Quest Id="10182" Name="Battle-Mage Dathric">
+		<Objective Type="KillMob" MobId="19549" KillCount="1">
+			<Hotspots>
+				<Hotspot X="2228.32" Y="2312.22" Z="89.3019" />
+			</Hotspots>
+		</Objective>
+	</Quest>
+	<Quest Id="10183" Name="Off To Area 52">
+		<Objective Type="CollectItem" ItemId="28359" CollectCount="1">
+		</Objective>
+	</Quest>
+	<Quest Id="10184" Name="Malevolent Remnants">
+		<Objective Type="KillMob" MobId="19881" KillCount="20">
+			<Hotspots>
+				<Hotspot X="2129.45" Y="2280.65" Z="73.3939" />
+				<Hotspot X="2163.0" Y="2273.81" Z="76.4548" />
+				<Hotspot X="2124.64" Y="2227.63" Z="74.3648" />
+				<Hotspot X="2184.61" Y="2249.51" Z="76.4593" />
+				<Hotspot X="2141.29" Y="2213.89" Z="74.0071" />
+				<Hotspot X="2117.25" Y="2192.15" Z="72.0577" />
+				<Hotspot X="2101.89" Y="2212.08" Z="72.633" />
+				<Hotspot X="2219.91" Y="2181.85" Z="87.6843" />
+				<Hotspot X="2145.56" Y="2155.79" Z="74.5797" />
+				<Hotspot X="2206.96" Y="2174.29" Z="78.1792" />
+				<Hotspot X="2137.65" Y="2127.52" Z="66.2561" />
+				<Hotspot X="2217.2" Y="2177.24" Z="81.0629" />
+				<Hotspot X="2212.83" Y="2166.97" Z="83.0959" />
+				<Hotspot X="2136.01" Y="2145.88" Z="73.1028" />
+				<Hotspot X="2207.07" Y="2123.81" Z="73.5048" />
+				<Hotspot X="2211.66" Y="2095.09" Z="71.1183" />
+				<Hotspot X="2261.3" Y="2101.07" Z="69.2158" />
+				<Hotspot X="2311.42" Y="2107.84" Z="82.559" />
+				<Hotspot X="2294.97" Y="2150.97" Z="88.9858" />
+				<Hotspot X="2328.07" Y="2160.84" Z="87.668" />
+				<Hotspot X="2272.16" Y="2193.36" Z="91.1392" />
+				<Hotspot X="2317.09" Y="2169.56" Z="90.7438" />
+				<Hotspot X="2334.19" Y="2104.67" Z="84.7604" />
+				<Hotspot X="2325.4" Y="2090.25" Z="86.7391" />
+			</Hotspots>
+		</Objective>
+	</Quest>
+	<Quest Id="10185" Name="A Fate Worse Than Death">
+		<Objective Type="KillMob" MobId="18867" KillCount="10">
+			<Hotspots>
+				<Hotspot X="2248.62" Y="2373.09" Z="108.931" />
+				<Hotspot X="2248.17" Y="2422.3" Z="118.137" />
+				<Hotspot X="2219.74" Y="2427.55" Z="112.154" />
+				<Hotspot X="2171.36" Y="2399.93" Z="97.9997" />
+				<Hotspot X="2135.18" Y="2363.85" Z="74.4477" />
+				<Hotspot X="2181.69" Y="2381.58" Z="97.273" />
+				<Hotspot X="2114.83" Y="2356.22" Z="66.1369" />
+				<Hotspot X="2085.72" Y="2385.06" Z="65.5214" />
+				<Hotspot X="2215.17" Y="2370.35" Z="101.238" />
+				<Hotspot X="2212.4" Y="2305.32" Z="84.2147" />
+				<Hotspot X="2279.17" Y="2344.08" Z="110.226" />
+				<Hotspot X="2206.52" Y="2313.98" Z="85.804" />
+				<Hotspot X="2253.82" Y="2315.84" Z="93.0693" />
+			</Hotspots>
+		</Objective>
+		<Objective Type="KillMob" MobId="18866" KillCount="10">
+			<Hotspots>
+				<Hotspot X="2180.39" Y="2440.31" Z="104.837" />
+				<Hotspot X="2173.13" Y="2412.06" Z="102.207" />
+				<Hotspot X="2131.73" Y="2433.54" Z="89.9267" />
+				<Hotspot X="2188.89" Y="2283.46" Z="73.5119" />
+				<Hotspot X="2216.12" Y="2295.01" Z="81.3983" />
+				<Hotspot X="2248.03" Y="2286.21" Z="86.9455" />
+				<Hotspot X="2222.13" Y="2281.03" Z="82.0513" />
+				<Hotspot X="2290.24" Y="2360.72" Z="113.92" />
+				<Hotspot X="2281.94" Y="2313.42" Z="102.616" />
+				<Hotspot X="2186.84" Y="2220.45" Z="78.4004" />
+				<Hotspot X="2255.18" Y="2321.21" Z="94.8299" />
+				<Hotspot X="2195.36" Y="2322.1" Z="87.8142" />
+			</Hotspots>
+		</Objective>
+	</Quest>
+	<Quest Id="10186" Name="You&apos;re Hired!">
+		<Objective Type="CollectItem" ItemId="28364" CollectCount="10">
+		</Objective>
+	</Quest>
+	<Quest Id="10188" Name="The Sigil of Krasus">
+		<Objective Type="CollectItem" ItemId="28368" CollectCount="1">
+			<Hotspots>
+				<Hotspot X="2406.91" Y="2604.9" Z="134.775" />
+			</Hotspots>
+		</Objective>
+		<Objective Type="KillMob" MobId="19593" KillCount="1">
+			<Hotspots>
+				<Hotspot X="2406.91" Y="2604.9" Z="134.775" />
+			</Hotspots>
+		</Objective>
+	</Quest>
+	<Quest Id="10189" Name="Manaforge B&apos;naar">
+		<Objective Type="CollectItem" ItemId="28376" CollectCount="1">
+			<Hotspots>
+				<Hotspot X="3024.03" Y="3964.66" Z="156.178" />
+			</Hotspots>
+		</Objective>
+		<Objective Type="KillMob" MobId="19635" KillCount="1">
+			<Hotspots>
+				<Hotspot X="3024.03" Y="3964.66" Z="156.178" />
+			</Hotspots>
+		</Objective>
+	</Quest>
+	<Quest Id="10190" Name="Recharging the Batteries">
+		<Objective Type="KillMob" MobId="19595" KillCount="10">
+		</Objective>
+		<Objective Type="CollectItem" ItemId="28369" CollectCount="1">
+		</Objective>
+	</Quest>
+	<Quest Id="10191" Name="Mark V is Alive!">
+	</Quest>
+	<Quest Id="10192" Name="Krasus&apos;s Compendium">
+		<Objective Type="CollectItem" ItemId="28472" CollectCount="1">
+		</Objective>
+		<Objective Type="CollectItem" ItemId="28473" CollectCount="1">
+		</Objective>
+		<Objective Type="CollectItem" ItemId="28474" CollectCount="1">
+		</Objective>
+	</Quest>
+	<Quest Id="10193" Name="High Value Targets">
+		<Objective Type="KillMob" MobId="18857" KillCount="2">
+			<Hotspots>
+				<Hotspot X="2843.58" Y="4368.46" Z="140.813" />
+				<Hotspot X="2874.61" Y="4048.84" Z="157.104" />
+				<Hotspot X="2827.2" Y="4023.98" Z="148.458" />
+				<Hotspot X="2780.14" Y="4201.67" Z="178.93" />
+				<Hotspot X="2776.01" Y="4154.54" Z="181.336" />
+				<Hotspot X="2858.68" Y="4332.08" Z="148.305" />
+				<Hotspot X="2719.11" Y="4092.57" Z="191.749" />
+				<Hotspot X="2820.19" Y="4151.42" Z="162.599" />
+				<Hotspot X="2852.1" Y="3933.84" Z="155.058" />
+				<Hotspot X="2749.49" Y="3884.96" Z="141.417" />
+			</Hotspots>
+		</Objective>
+		<Objective Type="KillMob" MobId="18852" KillCount="6">
+			<Hotspots>
+				<Hotspot X="2829.79" Y="4365.04" Z="138.607" />
+				<Hotspot X="2851.53" Y="4345.92" Z="142.919" />
+				<Hotspot X="2852.51" Y="4339.02" Z="146.137" />
+				<Hotspot X="2832.29" Y="4336.32" Z="146.313" />
+				<Hotspot X="2934.98" Y="4180.37" Z="163.845" />
+				<Hotspot X="2900.88" Y="4175.57" Z="161.889" />
+				<Hotspot X="2914.1" Y="4181.6" Z="161.981" />
+				<Hotspot X="2796.7" Y="4209.6" Z="179.424" />
+				<Hotspot X="2786.42" Y="4217.18" Z="177.129" />
+				<Hotspot X="2803.67" Y="4243.38" Z="171.757" />
+				<Hotspot X="2781.99" Y="4221.34" Z="177.574" />
+				<Hotspot X="2792.75" Y="4250.1" Z="172.871" />
+				<Hotspot X="2859.34" Y="4327.55" Z="149.079" />
+				<Hotspot X="2840.91" Y="4373.2" Z="138.791" />
+				<Hotspot X="2837.44" Y="4357.74" Z="142.127" />
+				<Hotspot X="2769.02" Y="4226.05" Z="180.163" />
+				<Hotspot X="2765.98" Y="4242.09" Z="180.249" />
+				<Hotspot X="2779.56" Y="3878.19" Z="160.722" />
+				<Hotspot X="2753.99" Y="3869.36" Z="142.301" />
+				<Hotspot X="2775.36" Y="3881.58" Z="160.083" />
+				<Hotspot X="2791.76" Y="3877.74" Z="160.784" />
+				<Hotspot X="2750.91" Y="3859.45" Z="139.823" />
+			</Hotspots>
+		</Objective>
+		<Objective Type="KillMob" MobId="19779" KillCount="8">
+			<Hotspots>
+				<Hotspot X="2999.76" Y="4120.61" Z="155.337" />
+				<Hotspot X="2925.46" Y="4083.41" Z="147.984" />
+				<Hotspot X="2871.12" Y="4054.23" Z="157.272" />
+				<Hotspot X="2897.67" Y="4088.99" Z="155.844" />
+				<Hotspot X="2876.11" Y="4045.08" Z="155.574" />
+				<Hotspot X="2880.32" Y="4064.76" Z="148.698" />
+				<Hotspot X="2866.22" Y="4063.33" Z="157.106" />
+				<Hotspot X="2827.34" Y="4021.04" Z="147.366" />
+				<Hotspot X="2828.62" Y="4017.78" Z="146.496" />
+				<Hotspot X="2782.93" Y="4136.82" Z="179.493" />
+				<Hotspot X="2781.24" Y="4144.36" Z="181.409" />
+				<Hotspot X="2776.21" Y="4201.81" Z="179.663" />
+				<Hotspot X="2771.45" Y="4196.9" Z="180.909" />
+				<Hotspot X="2728.13" Y="4196.34" Z="191.143" />
+				<Hotspot X="2719.41" Y="4195.33" Z="193.171" />
+				<Hotspot X="2717.27" Y="4181.1" Z="193.953" />
+				<Hotspot X="2734.49" Y="4192.37" Z="189.808" />
+				<Hotspot X="2717.36" Y="4016.13" Z="139.256" />
+				<Hotspot X="2726.54" Y="4105.73" Z="189.474" />
+				<Hotspot X="2713.27" Y="4033.03" Z="145.445" />
+				<Hotspot X="2727.57" Y="3990.82" Z="136.62" />
+				<Hotspot X="2737.24" Y="3984.54" Z="139.579" />
+				<Hotspot X="2729.66" Y="4110.6" Z="188.595" />
+				<Hotspot X="2734.19" Y="4096.15" Z="187.266" />
+				<Hotspot X="2718.33" Y="4002.08" Z="136.013" />
+				<Hotspot X="2774.91" Y="4131.84" Z="180.394" />
+				<Hotspot X="2759.38" Y="4080.28" Z="180.71" />
+				<Hotspot X="2739.25" Y="4117.61" Z="186.399" />
+				<Hotspot X="2792.02" Y="4074.39" Z="172.225" />
+				<Hotspot X="2765.67" Y="4130.86" Z="181.754" />
+				<Hotspot X="2767.64" Y="4085.86" Z="180.11" />
+				<Hotspot X="2789.28" Y="4067.67" Z="172.234" />
+				<Hotspot X="2796.02" Y="4068.31" Z="170.311" />
+				<Hotspot X="2727.36" Y="4131.04" Z="190.001" />
+				<Hotspot X="2728.57" Y="4178.26" Z="191.614" />
+				<Hotspot X="2724.71" Y="4171.17" Z="192.73" />
+				<Hotspot X="2721.84" Y="4141.51" Z="191.701" />
+				<Hotspot X="2769.1" Y="4146.44" Z="182.126" />
+				<Hotspot X="2756.32" Y="4208.45" Z="183.803" />
+				<Hotspot X="2786.39" Y="3969.14" Z="143.241" />
+				<Hotspot X="2734.1" Y="3950.52" Z="142.227" />
+				<Hotspot X="2743.24" Y="3943.84" Z="141.477" />
+				<Hotspot X="2784.92" Y="3972.1" Z="143.425" />
+				<Hotspot X="2758.24" Y="3953.7" Z="142.852" />
+				<Hotspot X="2798.09" Y="3957.93" Z="143.107" />
+				<Hotspot X="2759.63" Y="3944.19" Z="141.977" />
+				<Hotspot X="2798.4" Y="3970.08" Z="142.308" />
+				<Hotspot X="2823.21" Y="3998.62" Z="141.713" />
+				<Hotspot X="2753.04" Y="3879.24" Z="142.659" />
+				<Hotspot X="2789.19" Y="3920.31" Z="144.731" />
+			</Hotspots>
+		</Objective>
+	</Quest>
+	<Quest Id="10194" Name="Stealth Flight">
+	</Quest>
+	<Quest Id="10197" Name="A Convincing Disguise">
+		<Objective Type="CollectItem" ItemId="28636" CollectCount="1">
+			<Hotspots>
+				<Hotspot X="2416.56" Y="2798.97" Z="134.576" />
+				<Hotspot X="2369.66" Y="2770.94" Z="134.576" />
+				<Hotspot X="2357.52" Y="2474.43" Z="142.11" />
+				<Hotspot X="2357.63" Y="2484.41" Z="141.485" />
+				<Hotspot X="2368.55" Y="2496.17" Z="141.336" />
+				<Hotspot X="2373.86" Y="2481.55" Z="142.313" />
+				<Hotspot X="2435.76" Y="2783.4" Z="134.549" />
+				<Hotspot X="2437.38" Y="2780.33" Z="134.463" />
+				<Hotspot X="2413.5" Y="2741.85" Z="132.97" />
+				<Hotspot X="2405.2" Y="2770.3" Z="132.455" />
+				<Hotspot X="2394.58" Y="2425.57" Z="142.972" />
+				<Hotspot X="2391.62" Y="2416.38" Z="142.097" />
+				<Hotspot X="2407.11" Y="2404.09" Z="143.359" />
+				<Hotspot X="2273.89" Y="2510.0" Z="112.49" />
+				<Hotspot X="2278.84" Y="2528.38" Z="115.49" />
+				<Hotspot X="2253.91" Y="2527.33" Z="107.285" />
+				<Hotspot X="2257.62" Y="2511.36" Z="108.76" />
+				<Hotspot X="2267.83" Y="2532.76" Z="111.799" />
+				<Hotspot X="2172.02" Y="2561.93" Z="85.6211" />
+			</Hotspots>
+		</Objective>
+		<Objective Type="CollectItem" ItemId="28637" CollectCount="1">
+			<Hotspots>
+				<Hotspot X="2460.09" Y="2849.69" Z="132.915" />
+				<Hotspot X="2448.34" Y="2858.35" Z="132.224" />
+				<Hotspot X="2334.53" Y="2791.84" Z="133.168" />
+				<Hotspot X="2337.3" Y="2797.86" Z="133.168" />
+				<Hotspot X="2346.69" Y="2793.28" Z="133.168" />
+				<Hotspot X="2342.63" Y="2795.32" Z="133.168" />
+				<Hotspot X="2344.46" Y="2787.87" Z="133.168" />
+				<Hotspot X="2340.06" Y="2789.82" Z="133.168" />
+				<Hotspot X="2315.53" Y="2689.68" Z="128.841" />
+				<Hotspot X="2315.51" Y="2675.69" Z="127.407" />
+				<Hotspot X="2317.05" Y="2682.55" Z="128.302" />
+				<Hotspot X="2346.18" Y="2654.89" Z="130.235" />
+				<Hotspot X="2358.06" Y="2666.23" Z="131.254" />
+				<Hotspot X="2389.07" Y="2639.33" Z="132.38" />
+				<Hotspot X="2372.89" Y="2636.66" Z="132.993" />
+				<Hotspot X="2369.77" Y="2653.46" Z="131.446" />
+				<Hotspot X="2372.59" Y="2665.94" Z="131.557" />
+				<Hotspot X="2383.53" Y="2613.47" Z="133.274" />
+				<Hotspot X="2382.34" Y="2639.59" Z="133.049" />
+				<Hotspot X="2503.1" Y="2707.09" Z="131.495" />
+				<Hotspot X="2510.63" Y="2715.01" Z="131.535" />
+				<Hotspot X="2300.96" Y="2453.99" Z="107.495" />
+				<Hotspot X="2317.61" Y="2460.32" Z="107.967" />
+				<Hotspot X="2280.99" Y="2804.32" Z="131.462" />
+				<Hotspot X="2511.93" Y="2734.46" Z="132.168" />
+				<Hotspot X="2368.55" Y="2448.33" Z="143.482" />
+				<Hotspot X="2181.12" Y="2517.5" Z="89.3288" />
+				<Hotspot X="2203.13" Y="2594.81" Z="91.9222" />
+			</Hotspots>
+		</Objective>
+		<Objective Type="CollectItem" ItemId="28635" CollectCount="1">
+			<Hotspots>
+				<Hotspot X="2455.03" Y="2922.62" Z="129.048" />
+				<Hotspot X="2499.35" Y="2848.43" Z="137.735" />
+				<Hotspot X="2434.13" Y="2908.4" Z="130.624" />
+				<Hotspot X="2488.88" Y="2855.45" Z="137.485" />
+				<Hotspot X="2424.98" Y="2868.67" Z="131.451" />
+				<Hotspot X="2402.08" Y="2902.06" Z="132.866" />
+				<Hotspot X="2416.61" Y="2869.28" Z="131.612" />
+				<Hotspot X="2434.23" Y="2862.35" Z="131.62" />
+				<Hotspot X="2409.0" Y="2864.95" Z="131.542" />
+				<Hotspot X="2284.43" Y="2795.64" Z="131.817" />
+				<Hotspot X="2293.26" Y="2799.52" Z="131.442" />
+				<Hotspot X="2268.48" Y="2817.52" Z="131.715" />
+				<Hotspot X="2320.78" Y="2825.64" Z="131.883" />
+				<Hotspot X="2280.62" Y="2848.94" Z="131.568" />
+				<Hotspot X="2271.04" Y="2828.48" Z="131.715" />
+				<Hotspot X="2396.42" Y="2664.84" Z="133.039" />
+				<Hotspot X="2405.44" Y="2660.22" Z="133.02" />
+				<Hotspot X="2383.53" Y="2593.12" Z="135.512" />
+				<Hotspot X="2410.13" Y="2602.53" Z="134.775" />
+				<Hotspot X="2415.22" Y="2614.52" Z="134.775" />
+				<Hotspot X="2409.42" Y="2624.09" Z="134.4" />
+				<Hotspot X="2441.7" Y="2619.12" Z="134.447" />
+				<Hotspot X="2511.36" Y="2750.94" Z="132.168" />
+				<Hotspot X="2512.34" Y="2740.65" Z="132.168" />
+			</Hotspots>
+		</Objective>
+		<Objective Type="KillMob" MobId="20136" KillCount="1">
+			<Hotspots>
+				<Hotspot X="2416.56" Y="2798.97" Z="134.576" />
+				<Hotspot X="2369.66" Y="2770.94" Z="134.576" />
+				<Hotspot X="2357.52" Y="2474.43" Z="142.11" />
+			</Hotspots>
+		</Objective>
+		<Objective Type="KillMob" MobId="20134" KillCount="1">
+			<Hotspots>
+				<Hotspot X="2455.03" Y="2922.62" Z="129.048" />
+				<Hotspot X="2499.35" Y="2848.43" Z="137.735" />
+				<Hotspot X="2434.13" Y="2908.4" Z="130.624" />
+			</Hotspots>
+		</Objective>
+	</Quest>
+	<Quest Id="10198" Name="Information Gathering">
+		<Objective Type="CollectItem" ItemId="28607" CollectCount="1">
+		</Objective>
+	</Quest>
+	<Quest Id="10199" Name="That Little Extra Kick">
+		<Objective Type="CollectItem" ItemId="28417" CollectCount="5">
+			<Hotspots>
+				<Hotspot X="3357.18" Y="4148.59" Z="137.535" />
+				<Hotspot X="3488.14" Y="3783.33" Z="145.219" />
+				<Hotspot X="3170.93" Y="3318.8" Z="101.864" />
+				<Hotspot X="3183.47" Y="3552.22" Z="134.144" />
+				<Hotspot X="3158.16" Y="3794.31" Z="141.032" />
+				<Hotspot X="3241.55" Y="3965.7" Z="161.737" />
+				<Hotspot X="3322.85" Y="3937.1" Z="184.812" />
+				<Hotspot X="3343.8" Y="3924.69" Z="195.037" />
+				<Hotspot X="2712.82" Y="3547.81" Z="137.641" />
+				<Hotspot X="2752.61" Y="3481.17" Z="137.499" />
+				<Hotspot X="2825.31" Y="3057.8" Z="129.576" />
+				<Hotspot X="2762.93" Y="2945.0" Z="117.643" />
+				<Hotspot X="2780.78" Y="2994.96" Z="121.531" />
+				<Hotspot X="2772.31" Y="2938.49" Z="117.357" />
+				<Hotspot X="2836.78" Y="3012.34" Z="122.211" />
+				<Hotspot X="2826.31" Y="3047.52" Z="129.303" />
+				<Hotspot X="3198.87" Y="2908.82" Z="124.876" />
+				<Hotspot X="3410.32" Y="3204.18" Z="100.109" />
+				<Hotspot X="3426.87" Y="3303.89" Z="89.7291" />
+			</Hotspots>
+		</Objective>
+		<Objective Type="KillMob" MobId="18880" KillCount="5">
+			<Hotspots>
+				<Hotspot X="3357.18" Y="4148.59" Z="137.535" />
+				<Hotspot X="3488.14" Y="3783.33" Z="145.219" />
+				<Hotspot X="3170.93" Y="3318.8" Z="101.864" />
+			</Hotspots>
+		</Objective>
+	</Quest>
+	<Quest Id="10200" Name="Return to Thalodien">
+	</Quest>
+	<Quest Id="10203" Name="Invaluable Asset Zapping">
+		<Objective Type="CollectItem" ItemId="183805" CollectCount="1">
+			<CollectFrom>
+				<GameObject Name="Hyper Rotational Dig-A-Matic" Id="183805" />
+			</CollectFrom>
+			<Hotspots>
+				<Hotspot X="2715.88" Y="3192.04" Z="147.597" />
+			</Hotspots>
+		</Objective>
+		<Objective Type="CollectItem" ItemId="30354" CollectCount="1">
+		</Objective>
+		<Objective Type="CollectItem" ItemId="183806" CollectCount="1">
+			<CollectFrom>
+				<GameObject Name="Servo-Pneumatic Dredging Claw" Id="183806" />
+			</CollectFrom>
+			<Hotspots>
+				<Hotspot X="2787.98" Y="3172.17" Z="146.042" />
+			</Hotspots>
+		</Objective>
+		<Objective Type="CollectItem" ItemId="183807" CollectCount="1">
+			<CollectFrom>
+				<GameObject Name="Multi-Spectrum Terrain Analyzer" Id="183807" />
+			</CollectFrom>
+			<Hotspots>
+				<Hotspot X="2746.59" Y="3239.64" Z="147.597" />
+			</Hotspots>
+		</Objective>
+		<Objective Type="CollectItem" ItemId="183808" CollectCount="1">
+			<CollectFrom>
+				<GameObject Name="Big Wagon Full of Explosives" Id="183808" />
+			</CollectFrom>
+			<Hotspots>
+				<Hotspot X="2774.06" Y="3114.28" Z="154.42" />
+			</Hotspots>
+		</Objective>
+	</Quest>
+	<Quest Id="10204" Name="Bloodgem Crystals">
+	</Quest>
+	<Quest Id="10205" Name="Warp-Raider Nesaad">
+		<Objective Type="KillMob" MobId="19641" KillCount="1">
+			<Hotspots>
+				<Hotspot X="2503.19" Y="3902.48" Z="129.355" />
+			</Hotspots>
+		</Objective>
+	</Quest>
+	<Quest Id="10206" Name="Pick Your Part">
+		<Objective Type="CollectItem" ItemId="28457" CollectCount="10">
+		</Objective>
+	</Quest>
+	<Quest Id="10221" Name="Dr. Boom!">
+		<Objective Type="KillMob" MobId="20284" KillCount="1">
+			<Hotspots>
+				<Hotspot X="3242.53" Y="3531.44" Z="121.253" />
+			</Hotspots>
+		</Objective>
+		<Objective Type="CollectItem" ItemId="29429" CollectCount="1">
+		</Objective>
+	</Quest>
+	<Quest Id="10224" Name="Essence for the Engines">
+		<Objective Type="CollectItem" ItemId="28527" CollectCount="7">
+			<Hotspots>
+				<Hotspot X="3294.05" Y="3429.16" Z="113.932" />
+				<Hotspot X="3323.25" Y="3410.65" Z="122.319" />
+				<Hotspot X="3313.64" Y="3518.36" Z="127.233" />
+				<Hotspot X="3295.06" Y="3552.15" Z="125.789" />
+				<Hotspot X="3284.37" Y="3507.81" Z="118.866" />
+				<Hotspot X="3312.73" Y="3470.92" Z="110.748" />
+				<Hotspot X="3217.39" Y="3422.13" Z="107.593" />
+				<Hotspot X="3296.94" Y="3385.61" Z="110.131" />
+				<Hotspot X="3245.43" Y="3401.79" Z="111.057" />
+				<Hotspot X="3224.94" Y="3450.13" Z="105.264" />
+				<Hotspot X="3261.92" Y="3529.28" Z="120.256" />
+				<Hotspot X="3272.35" Y="3462.17" Z="105.557" />
+				<Hotspot X="3184.06" Y="3380.44" Z="103.3" />
+				<Hotspot X="3218.78" Y="3352.55" Z="107.01" />
+				<Hotspot X="3147.44" Y="3432.8" Z="105.983" />
+				<Hotspot X="3186.96" Y="3484.09" Z="102.04" />
+				<Hotspot X="3202.45" Y="3501.85" Z="115.723" />
+				<Hotspot X="3277.15" Y="3581.88" Z="124.333" />
+				<Hotspot X="3317.78" Y="3580.94" Z="128.545" />
+				<Hotspot X="3277.93" Y="3619.59" Z="127.448" />
+				<Hotspot X="3321.77" Y="3631.31" Z="134.04" />
+				<Hotspot X="3300.67" Y="3673.03" Z="129.645" />
+				<Hotspot X="3322.92" Y="3752.08" Z="138.827" />
+				<Hotspot X="3278.0" Y="3842.81" Z="144.062" />
+				<Hotspot X="3243.33" Y="3844.58" Z="144.287" />
+			</Hotspots>
+		</Objective>
+		<Objective Type="KillMob" MobId="18864" KillCount="7">
+			<Hotspots>
+				<Hotspot X="3294.05" Y="3429.16" Z="113.932" />
+				<Hotspot X="3323.25" Y="3410.65" Z="122.319" />
+				<Hotspot X="3313.64" Y="3518.36" Z="127.233" />
+			</Hotspots>
+		</Objective>
+	</Quest>
+	<Quest Id="10225" Name="Report to Engineering">
+		<Objective Type="CollectItem" ItemId="28526" CollectCount="1">
+		</Objective>
+	</Quest>
+	<Quest Id="10226" Name="Elemental Power Extraction">
+		<Objective Type="CollectItem" ItemId="28548" CollectCount="5">
+		</Objective>
+		<Objective Type="CollectItem" ItemId="28547" CollectCount="1">
+		</Objective>
+	</Quest>
+	<Quest Id="10234" Name="One Demon&apos;s Trash...">
+		<Objective Type="CollectItem" ItemId="28551" CollectCount="10">
+		</Objective>
+	</Quest>
+	<Quest Id="10239" Name="Potential Energy Source">
+		<Objective Type="CollectItem" ItemId="28564" CollectCount="10">
+		</Objective>
+	</Quest>
+	<Quest Id="10262" Name="A Heap of Ethereals">
+		<Objective Type="CollectItem" ItemId="29209" CollectCount="10">
+			<Hotspots>
+				<Hotspot X="2669.4" Y="3705.81" Z="144.005" />
+				<Hotspot X="2642.64" Y="3749.56" Z="144.26" />
+				<Hotspot X="2661.16" Y="3757.15" Z="143.673" />
+				<Hotspot X="2678.36" Y="3814.74" Z="137.836" />
+				<Hotspot X="2675.02" Y="3803.17" Z="139.387" />
+				<Hotspot X="2682.55" Y="3803.69" Z="140.165" />
+				<Hotspot X="2703.17" Y="3752.98" Z="142.219" />
+				<Hotspot X="2668.54" Y="3744.27" Z="143.661" />
+				<Hotspot X="2614.03" Y="3762.46" Z="144.079" />
+				<Hotspot X="2615.58" Y="3758.32" Z="144.144" />
+				<Hotspot X="2606.79" Y="3765.13" Z="143.779" />
+				<Hotspot X="2610.79" Y="3763.58" Z="143.788" />
+				<Hotspot X="2515.25" Y="3772.53" Z="132.305" />
+				<Hotspot X="2654.44" Y="3856.93" Z="137.991" />
+				<Hotspot X="2554.17" Y="3885.94" Z="138.648" />
+				<Hotspot X="2557.04" Y="3896.53" Z="138.039" />
+				<Hotspot X="2600.23" Y="3911.6" Z="136.206" />
+				<Hotspot X="2670.7" Y="3821.61" Z="139.292" />
+				<Hotspot X="2495.32" Y="3995.77" Z="130.404" />
+				<Hotspot X="2499.95" Y="4005.43" Z="132.906" />
+				<Hotspot X="2493.0" Y="4047.59" Z="133.55" />
+				<Hotspot X="2483.07" Y="3860.48" Z="125.324" />
+				<Hotspot X="2509.69" Y="3829.25" Z="130.747" />
+				<Hotspot X="2611.64" Y="3780.26" Z="142.112" />
+				<Hotspot X="2602.53" Y="3766.34" Z="143.693" />
+				<Hotspot X="2503.19" Y="3902.48" Z="128.967" />
+				<Hotspot X="2669.68" Y="3798.54" Z="140.42" />
+				<Hotspot X="2548.93" Y="3790.73" Z="141.944" />
+				<Hotspot X="2547.21" Y="3794.55" Z="141.926" />
+				<Hotspot X="2540.75" Y="3856.96" Z="139.774" />
+				<Hotspot X="2479.3" Y="4022.78" Z="129.327" />
+				<Hotspot X="2470.46" Y="4019.99" Z="126.511" />
+				<Hotspot X="2506.45" Y="3902.99" Z="129.064" />
+				<Hotspot X="2502.11" Y="3824.49" Z="128.221" />
+			</Hotspots>
+		</Objective>
+	</Quest>
+	<Quest Id="10265" Name="Consortium Crystal Collection">
+		<Objective Type="CollectItem" ItemId="28829" CollectCount="1">
+			<Hotspots>
+				<Hotspot X="2752.2" Y="3116.26" Z="155.687" />
+			</Hotspots>
+		</Objective>
+		<Objective Type="KillMob" MobId="20215" KillCount="1">
+			<Hotspots>
+				<Hotspot X="2752.2" Y="3116.26" Z="155.687" />
+			</Hotspots>
+		</Objective>
+	</Quest>
+	<Quest Id="10300" Name="Rebuilding the Staff">
+		<Objective Type="CollectItem" ItemId="29216" CollectCount="4">
+			<Hotspots>
+				<Hotspot X="3451.38" Y="3763.74" Z="145.83" />
+				<Hotspot X="3461.8" Y="3716.18" Z="145.598" />
+				<Hotspot X="3569.72" Y="3655.27" Z="129.757" />
+				<Hotspot X="3480.83" Y="3684.24" Z="143.731" />
+				<Hotspot X="3525.18" Y="3659.38" Z="141.993" />
+				<Hotspot X="3458.01" Y="3675.52" Z="150.502" />
+				<Hotspot X="3476.12" Y="3640.4" Z="156.441" />
+				<Hotspot X="3471.42" Y="3632.28" Z="140.738" />
+				<Hotspot X="3592.73" Y="3591.89" Z="127.39" />
+				<Hotspot X="3562.9" Y="3536.68" Z="128.11" />
+				<Hotspot X="3490.1" Y="3578.72" Z="158.708" />
+				<Hotspot X="3472.1" Y="3574.68" Z="167.441" />
+				<Hotspot X="3464.84" Y="3483.73" Z="146.39" />
+				<Hotspot X="3421.09" Y="3462.32" Z="146.243" />
+				<Hotspot X="3392.22" Y="3446.12" Z="140.322" />
+				<Hotspot X="3388.58" Y="3487.28" Z="139.944" />
+				<Hotspot X="3390.68" Y="3504.14" Z="142.865" />
+				<Hotspot X="3368.88" Y="3446.43" Z="140.362" />
+				<Hotspot X="3345.08" Y="3642.22" Z="142.315" />
+				<Hotspot X="3412.48" Y="3609.1" Z="140.999" />
+				<Hotspot X="3409.75" Y="3673.84" Z="148.697" />
+				<Hotspot X="3424.25" Y="3661.14" Z="153.203" />
+				<Hotspot X="3413.71" Y="3757.16" Z="141.008" />
+				<Hotspot X="3473.49" Y="3747.45" Z="146.627" />
+				<Hotspot X="3496.84" Y="3712.04" Z="139.53" />
+				<Hotspot X="3449.43" Y="3702.6" Z="147.646" />
+				<Hotspot X="3509.82" Y="3620.56" Z="151.581" />
+				<Hotspot X="3526.52" Y="3549.78" Z="138.09" />
+				<Hotspot X="3560.75" Y="3538.92" Z="129.36" />
+				<Hotspot X="3465.8" Y="3521.91" Z="146.192" />
+				<Hotspot X="3512.5" Y="3520.83" Z="129.909" />
+				<Hotspot X="3490.27" Y="3573.4" Z="158.703" />
+				<Hotspot X="3459.95" Y="3480.61" Z="146.466" />
+				<Hotspot X="3431.63" Y="3588.57" Z="144.39" />
+				<Hotspot X="3364.2" Y="3459.43" Z="140.362" />
+				<Hotspot X="3353.88" Y="3497.3" Z="133.605" />
+				<Hotspot X="3390.72" Y="3639.1" Z="143.957" />
+				<Hotspot X="3387.91" Y="3643.59" Z="144.518" />
+				<Hotspot X="3369.44" Y="3661.99" Z="143.635" />
+				<Hotspot X="3344.8" Y="3676.61" Z="138.526" />
+			</Hotspots>
+		</Objective>
+	</Quest>
+	<Quest Id="10305" Name="Abjurist Belmara">
+		<Objective Type="KillMob" MobId="19547" KillCount="1">
+			<Hotspots>
+				<Hotspot X="2239.45" Y="2389.64" Z="112.748" />
+			</Hotspots>
+		</Objective>
+	</Quest>
+	<Quest Id="10306" Name="Conjurer Luminrath">
+		<Objective Type="KillMob" MobId="19548" KillCount="1">
+			<Hotspots>
+				<Hotspot X="2191.15" Y="2339.52" Z="90.4991" />
+			</Hotspots>
+		</Objective>
+	</Quest>
+	<Quest Id="10307" Name="Cohlien Frostweaver">
+		<Objective Type="KillMob" MobId="19550" KillCount="1">
+			<Hotspots>
+				<Hotspot X="2202.37" Y="2412.08" Z="109.269" />
+			</Hotspots>
+		</Objective>
+	</Quest>
+	<Quest Id="10312" Name="The Annals of Kirin&apos;Var">
+		<Objective Type="CollectItem" ItemId="29331" CollectCount="1">
+			<Hotspots>
+				<Hotspot X="2185.22" Y="2115.88" Z="72.4063" />
+			</Hotspots>
+		</Objective>
+		<Objective Type="KillMob" MobId="19543" KillCount="1">
+			<Hotspots>
+				<Hotspot X="2185.22" Y="2115.88" Z="72.4063" />
+			</Hotspots>
+		</Objective>
+	</Quest>
+	<Quest Id="10314" Name="A Lingering Suspicion">
+		<Objective Type="CollectItem" ItemId="29338" CollectCount="10">
+			<Hotspots>
+				<Hotspot X="2474.45" Y="2140.5" Z="94.8416" />
+				<Hotspot X="2479.45" Y="2074.89" Z="90.7218" />
+				<Hotspot X="2487.34" Y="2102.45" Z="94.7489" />
+				<Hotspot X="2483.01" Y="2099.36" Z="94.4718" />
+				<Hotspot X="2488.77" Y="2095.18" Z="94.1898" />
+				<Hotspot X="2461.8" Y="2202.62" Z="102.37" />
+				<Hotspot X="2391.95" Y="2160.75" Z="87.0437" />
+				<Hotspot X="2431.95" Y="2162.05" Z="98.9421" />
+				<Hotspot X="2439.31" Y="2196.78" Z="99.808" />
+				<Hotspot X="2437.39" Y="2172.56" Z="93.9411" />
+				<Hotspot X="2412.6" Y="2130.61" Z="86.3348" />
+				<Hotspot X="2397.77" Y="2137.72" Z="87.4302" />
+				<Hotspot X="2443.86" Y="2154.37" Z="92.1617" />
+				<Hotspot X="2454.56" Y="2158.46" Z="100.934" />
+				<Hotspot X="2423.33" Y="2146.42" Z="89.7266" />
+				<Hotspot X="2436.8" Y="2088.64" Z="89.6348" />
+				<Hotspot X="2452.69" Y="2093.93" Z="86.859" />
+				<Hotspot X="2499.11" Y="2122.33" Z="97.0867" />
+				<Hotspot X="2503.92" Y="2092.95" Z="95.9278" />
+				<Hotspot X="2467.84" Y="2037.23" Z="87.2969" />
+				<Hotspot X="2475.73" Y="2164.79" Z="89.5607" />
+				<Hotspot X="2462.38" Y="2156.42" Z="94.6695" />
+				<Hotspot X="2529.74" Y="2112.93" Z="99.696" />
+				<Hotspot X="2525.98" Y="2064.67" Z="94.0328" />
+				<Hotspot X="2545.38" Y="2098.82" Z="99.129" />
+				<Hotspot X="2555.44" Y="2116.13" Z="99.635" />
+				<Hotspot X="2490.47" Y="1979.28" Z="87.6736" />
+				<Hotspot X="2529.09" Y="1998.04" Z="90.4189" />
+				<Hotspot X="2535.16" Y="2012.79" Z="87.987" />
+				<Hotspot X="2385.97" Y="2145.42" Z="87.0006" />
+				<Hotspot X="2433.45" Y="2147.54" Z="98.3253" />
+				<Hotspot X="2439.6" Y="2121.88" Z="87.9443" />
+				<Hotspot X="2438.74" Y="2091.38" Z="85.2205" />
+				<Hotspot X="2454.06" Y="2095.48" Z="91.4943" />
+				<Hotspot X="2451.12" Y="2075.28" Z="83.7381" />
+				<Hotspot X="2459.99" Y="2133.51" Z="92.3488" />
+				<Hotspot X="2479.91" Y="2046.89" Z="87.3758" />
+				<Hotspot X="2468.25" Y="2161.94" Z="102.436" />
+				<Hotspot X="2488.45" Y="2025.52" Z="88.62" />
+			</Hotspots>
+		</Objective>
+	</Quest>
+	<Quest Id="10316" Name="Searching for Evidence">
+	</Quest>
+	<Quest Id="10319" Name="Capturing the Phylactery">
+		<Objective Type="CollectItem" ItemId="29361" CollectCount="1">
+		</Objective>
+	</Quest>
+	<Quest Id="10329" Name="Shutting Down Manaforge B&apos;naar">
+		<Objective Type="CollectItem" ItemId="29366" CollectCount="1">
+			<Hotspots>
+				<Hotspot X="2828.02" Y="4154.67" Z="162.599" />
+			</Hotspots>
+		</Objective>
+		<Objective Type="KillMob" MobId="20209" KillCount="1">
+		</Objective>
+		<Objective Type="KillMob" MobId="20416" KillCount="1">
+			<Hotspots>
+				<Hotspot X="2828.02" Y="4154.67" Z="162.599" />
+			</Hotspots>
+		</Objective>
+	</Quest>
+	<Quest Id="10330" Name="Shutting Down Manaforge Coruu">
+		<Objective Type="CollectItem" ItemId="29396" CollectCount="1">
+			<Hotspots>
+				<Hotspot X="2426.77" Y="2750.39" Z="133.243" />
+			</Hotspots>
+		</Objective>
+		<Objective Type="KillMob" MobId="20417" KillCount="1">
+		</Objective>
+		<Objective Type="KillMob" MobId="20397" KillCount="1">
+			<Hotspots>
+				<Hotspot X="2426.77" Y="2750.39" Z="133.243" />
+			</Hotspots>
+		</Objective>
+	</Quest>
+	<Quest Id="10331" Name="Indispensable Tools">
+		<Objective Type="CollectItem" ItemId="29365" CollectCount="1">
+			<Hotspots>
+				<Hotspot X="2291.14" Y="2062.76" Z="72.2262" />
+				<Hotspot X="2308.32" Y="2080.85" Z="76.3482" />
+				<Hotspot X="2294.57" Y="2137.83" Z="85.7296" />
+				<Hotspot X="2339.1" Y="2075.28" Z="79.3942" />
+				<Hotspot X="2355.84" Y="2087.59" Z="83.0192" />
+				<Hotspot X="2325.75" Y="2054.42" Z="77.205" />
+				<Hotspot X="2299.0" Y="2056.54" Z="73.2967" />
+				<Hotspot X="2290.79" Y="2053.08" Z="70.8764" />
+				<Hotspot X="2280.22" Y="2069.95" Z="67.1359" />
+			</Hotspots>
+		</Objective>
+		<Objective Type="KillMob" MobId="20409" KillCount="1">
+			<Hotspots>
+				<Hotspot X="2291.14" Y="2062.76" Z="72.2262" />
+				<Hotspot X="2308.32" Y="2080.85" Z="76.3482" />
+				<Hotspot X="2294.57" Y="2137.83" Z="85.7296" />
+			</Hotspots>
+		</Objective>
+	</Quest>
+	<Quest Id="10332" Name="Master Smith Rhonsus">
+		<Objective Type="KillMob" MobId="20410" KillCount="1">
+			<Hotspots>
+				<Hotspot X="2288.35" Y="2051.09" Z="70.0708" />
+			</Hotspots>
+		</Objective>
+	</Quest>
+	<Quest Id="10333" Name="Help Mama Wheeler">
+	</Quest>
+	<Quest Id="10334" Name="Needs More Cowbell">
+		<Objective Type="CollectItem" ItemId="29428" CollectCount="1">
+		</Objective>
+	</Quest>
+	<Quest Id="10337" Name="When the Cows Come Home">
+	</Quest>
+	<Quest Id="10342" Name="Securing the Shaleskin Shale">
+		<Objective Type="CollectItem" ItemId="29464" CollectCount="5">
+			<Hotspots>
+				<Hotspot X="3504.9" Y="3948.54" Z="143.57" />
+				<Hotspot X="3439.91" Y="3822.97" Z="144.143" />
+				<Hotspot X="3155.71" Y="3339.64" Z="108.073" />
+				<Hotspot X="3109.01" Y="3302.73" Z="110.494" />
+				<Hotspot X="3059.82" Y="3243.43" Z="115.968" />
+				<Hotspot X="3230.2" Y="3588.44" Z="126.709" />
+				<Hotspot X="3206.03" Y="3620.3" Z="129.265" />
+				<Hotspot X="3414.24" Y="3839.38" Z="144.47" />
+				<Hotspot X="3187.02" Y="3812.87" Z="140.167" />
+				<Hotspot X="3153.44" Y="3762.68" Z="139.138" />
+				<Hotspot X="3226.43" Y="3665.5" Z="128.984" />
+				<Hotspot X="3165.1" Y="3607.24" Z="135.148" />
+				<Hotspot X="2928.76" Y="3791.15" Z="152.021" />
+				<Hotspot X="2943.62" Y="3805.42" Z="154.308" />
+				<Hotspot X="3125.43" Y="3810.56" Z="143.007" />
+				<Hotspot X="3111.43" Y="3865.05" Z="143.726" />
+				<Hotspot X="3120.05" Y="3927.16" Z="179.934" />
+				<Hotspot X="3111.92" Y="3945.25" Z="175.618" />
+				<Hotspot X="3120.14" Y="3981.86" Z="163.129" />
+				<Hotspot X="3163.74" Y="3974.25" Z="160.223" />
+				<Hotspot X="3180.05" Y="3921.39" Z="182.32" />
+				<Hotspot X="3120.9" Y="4026.02" Z="148.46" />
+				<Hotspot X="3225.21" Y="3944.74" Z="169.795" />
+				<Hotspot X="3212.29" Y="3892.82" Z="196.08" />
+				<Hotspot X="3199.71" Y="4003.44" Z="147.62" />
+			</Hotspots>
+		</Objective>
+		<Objective Type="KillMob" MobId="20210" KillCount="5">
+			<Hotspots>
+				<Hotspot X="3504.9" Y="3948.54" Z="143.57" />
+				<Hotspot X="3439.91" Y="3822.97" Z="144.143" />
+				<Hotspot X="3155.71" Y="3339.64" Z="108.073" />
+			</Hotspots>
+		</Objective>
+	</Quest>
+	<Quest Id="10343" Name="The Unending Invasion">
+		<Objective Type="CollectItem" ItemId="29461" CollectCount="1">
+		</Objective>
+	</Quest>
+	<Quest Id="10348" Name="New Opportunities">
+		<Objective Type="CollectItem" ItemId="29474" CollectCount="15">
+		</Objective>
+	</Quest>
+	<Quest Id="10417" Name="Run a Diagnostic!">
+		<Objective Type="CollectItem" ItemId="29741" CollectCount="1">
+		</Objective>
+	</Quest>
+	<Quest Id="10418" Name="Deal With the Saboteurs">
+		<Objective Type="KillMob" MobId="20773" KillCount="8">
+			<Hotspots>
+				<Hotspot X="3451.48" Y="2891.16" Z="140.964" />
+				<Hotspot X="3476.66" Y="2896.67" Z="137.089" />
+				<Hotspot X="3482.68" Y="2930.85" Z="139.904" />
+				<Hotspot X="3452.42" Y="2846.5" Z="141.217" />
+				<Hotspot X="3462.64" Y="2822.41" Z="145.895" />
+				<Hotspot X="3486.45" Y="2838.64" Z="139.764" />
+				<Hotspot X="3510.25" Y="2881.11" Z="141.92" />
+				<Hotspot X="3513.37" Y="2863.13" Z="147.334" />
+				<Hotspot X="3512.45" Y="2912.9" Z="138.433" />
+				<Hotspot X="3560.77" Y="2909.13" Z="141.334" />
+				<Hotspot X="3504.9" Y="2955.68" Z="140.5" />
+				<Hotspot X="3550.38" Y="2940.57" Z="140.2" />
+			</Hotspots>
+		</Objective>
+	</Quest>
+	<Quest Id="10433" Name="Keeping Up Appearances">
+		<Objective Type="CollectItem" ItemId="29801" CollectCount="10">
+			<Hotspots>
+				<Hotspot X="3327.44" Y="3010.56" Z="138.875" />
+				<Hotspot X="3331.74" Y="2966.98" Z="142.47" />
+				<Hotspot X="3357.85" Y="3034.45" Z="141.807" />
+				<Hotspot X="3342.1" Y="2993.86" Z="141.244" />
+				<Hotspot X="3368.98" Y="3029.74" Z="141.456" />
+				<Hotspot X="3381.68" Y="3081.21" Z="133.451" />
+				<Hotspot X="3484.09" Y="3110.99" Z="135.666" />
+				<Hotspot X="3511.37" Y="3098.88" Z="132.642" />
+				<Hotspot X="3548.43" Y="3050.39" Z="138.153" />
+				<Hotspot X="3483.26" Y="3063.71" Z="141.116" />
+				<Hotspot X="3579.73" Y="3063.0" Z="129.644" />
+				<Hotspot X="3463.08" Y="3081.12" Z="139.982" />
+				<Hotspot X="3465.27" Y="3035.63" Z="145.331" />
+				<Hotspot X="3528.53" Y="3017.03" Z="144.778" />
+				<Hotspot X="3414.03" Y="3053.49" Z="144.285" />
+				<Hotspot X="3418.44" Y="2985.63" Z="147.689" />
+				<Hotspot X="3388.87" Y="2928.47" Z="152.089" />
+				<Hotspot X="3600.37" Y="2846.14" Z="167.42" />
+				<Hotspot X="3620.15" Y="2894.95" Z="152.317" />
+				<Hotspot X="3650.36" Y="2970.83" Z="140.406" />
+				<Hotspot X="3624.57" Y="3002.27" Z="133.916" />
+			</Hotspots>
+		</Objective>
+		<Objective Type="KillMob" MobId="20671" KillCount="10">
+			<Hotspots>
+				<Hotspot X="3327.44" Y="3010.56" Z="138.875" />
+				<Hotspot X="3331.74" Y="2966.98" Z="142.47" />
+				<Hotspot X="3357.85" Y="3034.45" Z="141.807" />
+			</Hotspots>
+		</Objective>
+	</Quest>
+	<Quest Id="10505" Name="The Bloodmaul Ogres">
+		<Objective Type="KillMob" MobId="19991" KillCount="30">
+			<Hotspots>
+				<Hotspot X="1552.97" Y="6569.58" Z="6.6304" />
+				<Hotspot X="1499.16" Y="6561.38" Z="-10.2455" />
+				<Hotspot X="1408.01" Y="6524.47" Z="4.4236" />
+				<Hotspot X="1458.72" Y="6488.03" Z="-10.2555" />
+				<Hotspot X="1404.0" Y="6569.53" Z="4.4139" />
+				<Hotspot X="1523.25" Y="6462.28" Z="-10.2139" />
+			</Hotspots>
+		</Objective>
+	</Quest>
+	<Quest Id="10526" Name="The Thunderspike">
+		<Objective Type="CollectItem" ItemId="30435" CollectCount="1">
+		</Objective>
+	</Quest>
+	<Quest Id="10543" Name="Grimnok and Korgaah, I Am For You!">
+		<Objective Type="KillMob" MobId="20095" KillCount="1">
+			<Hotspots>
+				<Hotspot X="1500.85" Y="6380.42" Z="35.2803" />
+			</Hotspots>
+		</Objective>
+		<Objective Type="KillMob" MobId="20723" KillCount="1">
+			<Hotspots>
+				<Hotspot X="2706.78" Y="6490.82" Z="25.6484" />
+			</Hotspots>
+		</Objective>
+	</Quest>
+	<Quest Id="10544" Name="A Curse Upon Both of Your Clans!">
+		<Objective Type="KillMob" MobId="21446" KillCount="5">
+		</Objective>
+		<Objective Type="KillMob" MobId="21452" KillCount="2">
+		</Objective>
+		<Objective Type="CollectItem" ItemId="30479" CollectCount="1">
+		</Objective>
+	</Quest>
+	<Quest Id="10565" Name="The Stones of Vekh&apos;nir">
+		<Objective Type="CollectItem" ItemId="30567" CollectCount="1">
+		</Objective>
+	</Quest>
+	<Quest Id="10566" Name="Trial and Error">
+		<Objective Type="KillMob" MobId="21713" KillCount="1">
+		</Objective>
+		<Objective Type="KillMob" MobId="21714" KillCount="1">
+		</Objective>
+		<Objective Type="KillMob" MobId="21715" KillCount="1">
+		</Objective>
+		<Objective Type="KillMob" MobId="21716" KillCount="1">
+		</Objective>
+	</Quest>
+	<Quest Id="10567" Name="Creating the Pendant">
+		<Objective Type="CollectItem" ItemId="30706" CollectCount="1">
+		</Objective>
+	</Quest>
+	<Quest Id="10607" Name="Whispers of the Raven God">
+		<Objective Type="KillMob" MobId="22798" KillCount="1">
+			<Hotspots>
+				<Hotspot X="3784.44" Y="6729.34" Z="170.528" />
+			</Hotspots>
+		</Objective>
+		<Objective Type="KillMob" MobId="22799" KillCount="1">
+			<Hotspots>
+				<Hotspot X="3625.61" Y="6541.65" Z="155.13" />
+			</Hotspots>
+		</Objective>
+		<Objective Type="KillMob" MobId="22800" KillCount="1">
+			<Hotspots>
+				<Hotspot X="3734.71" Y="6639.49" Z="133.736" />
+			</Hotspots>
+		</Objective>
+		<Objective Type="KillMob" MobId="22801" KillCount="1">
+			<Hotspots>
+				<Hotspot X="3575.48" Y="6666.42" Z="128.562" />
+			</Hotspots>
+		</Objective>
+	</Quest>
+	<Quest Id="10614" Name="Whispers on the Wind">
+	</Quest>
+	<Quest Id="10615" Name="Ruuan Weald">
+	</Quest>
+	<Quest Id="10617" Name="Silkwing Cocoons">
+		<Objective Type="CollectItem" ItemId="30791" CollectCount="8">
+			<Hotspots>
+				<Hotspot X="1869.13" Y="4950.59" Z="148.93" />
+				<Hotspot X="1656.31" Y="4838.91" Z="147.324" />
+				<Hotspot X="1705.63" Y="4803.25" Z="144.993" />
+				<Hotspot X="1629.54" Y="4812.03" Z="142.146" />
+				<Hotspot X="1779.02" Y="4787.43" Z="145.398" />
+				<Hotspot X="1825.75" Y="4807.24" Z="147.549" />
+				<Hotspot X="1856.8" Y="4787.41" Z="147.82" />
+				<Hotspot X="1861.28" Y="4864.69" Z="143.921" />
+				<Hotspot X="1893.37" Y="4865.14" Z="145.439" />
+				<Hotspot X="1904.75" Y="4923.15" Z="147.43" />
+				<Hotspot X="1985.24" Y="4932.3" Z="141.124" />
+				<Hotspot X="1974.82" Y="4821.88" Z="143.474" />
+				<Hotspot X="2047.19" Y="4915.63" Z="145.34" />
+				<Hotspot X="2049.03" Y="4850.99" Z="147.333" />
+				<Hotspot X="2050.12" Y="4871.15" Z="145.984" />
+				<Hotspot X="2090.46" Y="4883.35" Z="150.574" />
+				<Hotspot X="2118.85" Y="4909.51" Z="149.54" />
+				<Hotspot X="2011.98" Y="4805.82" Z="143.986" />
+				<Hotspot X="1944.0" Y="4738.62" Z="143.373" />
+				<Hotspot X="1925.4" Y="4776.72" Z="144.154" />
+				<Hotspot X="1980.27" Y="4800.94" Z="146.195" />
+				<Hotspot X="1825.41" Y="4731.86" Z="144.532" />
+				<Hotspot X="1877.09" Y="4764.11" Z="145.185" />
+				<Hotspot X="1869.93" Y="4702.82" Z="140.036" />
+				<Hotspot X="1651.97" Y="4711.22" Z="143.257" />
+			</Hotspots>
+		</Objective>
+		<Objective Type="KillMob" MobId="20747" KillCount="8">
+			<Hotspots>
+				<Hotspot X="1869.13" Y="4950.59" Z="148.93" />
+				<Hotspot X="1656.31" Y="4838.91" Z="147.324" />
+				<Hotspot X="1705.63" Y="4803.25" Z="144.993" />
+			</Hotspots>
+		</Objective>
+	</Quest>
+	<Quest Id="10618" Name="The Softest Wings">
+		<Objective Type="CollectItem" ItemId="30792" CollectCount="12">
+			<Hotspots>
+				<Hotspot X="1681.86" Y="4783.61" Z="142.388" />
+				<Hotspot X="1653.07" Y="4782.23" Z="143.727" />
+				<Hotspot X="1913.89" Y="4736.14" Z="142.625" />
+				<Hotspot X="2203.51" Y="4863.22" Z="152.513" />
+				<Hotspot X="2014.75" Y="4798.06" Z="145.32" />
+				<Hotspot X="2077.85" Y="4918.75" Z="148.948" />
+				<Hotspot X="1997.37" Y="4842.61" Z="144.408" />
+				<Hotspot X="2013.29" Y="4938.56" Z="138.913" />
+				<Hotspot X="1884.81" Y="4877.72" Z="144.636" />
+				<Hotspot X="1822.11" Y="4805.62" Z="146.885" />
+				<Hotspot X="1695.64" Y="4816.96" Z="147.824" />
+				<Hotspot X="1785.86" Y="4767.26" Z="145.577" />
+				<Hotspot X="1869.55" Y="4921.42" Z="147.661" />
+				<Hotspot X="1970.95" Y="4916.71" Z="142.878" />
+				<Hotspot X="2024.7" Y="4905.79" Z="140.883" />
+				<Hotspot X="2154.45" Y="4902.69" Z="147.832" />
+			</Hotspots>
+		</Objective>
+		<Objective Type="KillMob" MobId="21839" KillCount="12">
+			<Hotspots>
+				<Hotspot X="1681.86" Y="4783.61" Z="142.388" />
+				<Hotspot X="1653.07" Y="4782.23" Z="143.727" />
+				<Hotspot X="1913.89" Y="4736.14" Z="142.625" />
+			</Hotspots>
+		</Objective>
+	</Quest>
+	<Quest Id="10652" Name="Behind Enemy Lines">
+	</Quest>
+	<Quest Id="10682" Name="A Time for Negotiation...">
+	</Quest>
+	<Quest Id="10709" Name="Reunion">
+	</Quest>
+	<Quest Id="10713" Name="...and a Time for Action">
+		<Objective Type="KillMob" MobId="21810" KillCount="10">
+			<Hotspots>
+				<Hotspot X="2908.18" Y="5713.98" Z="144.763" />
+				<Hotspot X="2923.35" Y="5663.04" Z="147.076" />
+				<Hotspot X="2798.66" Y="5420.28" Z="139.814" />
+				<Hotspot X="2851.99" Y="5414.91" Z="147.763" />
+				<Hotspot X="2822.01" Y="5452.95" Z="143.873" />
+				<Hotspot X="2740.67" Y="5421.89" Z="136.95" />
+				<Hotspot X="2761.55" Y="5437.07" Z="136.638" />
+				<Hotspot X="2780.37" Y="5412.93" Z="138.789" />
+				<Hotspot X="2723.45" Y="5426.82" Z="137.415" />
+				<Hotspot X="3073.07" Y="5585.38" Z="145.885" />
+				<Hotspot X="3056.99" Y="5606.51" Z="143.959" />
+				<Hotspot X="3040.88" Y="5714.73" Z="144.773" />
+				<Hotspot X="3097.68" Y="5650.66" Z="143.258" />
+				<Hotspot X="3001.77" Y="5734.09" Z="143.814" />
+				<Hotspot X="3084.4" Y="5671.77" Z="143.022" />
+				<Hotspot X="3108.42" Y="5633.73" Z="143.785" />
+				<Hotspot X="3102.85" Y="5650.12" Z="143.391" />
+				<Hotspot X="3134.09" Y="5599.36" Z="143.438" />
+				<Hotspot X="3160.4" Y="5587.13" Z="142.054" />
+				<Hotspot X="3195.99" Y="5546.16" Z="141.372" />
+				<Hotspot X="3211.93" Y="5497.71" Z="148.585" />
+				<Hotspot X="3218.07" Y="5526.81" Z="144.123" />
+				<Hotspot X="3103.28" Y="5312.97" Z="146.626" />
+				<Hotspot X="3102.25" Y="5346.52" Z="147.003" />
+				<Hotspot X="3376.48" Y="5323.9" Z="144.017" />
+				<Hotspot X="3381.34" Y="5387.94" Z="147.752" />
+				<Hotspot X="3405.74" Y="5402.54" Z="147.397" />
+				<Hotspot X="3430.73" Y="5446.9" Z="144.081" />
+				<Hotspot X="3392.02" Y="5491.94" Z="144.215" />
+				<Hotspot X="3390.11" Y="5498.68" Z="144.309" />
+				<Hotspot X="3474.05" Y="5434.67" Z="141.33" />
+				<Hotspot X="3469.48" Y="5411.69" Z="142.121" />
+				<Hotspot X="3155.69" Y="6248.04" Z="125.093" />
+				<Hotspot X="3165.55" Y="6259.94" Z="124.586" />
+				<Hotspot X="3195.97" Y="6264.9" Z="124.065" />
+				<Hotspot X="3220.1" Y="6321.4" Z="122.631" />
+				<Hotspot X="3215.66" Y="6364.33" Z="119.911" />
+				<Hotspot X="3219.6" Y="6363.66" Z="120.13" />
+				<Hotspot X="3234.68" Y="6393.25" Z="131.117" />
+				<Hotspot X="3250.35" Y="6420.37" Z="140.348" />
+				<Hotspot X="2858.22" Y="5463.39" Z="148.18" />
+			</Hotspots>
+		</Objective>
+	</Quest>
+	<Quest Id="10714" Name="On Spirit&apos;s Wings">
+		<Objective Type="KillMob" MobId="22383" KillCount="1">
+		</Objective>
+		<Objective Type="CollectItem" ItemId="31128" CollectCount="1">
+		</Objective>
+	</Quest>
+	<Quest Id="10715" Name="Into the Churning Gulch">
+		<Objective Type="CollectItem" ItemId="31132" CollectCount="7">
+			<Hotspots>
+				<Hotspot X="2790.83" Y="6190.5" Z="1.0212" />
+				<Hotspot X="2997.82" Y="6108.39" Z="4.5391" />
+				<Hotspot X="2717.49" Y="6424.0" Z="2.3762" />
+				<Hotspot X="2676.62" Y="6400.81" Z="1.2823" />
+				<Hotspot X="2788.62" Y="6340.15" Z="6.155" />
+				<Hotspot X="2779.46" Y="6420.56" Z="2.5708" />
+				<Hotspot X="2819.51" Y="6316.12" Z="13.7224" />
+				<Hotspot X="2850.61" Y="6281.23" Z="12.2266" />
+				<Hotspot X="2787.67" Y="6216.42" Z="2.9671" />
+				<Hotspot X="2816.95" Y="6181.16" Z="3.7982" />
+				<Hotspot X="2882.88" Y="6182.55" Z="8.8408" />
+				<Hotspot X="2825.05" Y="6253.23" Z="8.6775" />
+				<Hotspot X="2843.57" Y="6223.44" Z="9.4271" />
+				<Hotspot X="2930.3" Y="6175.62" Z="12.8793" />
+				<Hotspot X="2950.58" Y="6147.16" Z="8.918" />
+				<Hotspot X="2973.24" Y="6164.89" Z="4.5628" />
+				<Hotspot X="2991.67" Y="6075.0" Z="9.3468" />
+				<Hotspot X="3040.49" Y="6076.51" Z="1.2435" />
+				<Hotspot X="-2768.91" Y="4749.02" Z="-8.2163" />
+				<Hotspot X="-3342.25" Y="4546.8" Z="-21.3338" />
+				<Hotspot X="-3021.75" Y="4639.29" Z="-21.381" />
+				<Hotspot X="-3118.0" Y="4476.11" Z="-21.6089" />
+				<Hotspot X="-3552.84" Y="5457.76" Z="-11.6149" />
+			</Hotspots>
+		</Objective>
+	</Quest>
+	<Quest Id="10717" Name="Poaching from Poachers">
+		<Objective Type="CollectItem" ItemId="31119" CollectCount="5">
+			<Hotspots>
+				<Hotspot X="2927.91" Y="5627.67" Z="146.414" />
+				<Hotspot X="2943.81" Y="5618.07" Z="147.261" />
+				<Hotspot X="2866.8" Y="5552.24" Z="147.069" />
+				<Hotspot X="2903.96" Y="5475.89" Z="148.822" />
+				<Hotspot X="2879.54" Y="5457.84" Z="149.933" />
+				<Hotspot X="2852.64" Y="5468.7" Z="147.793" />
+				<Hotspot X="2784.65" Y="5446.9" Z="137.382" />
+				<Hotspot X="2822.81" Y="5431.43" Z="143.564" />
+				<Hotspot X="2871.68" Y="5398.42" Z="146.706" />
+				<Hotspot X="2845.68" Y="5371.25" Z="144.44" />
+				<Hotspot X="2748.55" Y="5425.34" Z="137.029" />
+				<Hotspot X="2726.97" Y="5424.3" Z="137.084" />
+				<Hotspot X="3087.01" Y="5561.01" Z="147.869" />
+				<Hotspot X="3008.44" Y="5612.57" Z="146.265" />
+				<Hotspot X="3038.41" Y="5603.96" Z="146.274" />
+				<Hotspot X="3053.35" Y="5664.02" Z="143.154" />
+				<Hotspot X="3047.63" Y="5699.29" Z="145.078" />
+				<Hotspot X="3015.84" Y="5685.74" Z="147.1" />
+				<Hotspot X="2981.52" Y="5719.55" Z="145.968" />
+				<Hotspot X="3116.7" Y="5619.04" Z="143.666" />
+				<Hotspot X="3121.89" Y="5600.98" Z="144.541" />
+				<Hotspot X="3154.78" Y="5550.11" Z="144.925" />
+				<Hotspot X="3142.74" Y="5507.11" Z="147.645" />
+				<Hotspot X="3179.68" Y="5556.96" Z="141.589" />
+				<Hotspot X="3163.51" Y="5505.84" Z="149.404" />
+			</Hotspots>
+		</Objective>
+		<Objective Type="KillMob" MobId="21809" KillCount="5">
+			<Hotspots>
+				<Hotspot X="2927.91" Y="5627.67" Z="146.414" />
+				<Hotspot X="2943.81" Y="5618.07" Z="147.261" />
+				<Hotspot X="2866.8" Y="5552.24" Z="147.069" />
+			</Hotspots>
+		</Objective>
+	</Quest>
+	<Quest Id="10718" Name="The Spirits Have Voices">
+	</Quest>
+	<Quest Id="10719" Name="Did You Get The Note?">
+		<Objective Type="CollectItem" ItemId="31120" CollectCount="1">
+			<Hotspots>
+				<Hotspot X="2927.91" Y="5627.67" Z="146.414" />
+				<Hotspot X="2943.81" Y="5618.07" Z="147.261" />
+				<Hotspot X="2866.8" Y="5552.24" Z="147.069" />
+				<Hotspot X="2903.96" Y="5475.89" Z="148.822" />
+				<Hotspot X="2879.54" Y="5457.84" Z="149.933" />
+				<Hotspot X="2852.64" Y="5468.7" Z="147.793" />
+				<Hotspot X="2784.65" Y="5446.9" Z="137.382" />
+				<Hotspot X="2822.81" Y="5431.43" Z="143.564" />
+				<Hotspot X="2871.68" Y="5398.42" Z="146.706" />
+				<Hotspot X="2845.68" Y="5371.25" Z="144.44" />
+				<Hotspot X="2748.55" Y="5425.34" Z="137.029" />
+				<Hotspot X="2726.97" Y="5424.3" Z="137.084" />
+				<Hotspot X="3087.01" Y="5561.01" Z="147.869" />
+				<Hotspot X="3008.44" Y="5612.57" Z="146.265" />
+				<Hotspot X="3038.41" Y="5603.96" Z="146.274" />
+				<Hotspot X="3053.35" Y="5664.02" Z="143.154" />
+				<Hotspot X="3047.63" Y="5699.29" Z="145.078" />
+				<Hotspot X="3015.84" Y="5685.74" Z="147.1" />
+				<Hotspot X="2981.52" Y="5719.55" Z="145.968" />
+				<Hotspot X="3116.7" Y="5619.04" Z="143.666" />
+				<Hotspot X="3121.89" Y="5600.98" Z="144.541" />
+				<Hotspot X="3154.78" Y="5550.11" Z="144.925" />
+				<Hotspot X="3142.74" Y="5507.11" Z="147.645" />
+				<Hotspot X="3179.68" Y="5556.96" Z="141.589" />
+				<Hotspot X="3163.51" Y="5505.84" Z="149.404" />
+				<Hotspot X="2908.18" Y="5713.98" Z="144.763" />
+				<Hotspot X="2923.35" Y="5663.04" Z="147.076" />
+				<Hotspot X="2798.66" Y="5420.28" Z="139.814" />
+				<Hotspot X="2851.99" Y="5414.91" Z="147.763" />
+				<Hotspot X="2822.01" Y="5452.95" Z="143.873" />
+				<Hotspot X="2740.67" Y="5421.89" Z="136.95" />
+				<Hotspot X="2766.86" Y="5432.17" Z="136.851" />
+				<Hotspot X="2780.37" Y="5412.93" Z="138.789" />
+				<Hotspot X="2723.45" Y="5426.82" Z="137.415" />
+				<Hotspot X="3073.07" Y="5585.38" Z="145.885" />
+				<Hotspot X="3056.99" Y="5606.51" Z="143.959" />
+				<Hotspot X="3040.88" Y="5714.73" Z="144.773" />
+				<Hotspot X="3091.52" Y="5648.6" Z="143.006" />
+				<Hotspot X="3001.77" Y="5734.09" Z="143.814" />
+				<Hotspot X="3087.86" Y="5681.65" Z="143.082" />
+			</Hotspots>
+		</Objective>
+	</Quest>
+	<Quest Id="10720" Name="The Smallest Creatures">
+		<Objective Type="KillMob" MobId="22356" KillCount="1">
+			<Hotspots>
+				<Hotspot X="3467.9" Y="5847.08" Z="5.2595" />
+			</Hotspots>
+		</Objective>
+		<Objective Type="KillMob" MobId="22367" KillCount="1">
+			<Hotspots>
+				<Hotspot X="3388.65" Y="5843.18" Z="2.9487" />
+			</Hotspots>
+		</Objective>
+		<Objective Type="KillMob" MobId="22368" KillCount="1">
+			<Hotspots>
+				<Hotspot X="3574.68" Y="5809.42" Z="2.9336" />
+			</Hotspots>
+		</Objective>
+		<Objective Type="CollectItem" ItemId="31141" CollectCount="1">
+		</Objective>
+	</Quest>
+	<Quest Id="10721" Name="A Boaring Time for Grulloc">
+		<Objective Type="CollectItem" ItemId="31349" CollectCount="1">
+		</Objective>
+	</Quest>
+	<Quest Id="10722" Name="Meeting at the Blackwing Coven">
+	</Quest>
+	<Quest Id="10723" Name="Gorgrom the Dragon-Eater">
+		<Objective Type="KillMob" MobId="22434" KillCount="3">
+		</Objective>
+		<Objective Type="CollectItem" ItemId="31752" CollectCount="1">
+		</Objective>
+	</Quest>
+	<Quest Id="10747" Name="Whelps of the Wyrmcult">
+		<Objective Type="CollectItem" ItemId="31130" CollectCount="10">
+		</Objective>
+		<Objective Type="CollectItem" ItemId="31129" CollectCount="1">
+		</Objective>
+	</Quest>
+	<Quest Id="10748" Name="Maxnar Must Die!">
+		<Objective Type="KillMob" MobId="21389" KillCount="1">
+			<Hotspots>
+				<Hotspot X="3130.8" Y="7006.54" Z="168.207" />
+			</Hotspots>
+		</Objective>
+	</Quest>
+	<Quest Id="10749" Name="Baron Sablemane&apos;s Poison">
+		<Objective Type="CollectItem" ItemId="31135" CollectCount="1">
+		</Objective>
+	</Quest>
+	<Quest Id="10753" Name="Culling the Wild">
+		<Objective Type="KillMob" MobId="21123" KillCount="4">
+			<Hotspots>
+				<Hotspot X="3014.69" Y="5098.9" Z="262.165" />
+				<Hotspot X="3151.71" Y="5094.15" Z="266.877" />
+				<Hotspot X="3382.96" Y="4979.33" Z="264.331" />
+				<Hotspot X="3447.42" Y="4854.53" Z="260.316" />
+				<Hotspot X="3360.37" Y="4880.55" Z="270.848" />
+				<Hotspot X="3323.18" Y="4918.78" Z="265.37" />
+				<Hotspot X="3223.54" Y="4947.94" Z="267.145" />
+				<Hotspot X="2827.59" Y="5057.01" Z="268.712" />
+			</Hotspots>
+		</Objective>
+		<Objective Type="KillMob" MobId="21124" KillCount="4">
+			<Hotspots>
+				<Hotspot X="2955.63" Y="5091.86" Z="263.055" />
+				<Hotspot X="3024.18" Y="5145.47" Z="262.9" />
+				<Hotspot X="3029.81" Y="5090.15" Z="260.469" />
+				<Hotspot X="3079.26" Y="5192.53" Z="258.586" />
+				<Hotspot X="3126.45" Y="5137.86" Z="270.644" />
+				<Hotspot X="3178.67" Y="5047.54" Z="263.797" />
+				<Hotspot X="3219.18" Y="5125.77" Z="260.837" />
+				<Hotspot X="3324.84" Y="4970.17" Z="265.102" />
+				<Hotspot X="3416.11" Y="5015.54" Z="263.941" />
+				<Hotspot X="3455.96" Y="4992.31" Z="265.727" />
+				<Hotspot X="3455.68" Y="4952.74" Z="262.722" />
+				<Hotspot X="3510.7" Y="5005.71" Z="266.767" />
+				<Hotspot X="3535.62" Y="4750.79" Z="240.233" />
+				<Hotspot X="3494.14" Y="4799.88" Z="249.312" />
+				<Hotspot X="3479.02" Y="4819.54" Z="253.005" />
+				<Hotspot X="3421.02" Y="4811.18" Z="266.451" />
+				<Hotspot X="3386.41" Y="4863.69" Z="269.39" />
+				<Hotspot X="3330.6" Y="4831.29" Z="275.728" />
+				<Hotspot X="3187.71" Y="4918.49" Z="267.631" />
+				<Hotspot X="3148.08" Y="4940.27" Z="269.38" />
+				<Hotspot X="3240.72" Y="4891.68" Z="266.895" />
+				<Hotspot X="3045.17" Y="5022.63" Z="257.966" />
+				<Hotspot X="2940.66" Y="5010.39" Z="264.241" />
+				<Hotspot X="2871.53" Y="4950.86" Z="268.293" />
+				<Hotspot X="2848.0" Y="4984.37" Z="266.412" />
+				<Hotspot X="2829.7" Y="5066.17" Z="266.91" />
+				<Hotspot X="2835.84" Y="5081.18" Z="268.049" />
+				<Hotspot X="2731.0" Y="5076.21" Z="268.245" />
+			</Hotspots>
+		</Objective>
+		<Objective Type="KillMob" MobId="21300" KillCount="2">
+			<Hotspots>
+				<Hotspot X="3113.37" Y="5087.61" Z="267.159" />
+				<Hotspot X="3210.25" Y="5097.48" Z="262.4" />
+				<Hotspot X="3212.71" Y="5103.22" Z="263.038" />
+				<Hotspot X="3379.71" Y="4999.32" Z="262.454" />
+				<Hotspot X="3385.91" Y="4998.86" Z="262.762" />
+				<Hotspot X="3471.18" Y="4826.77" Z="253.546" />
+				<Hotspot X="3477.81" Y="4825.4" Z="253.171" />
+				<Hotspot X="3366.22" Y="4863.83" Z="271.174" />
+				<Hotspot X="3362.93" Y="4868.84" Z="271.08" />
+				<Hotspot X="3151.07" Y="4949.92" Z="267.632" />
+				<Hotspot X="3141.25" Y="4949.63" Z="269.463" />
+				<Hotspot X="2861.98" Y="4969.95" Z="268.554" />
+				<Hotspot X="2855.81" Y="4982.38" Z="267.287" />
+			</Hotspots>
+		</Objective>
+	</Quest>
+	<Quest Id="10770" Name="Little Embers">
+		<Objective Type="KillMob" MobId="21021" KillCount="8">
+			<Hotspots>
+				<Hotspot X="3512.25" Y="4952.45" Z="265.819" />
+				<Hotspot X="3554.72" Y="4928.7" Z="265.148" />
+				<Hotspot X="3550.07" Y="4990.73" Z="267.647" />
+				<Hotspot X="3579.39" Y="4920.96" Z="269.715" />
+				<Hotspot X="3643.64" Y="4973.01" Z="263.291" />
+				<Hotspot X="3648.13" Y="4947.38" Z="264.108" />
+				<Hotspot X="3653.47" Y="5016.78" Z="267.034" />
+				<Hotspot X="3686.62" Y="5008.23" Z="266.31" />
+				<Hotspot X="3744.79" Y="4943.63" Z="277.165" />
+				<Hotspot X="3738.81" Y="5013.08" Z="275.481" />
+				<Hotspot X="3587.98" Y="5014.89" Z="266.343" />
+				<Hotspot X="3745.83" Y="4870.83" Z="256.1" />
+			</Hotspots>
+		</Objective>
+	</Quest>
+	<Quest Id="10771" Name="From the Ashes">
+		<Objective Type="CollectItem" ItemId="185124" CollectCount="1">
+			<CollectFrom>
+				<GameObject Name="Fertile Volcanic Soil" Id="185124" />
+			</CollectFrom>
+			<Hotspots>
+				<Hotspot X="3599.83" Y="4958.24" Z="267.815" />
+			</Hotspots>
+		</Objective>
+		<Objective Type="CollectItem" ItemId="185147" CollectCount="1">
+			<CollectFrom>
+				<GameObject Name="Fertile Volcanic Soil" Id="185147" />
+			</CollectFrom>
+			<Hotspots>
+				<Hotspot X="3672.17" Y="4962.03" Z="266.285" />
+			</Hotspots>
+		</Objective>
+		<Objective Type="CollectItem" ItemId="185148" CollectCount="1">
+			<CollectFrom>
+				<GameObject Name="Fertile Volcanic Soil" Id="185148" />
+			</CollectFrom>
+			<Hotspots>
+				<Hotspot X="3740.23" Y="4962.22" Z="276.698" />
+			</Hotspots>
+		</Objective>
+		<Objective Type="CollectItem" ItemId="31300" CollectCount="1">
+		</Objective>
+	</Quest>
+	<Quest Id="10783" Name="Baron Sablemane">
+	</Quest>
+	<Quest Id="10784" Name="Crush the Bloodmaul Camp">
+		<Objective Type="KillMob" MobId="19993" KillCount="10">
+			<Hotspots>
+				<Hotspot X="3096.4" Y="5897.46" Z="-5.5926" />
+				<Hotspot X="3106.7" Y="5806.45" Z="0.0446" />
+				<Hotspot X="3224.73" Y="5892.79" Z="-3.117" />
+				<Hotspot X="3261.58" Y="5869.3" Z="-1.865" />
+				<Hotspot X="3198.46" Y="5902.46" Z="-4.2293" />
+				<Hotspot X="3248.54" Y="5844.17" Z="-1.0846" />
+				<Hotspot X="3368.57" Y="5811.02" Z="40.022" />
+				<Hotspot X="3359.92" Y="5834.11" Z="17.832" />
+				<Hotspot X="3297.24" Y="5721.74" Z="-7.1476" />
+				<Hotspot X="3287.47" Y="5663.57" Z="19.9143" />
+				<Hotspot X="3191.49" Y="5758.7" Z="-6.7604" />
+				<Hotspot X="3407.0" Y="5736.28" Z="-9.9414" />
+				<Hotspot X="3383.74" Y="5757.26" Z="-9.4639" />
+				<Hotspot X="3477.73" Y="5754.44" Z="34.2339" />
+				<Hotspot X="3524.77" Y="5854.66" Z="3.3182" />
+				<Hotspot X="3505.26" Y="5713.36" Z="-9.4384" />
+				<Hotspot X="3553.14" Y="5800.52" Z="36.3056" />
+				<Hotspot X="3560.62" Y="5783.93" Z="36.6128" />
+				<Hotspot X="3536.15" Y="5713.89" Z="-9.4528" />
+			</Hotspots>
+		</Objective>
+		<Objective Type="KillMob" MobId="19994" KillCount="5">
+			<Hotspots>
+				<Hotspot X="3087.89" Y="5925.95" Z="-6.5774" />
+				<Hotspot X="3083.33" Y="5868.84" Z="-0.4444" />
+				<Hotspot X="3123.15" Y="5842.21" Z="-9.7483" />
+				<Hotspot X="3162.78" Y="5796.71" Z="-7.4036" />
+				<Hotspot X="3179.62" Y="5872.0" Z="-6.6721" />
+				<Hotspot X="3326.09" Y="5703.92" Z="-0.7046" />
+				<Hotspot X="3463.08" Y="5733.71" Z="11.7983" />
+				<Hotspot X="3428.07" Y="5843.99" Z="4.6788" />
+				<Hotspot X="3462.94" Y="5839.89" Z="5.0683" />
+				<Hotspot X="3490.88" Y="5781.21" Z="4.5372" />
+				<Hotspot X="3479.72" Y="5828.57" Z="5.2127" />
+				<Hotspot X="3535.76" Y="5843.14" Z="3.3447" />
+				<Hotspot X="3501.82" Y="5862.58" Z="17.1703" />
+				<Hotspot X="3613.78" Y="5787.32" Z="3.9858" />
+			</Hotspots>
+		</Objective>
+	</Quest>
+	<Quest Id="10785" Name="It&apos;s a Trap!">
+		<Objective Type="CollectItem" ItemId="31351" CollectCount="1">
+		</Objective>
+	</Quest>
+	<Quest Id="10786" Name="Slaughter at Boulder&apos;mok">
+		<Objective Type="KillMob" MobId="21046" KillCount="5">
+			<Hotspots>
+				<Hotspot X="3536.76" Y="7188.01" Z="155.59" />
+				<Hotspot X="3549.42" Y="7241.37" Z="139.86" />
+				<Hotspot X="3514.51" Y="7206.31" Z="139.782" />
+				<Hotspot X="3580.16" Y="7228.1" Z="138.262" />
+				<Hotspot X="3540.1" Y="7208.69" Z="140.147" />
+				<Hotspot X="3591.02" Y="7188.98" Z="138.358" />
+				<Hotspot X="3593.69" Y="7215.44" Z="138.112" />
+				<Hotspot X="3630.08" Y="7223.25" Z="136.998" />
+				<Hotspot X="3609.74" Y="7136.49" Z="140.571" />
+				<Hotspot X="3615.42" Y="7110.99" Z="154.614" />
+				<Hotspot X="3686.1" Y="7154.7" Z="141.855" />
+				<Hotspot X="3666.55" Y="7177.22" Z="141.181" />
+			</Hotspots>
+		</Objective>
+		<Objective Type="KillMob" MobId="21047" KillCount="3">
+			<Hotspots>
+				<Hotspot X="3528.53" Y="7165.08" Z="174.65" />
+				<Hotspot X="3578.19" Y="7223.22" Z="138.612" />
+				<Hotspot X="3603.72" Y="7214.6" Z="138.596" />
+				<Hotspot X="3616.61" Y="7210.66" Z="137.245" />
+				<Hotspot X="3586.04" Y="7119.2" Z="140.521" />
+				<Hotspot X="3636.39" Y="7110.55" Z="178.535" />
+			</Hotspots>
+		</Objective>
+	</Quest>
+	<Quest Id="10810" Name="Damaged Mask">
+		<Objective Type="CollectItem" ItemId="31384" CollectCount="1">
+			<Hotspots>
+				<Hotspot X="3113.37" Y="5087.61" Z="267.159" />
+				<Hotspot X="3210.25" Y="5097.48" Z="262.264" />
+				<Hotspot X="3212.71" Y="5103.22" Z="262.812" />
+				<Hotspot X="3379.71" Y="4999.32" Z="262.454" />
+				<Hotspot X="3385.91" Y="4998.86" Z="262.762" />
+				<Hotspot X="3471.18" Y="4826.77" Z="253.546" />
+				<Hotspot X="3477.81" Y="4825.4" Z="253.171" />
+				<Hotspot X="3366.22" Y="4863.83" Z="271.174" />
+				<Hotspot X="3362.93" Y="4868.84" Z="270.963" />
+				<Hotspot X="3151.07" Y="4949.92" Z="267.632" />
+				<Hotspot X="3141.25" Y="4949.63" Z="269.463" />
+				<Hotspot X="2861.98" Y="4969.95" Z="268.381" />
+				<Hotspot X="2855.81" Y="4982.38" Z="267.287" />
+			</Hotspots>
+		</Objective>
+		<Objective Type="KillMob" MobId="21300" KillCount="1">
+			<Hotspots>
+				<Hotspot X="3113.37" Y="5087.61" Z="267.159" />
+				<Hotspot X="3210.25" Y="5097.48" Z="262.264" />
+				<Hotspot X="3212.71" Y="5103.22" Z="262.812" />
+			</Hotspots>
+		</Objective>
+	</Quest>
+	<Quest Id="10812" Name="Mystery Mask">
+		<Objective Type="CollectItem" ItemId="31387" CollectCount="1">
+		</Objective>
+	</Quest>
+	<Quest Id="10819" Name="Felsworn Gas Mask">
+	</Quest>
+	<Quest Id="10820" Name="Deceive thy Enemy">
+		<Objective Type="KillMob" MobId="19961" KillCount="4">
+			<Hotspots>
+				<Hotspot X="2962.18" Y="4867.59" Z="277.53" />
+				<Hotspot X="2924.09" Y="4845.89" Z="279.071" />
+				<Hotspot X="2892.13" Y="4779.99" Z="277.635" />
+				<Hotspot X="2929.56" Y="4773.5" Z="283.636" />
+				<Hotspot X="2973.15" Y="4762.98" Z="285.438" />
+				<Hotspot X="2985.28" Y="4760.73" Z="285.207" />
+				<Hotspot X="2862.43" Y="4819.82" Z="282.854" />
+			</Hotspots>
+		</Objective>
+		<Objective Type="KillMob" MobId="19960" KillCount="4">
+			<Hotspots>
+				<Hotspot X="2961.35" Y="4827.73" Z="277.629" />
+				<Hotspot X="2963.09" Y="4793.36" Z="282.714" />
+				<Hotspot X="2937.23" Y="4783.72" Z="282.839" />
+				<Hotspot X="2880.71" Y="4836.11" Z="278.049" />
+				<Hotspot X="2944.35" Y="4764.96" Z="283.689" />
+			</Hotspots>
+		</Objective>
+	</Quest>
+	<Quest Id="10825" Name="The Truth Unorbed">
+		<Objective Type="CollectItem" ItemId="31489" CollectCount="1">
+			<Hotspots>
+				<Hotspot X="3510.97" Y="6552.26" Z="131.945" />
+				<Hotspot X="3542.88" Y="6576.96" Z="133.043" />
+				<Hotspot X="3617.97" Y="6574.75" Z="134.924" />
+				<Hotspot X="3669.47" Y="6634.12" Z="129.701" />
+				<Hotspot X="3641.1" Y="6608.94" Z="131.809" />
+				<Hotspot X="3770.66" Y="6629.18" Z="150.586" />
+				<Hotspot X="3762.06" Y="6639.39" Z="149.141" />
+				<Hotspot X="3683.92" Y="6677.08" Z="129.547" />
+				<Hotspot X="3730.08" Y="6694.57" Z="136.039" />
+				<Hotspot X="3724.2" Y="6728.1" Z="135.576" />
+				<Hotspot X="3681.47" Y="6763.18" Z="135.541" />
+				<Hotspot X="3676.6" Y="6689.49" Z="129.246" />
+				<Hotspot X="3531.33" Y="6639.55" Z="175.889" />
+				<Hotspot X="3624.09" Y="6596.42" Z="133.614" />
+				<Hotspot X="3611.41" Y="6616.52" Z="130.546" />
+				<Hotspot X="3624.21" Y="6545.54" Z="154.885" />
+				<Hotspot X="3624.64" Y="6514.74" Z="154.813" />
+				<Hotspot X="3639.2" Y="6509.52" Z="165.402" />
+				<Hotspot X="3626.04" Y="6517.83" Z="165.976" />
+				<Hotspot X="3669.37" Y="6576.32" Z="133.949" />
+				<Hotspot X="3634.39" Y="6660.44" Z="174.718" />
+				<Hotspot X="3721.89" Y="6547.61" Z="179.452" />
+				<Hotspot X="3751.7" Y="6545.23" Z="179.443" />
+				<Hotspot X="3807.57" Y="6653.5" Z="169.667" />
+				<Hotspot X="3775.24" Y="6719.76" Z="137.539" />
+				<Hotspot X="3813.79" Y="6677.12" Z="169.205" />
+				<Hotspot X="3770.25" Y="6728.92" Z="169.653" />
+				<Hotspot X="3792.73" Y="6726.22" Z="169.707" />
+				<Hotspot X="3619.95" Y="6682.86" Z="174.765" />
+				<Hotspot X="3584.37" Y="6679.51" Z="128.593" />
+				<Hotspot X="3519.54" Y="6739.42" Z="204.456" />
+				<Hotspot X="3484.26" Y="6738.45" Z="204.0" />
+				<Hotspot X="3405.28" Y="6680.71" Z="204.681" />
+				<Hotspot X="3387.83" Y="6698.7" Z="215.623" />
+				<Hotspot X="3581.23" Y="6612.03" Z="130.046" />
+				<Hotspot X="3575.5" Y="6651.48" Z="128.52" />
+				<Hotspot X="3586.76" Y="6662.39" Z="168.141" />
+				<Hotspot X="3642.33" Y="6560.56" Z="136.846" />
+				<Hotspot X="3621.71" Y="6560.25" Z="135.936" />
+				<Hotspot X="3658.86" Y="6650.45" Z="127.036" />
+			</Hotspots>
+		</Objective>
+	</Quest>
+	<Quest Id="10829" Name="Treebole Must Know">
+	</Quest>
+	<Quest Id="10830" Name="Exorcising the Trees">
+		<Objective Type="KillMob" MobId="22226" KillCount="5">
+		</Objective>
+	</Quest>
+	<Quest Id="10843" Name="Since Time Forgotten...">
+		<Objective Type="KillMob" MobId="20768" KillCount="1">
+			<Hotspots>
+				<Hotspot X="2437.76" Y="5746.19" Z="272.288" />
+			</Hotspots>
+		</Objective>
+	</Quest>
+	<Quest Id="10845" Name="Slay the Brood Mother">
+		<Objective Type="KillMob" MobId="21032" KillCount="1">
+			<Hotspots>
+				<Hotspot X="1609.29" Y="5440.47" Z="266.058" />
+			</Hotspots>
+		</Objective>
+	</Quest>
+	<Quest Id="10846" Name="Understanding the Mok&apos;Nathal">
+		<Objective Type="KillMob" MobId="22305" KillCount="1">
+			<Hotspots>
+				<Hotspot X="1797.9" Y="5044.21" Z="178.462" />
+			</Hotspots>
+		</Objective>
+	</Quest>
+	<Quest Id="10851" Name="The Totems of My Enemy">
+		<Objective Type="CollectItem" ItemId="31651" CollectCount="5">
+			<Hotspots>
+				<Hotspot X="2178.99" Y="5678.11" Z="267.785" />
+				<Hotspot X="2219.87" Y="5726.65" Z="272.905" />
+				<Hotspot X="2280.86" Y="5678.08" Z="265.511" />
+				<Hotspot X="2246.69" Y="5771.65" Z="268.131" />
+				<Hotspot X="2343.1" Y="5723.1" Z="268.73" />
+				<Hotspot X="2338.8" Y="5760.94" Z="273.441" />
+				<Hotspot X="2357.99" Y="5761.84" Z="272.287" />
+				<Hotspot X="2431.04" Y="5619.22" Z="266.678" />
+				<Hotspot X="2445.89" Y="5694.34" Z="273.117" />
+				<Hotspot X="2431.52" Y="5731.81" Z="272.371" />
+				<Hotspot X="2167.83" Y="5672.2" Z="266.535" />
+				<Hotspot X="2228.62" Y="5709.58" Z="272.966" />
+				<Hotspot X="2209.62" Y="5696.3" Z="275.872" />
+				<Hotspot X="2298.23" Y="5756.09" Z="269.62" />
+				<Hotspot X="2322.43" Y="5733.2" Z="267.55" />
+				<Hotspot X="2333.21" Y="5659.59" Z="262.859" />
+				<Hotspot X="2379.85" Y="5637.82" Z="267.198" />
+				<Hotspot X="2385.0" Y="5624.22" Z="266.383" />
+				<Hotspot X="2419.24" Y="5586.29" Z="265.971" />
+				<Hotspot X="2420.33" Y="5735.48" Z="272.17" />
+			</Hotspots>
+		</Objective>
+	</Quest>
+	<Quest Id="10853" Name="Spirit Calling">
+		<Objective Type="CollectItem" ItemId="31656" CollectCount="8">
+			<Hotspots>
+				<Hotspot X="1758.35" Y="5588.59" Z="265.488" />
+				<Hotspot X="1729.93" Y="5637.13" Z="265.94" />
+				<Hotspot X="1781.58" Y="5620.78" Z="266.031" />
+				<Hotspot X="1710.89" Y="5584.64" Z="266.003" />
+				<Hotspot X="1690.83" Y="5637.83" Z="265.475" />
+				<Hotspot X="1634.37" Y="5627.82" Z="265.861" />
+				<Hotspot X="1654.85" Y="5518.62" Z="266.169" />
+				<Hotspot X="1684.4" Y="5578.88" Z="265.82" />
+				<Hotspot X="1548.55" Y="5574.6" Z="263.814" />
+				<Hotspot X="1541.69" Y="5532.3" Z="261.896" />
+				<Hotspot X="1540.83" Y="5515.46" Z="266.001" />
+				<Hotspot X="1617.86" Y="5480.69" Z="265.877" />
+				<Hotspot X="1581.97" Y="5443.21" Z="266.104" />
+				<Hotspot X="1624.59" Y="5428.15" Z="266.312" />
+				<Hotspot X="1619.42" Y="5354.08" Z="265.831" />
+				<Hotspot X="1637.22" Y="5374.09" Z="266.308" />
+				<Hotspot X="1650.28" Y="5206.49" Z="265.751" />
+				<Hotspot X="1584.41" Y="5192.08" Z="325.269" />
+				<Hotspot X="1664.68" Y="5254.28" Z="265.357" />
+				<Hotspot X="1622.11" Y="5242.92" Z="265.594" />
+				<Hotspot X="1618.51" Y="5256.21" Z="265.824" />
+				<Hotspot X="1655.5" Y="5328.62" Z="265.953" />
+			</Hotspots>
+		</Objective>
+		<Objective Type="KillMob" MobId="21004" KillCount="8">
+			<Hotspots>
+				<Hotspot X="1758.35" Y="5588.59" Z="265.488" />
+				<Hotspot X="1729.93" Y="5637.13" Z="265.94" />
+				<Hotspot X="1781.58" Y="5620.78" Z="266.031" />
+			</Hotspots>
+		</Objective>
+	</Quest>
+	<Quest Id="10859" Name="Gather the Orbs">
+		<Objective Type="KillMob" MobId="21929" KillCount="15">
+		</Objective>
+		<Objective Type="CollectItem" ItemId="31668" CollectCount="1">
+		</Objective>
+	</Quest>
+	<Quest Id="10860" Name="Mok&apos;Nathal Treats">
+		<Objective Type="CollectItem" ItemId="31670" CollectCount="3">
+			<Hotspots>
+				<Hotspot X="2382.26" Y="6686.46" Z="15.6793" />
+				<Hotspot X="2413.46" Y="6753.88" Z="17.5762" />
+				<Hotspot X="2378.49" Y="6692.97" Z="15.9293" />
+				<Hotspot X="2470.18" Y="6641.68" Z="0.9174" />
+				<Hotspot X="2597.99" Y="6622.49" Z="14.2359" />
+				<Hotspot X="2674.58" Y="6597.52" Z="21.5747" />
+				<Hotspot X="2637.0" Y="6510.06" Z="0.8508" />
+				<Hotspot X="2564.4" Y="6551.85" Z="0.8508" />
+				<Hotspot X="2495.86" Y="6498.41" Z="-5.0033" />
+				<Hotspot X="2432.3" Y="6579.4" Z="1.3256" />
+				<Hotspot X="2431.91" Y="6333.95" Z="10.4907" />
+				<Hotspot X="2625.06" Y="6238.14" Z="11.0278" />
+				<Hotspot X="2583.49" Y="6152.88" Z="19.6487" />
+				<Hotspot X="2548.87" Y="6215.75" Z="14.3167" />
+				<Hotspot X="3589.22" Y="5672.06" Z="-9.9639" />
+				<Hotspot X="3677.25" Y="5601.56" Z="-9.3113" />
+				<Hotspot X="3663.11" Y="5482.19" Z="-20.4708" />
+				<Hotspot X="3648.18" Y="5425.93" Z="-20.0527" />
+				<Hotspot X="3675.14" Y="5424.16" Z="-20.457" />
+				<Hotspot X="3589.86" Y="5368.07" Z="-11.1119" />
+				<Hotspot X="3605.6" Y="5335.02" Z="-20.4227" />
+				<Hotspot X="3534.25" Y="5283.52" Z="-21.9375" />
+				<Hotspot X="3570.87" Y="5667.99" Z="-10.2139" />
+				<Hotspot X="2476.53" Y="5492.32" Z="264.824" />
+				<Hotspot X="2497.6" Y="5440.27" Z="267.436" />
+				<Hotspot X="2417.25" Y="5482.01" Z="266.917" />
+				<Hotspot X="2472.99" Y="5363.07" Z="269.747" />
+				<Hotspot X="2566.15" Y="5407.15" Z="270.391" />
+				<Hotspot X="2586.34" Y="5371.81" Z="271.495" />
+				<Hotspot X="2609.77" Y="5162.17" Z="264.905" />
+				<Hotspot X="2571.0" Y="5196.01" Z="262.534" />
+				<Hotspot X="2426.7" Y="5251.5" Z="260.921" />
+				<Hotspot X="2349.77" Y="5216.74" Z="263.642" />
+				<Hotspot X="2249.64" Y="5257.75" Z="265.505" />
+				<Hotspot X="2086.78" Y="5218.04" Z="265.275" />
+				<Hotspot X="1907.13" Y="5187.73" Z="265.788" />
+				<Hotspot X="1864.64" Y="5177.07" Z="265.518" />
+				<Hotspot X="1816.96" Y="5085.33" Z="265.245" />
+				<Hotspot X="2955.63" Y="5091.86" Z="263.055" />
+			</Hotspots>
+		</Objective>
+		<Objective Type="CollectItem" ItemId="31671" CollectCount="3">
+			<Hotspots>
+				<Hotspot X="2399.09" Y="6168.52" Z="128.123" />
+				<Hotspot X="2446.78" Y="5500.95" Z="265.828" />
+				<Hotspot X="2516.17" Y="5383.76" Z="267.185" />
+				<Hotspot X="2581.73" Y="5309.56" Z="270.481" />
+				<Hotspot X="2546.18" Y="5261.06" Z="260.391" />
+				<Hotspot X="2414.52" Y="5215.41" Z="262.077" />
+				<Hotspot X="2329.25" Y="5247.46" Z="262.349" />
+				<Hotspot X="2201.93" Y="5227.86" Z="265.917" />
+				<Hotspot X="2174.49" Y="5149.58" Z="265.991" />
+				<Hotspot X="2061.54" Y="5186.5" Z="265.128" />
+				<Hotspot X="1998.56" Y="5186.59" Z="266.535" />
+				<Hotspot X="2021.6" Y="5154.39" Z="265.558" />
+				<Hotspot X="1920.75" Y="5125.37" Z="265.557" />
+				<Hotspot X="1937.81" Y="5137.81" Z="266.243" />
+				<Hotspot X="1980.23" Y="5115.1" Z="266.479" />
+				<Hotspot X="1884.24" Y="5150.98" Z="265.558" />
+				<Hotspot X="1792.39" Y="5123.45" Z="265.599" />
+				<Hotspot X="1825.75" Y="5157.91" Z="265.542" />
+				<Hotspot X="1731.11" Y="5128.1" Z="265.121" />
+				<Hotspot X="1736.6" Y="5149.92" Z="265.121" />
+				<Hotspot X="1739.88" Y="5092.26" Z="265.162" />
+				<Hotspot X="3014.69" Y="5098.9" Z="262.165" />
+				<Hotspot X="3151.71" Y="5094.15" Z="266.877" />
+				<Hotspot X="3382.96" Y="4979.33" Z="264.331" />
+				<Hotspot X="3447.42" Y="4854.53" Z="260.316" />
+				<Hotspot X="3360.37" Y="4880.55" Z="270.848" />
+				<Hotspot X="3323.18" Y="4918.78" Z="265.37" />
+				<Hotspot X="3223.54" Y="4947.94" Z="267.145" />
+				<Hotspot X="2827.59" Y="5057.01" Z="268.712" />
+			</Hotspots>
+		</Objective>
+	</Quest>
+	<Quest Id="10865" Name="Inform Leoroxx!">
+	</Quest>
+	<Quest Id="10867" Name="There Can Be Only One Response">
+		<Objective Type="CollectItem" ItemId="30890" CollectCount="1">
+		</Objective>
+	</Quest>
+	<Quest Id="10893" Name="Longtail is the Lynchpin">
+		<Objective Type="KillMob" MobId="22396" KillCount="1">
+			<Hotspots>
+				<Hotspot X="3233.38" Y="6394.42" Z="131.46" />
+			</Hotspots>
+		</Objective>
+	</Quest>
+	<Quest Id="10894" Name="Wyrmskull Watcher">
+		<Objective Type="CollectItem" ItemId="31740" CollectCount="1">
+		</Objective>
+	</Quest>
+
+	<QuestOrder>
+		<CustomBehavior File="UserSettings" LootMobs="True" TrainNewSkills="True" FindVendorsAutomatically="True" LearnFlightPaths="True" UseFlightPaths="True" PullDistance="25" />
+		<Objective QuestName="Grimnok and Korgaah, I Am For You!" QuestId="10543" Type="KillMob" MobId="20095" KillCount="1" />
+		<RunTo X="1500.85" Y="6380.42" Z="35.2803" QuestId="10543" />
+		<While Condition="((HasQuest(10543)) &amp;&amp; (!IsQuestCompleted(10543)))">
+			<CustomBehavior File="UseItemOn" QuestId="10543" MobId="20723" ItemId="29443" NumOfTimes="1" Range="5" CollectionDistance="1000" WaitTime="2000" X="2706.78" Y="6490.82" Z="25.6484" />
+		</While>
+		<RunTo X="2706.78" Y="6490.82" Z="25.6484" QuestId="10543" />
+		<TurnIn QuestName="Grimnok and Korgaah, I Am For You!" QuestId="10543" TurnInName="T&apos;chali the Witch Doctor" TurnInId="21349" X="1793.14" Y="6406.45" Z="-11.5" />
+		<PickUp QuestName="A Curse Upon Both of Your Clans!" QuestId="10544" GiverName="T&apos;chali the Witch Doctor" GiverId="21349" X="1793.14" Y="6406.45" Z="-11.5" />
+		<While Condition="((HasQuest(10544)) &amp;&amp; (!IsQuestCompleted(10544)))">
+			<CustomBehavior File="UseItemOn" QuestId="10544" MobId="21452" ItemId="30479" NumOfTimes="1" Range="5" CollectionDistance="1000" WaitTime="2000" X="1793.14" Y="6406.45" Z="-11.5" />
+		</While>
+		<While Condition="((HasQuest(10544)) &amp;&amp; (!IsQuestCompleted(10544)))">
+			<CustomBehavior File="UseItemOn" QuestId="10544" MobId="21446" ItemId="30479" NumOfTimes="1" Range="5" CollectionDistance="1000" WaitTime="2000" X="1793.14" Y="6406.45" Z="-11.5" />
+		</While>
+		<TurnIn QuestName="A Curse Upon Both of Your Clans!" QuestId="10544" TurnInName="T&apos;chali the Witch Doctor" TurnInId="21349" X="1793.14" Y="6406.45" Z="-11.5" />
+		<TurnIn QuestName="The Bloodmaul Ogres" QuestId="10505" TurnInName="Tor&apos;chunk Twoclaws" TurnInId="21147" X="2295.88" Y="6027.99" Z="142.641" />
+		<TurnIn QuestName="The Thunderspike" QuestId="10526" TurnInName="Rokgah Bloodgrip" TurnInId="21311" X="2276.08" Y="5981.62" Z="142.788" />
+		<PickUp QuestName="The Spirits Have Voices" QuestId="10718" GiverName="Garm Wolfbrother" GiverId="21950" X="2272.95" Y="5984.4" Z="142.799" />
+		<TurnIn QuestName="The Spirits Have Voices" QuestId="10718" TurnInName="Rexxar" TurnInId="21984" X="2298.11" Y="6034.42" Z="142.586" />
+		<PickUp QuestName="Whispers on the Wind" QuestId="10614" GiverName="Rexxar" GiverId="21984" X="2298.11" Y="6034.42" Z="142.586" />
+		<PickUp QuestName="The Stones of Vekh&apos;nir" QuestId="10565" GiverName="Dertrok" GiverId="21496" X="2162.21" Y="4769.62" Z="156.633" />
+		<TurnIn QuestName="Whispers on the Wind" QuestId="10614" TurnInName="Leoroxx" TurnInId="22004" X="2207.24" Y="4761.25" Z="158.082" />
+		<PickUp QuestName="Reunion" QuestId="10709" GiverName="Leoroxx" GiverId="22004" X="2207.24" Y="4761.25" Z="158.082" />
+		<PickUp QuestName="Mok&apos;Nathal Treats" QuestId="10860" GiverName="Matron Varah" GiverId="21088" X="2227.13" Y="4717.91" Z="162.075" />
+		<PickUp QuestName="Silkwing Cocoons" QuestId="10617" GiverName="Taerek" GiverId="21895" X="2186.73" Y="4729.71" Z="157.036" />
+		<PickUp QuestName="The Softest Wings" QuestId="10618" GiverName="Silmara" GiverId="21896" X="2182.92" Y="4731.6" Z="156.632" />
+		<TurnIn QuestName="Reunion" QuestId="10709" TurnInName="Rexxar" TurnInId="21984" X="2298.11" Y="6034.42" Z="142.586" />
+		<PickUp QuestName="On Spirit&apos;s Wings" QuestId="10714" GiverName="Rexxar" GiverId="21984" X="2298.11" Y="6034.42" Z="142.586" />
+		<Objective QuestName="Silkwing Cocoons" QuestId="10617" Type="CollectItem" ItemId="30791" CollectCount="8" />
+		<Objective QuestName="The Softest Wings" QuestId="10618" Type="CollectItem" ItemId="30792" CollectCount="12" />
+		<While Condition="((HasQuest(10565)) &amp;&amp; (!IsQuestCompleted(10565)))">
+			<CustomBehavior File="UseItemOn" QuestId="10565" MobId="30567" ItemId="30561" NumOfTimes="1" Range="5" CollectionDistance="1000" WaitTime="2000" X="2162.21" Y="4769.62" Z="156.633" />
+		</While>
+		<TurnIn QuestName="The Stones of Vekh&apos;nir" QuestId="10565" TurnInName="Dertrok" TurnInId="21496" X="2162.21" Y="4769.62" Z="156.633" />
+		<PickUp QuestName="Trial and Error" QuestId="10566" GiverName="Dertrok" GiverId="21496" X="2162.21" Y="4769.62" Z="156.633" />
+		<TurnIn QuestName="Silkwing Cocoons" QuestId="10617" TurnInName="Taerek" TurnInId="21895" X="2186.73" Y="4729.71" Z="157.036" />
+		<TurnIn QuestName="The Softest Wings" QuestId="10618" TurnInName="Silmara" TurnInId="21896" X="2182.92" Y="4731.6" Z="156.632" />
+		<PickUp QuestName="Understanding the Mok&apos;Nathal" QuestId="10846" GiverName="Leoroxx" GiverId="22004" X="2207.24" Y="4761.25" Z="158.082" />
+		<While Condition="((HasQuest(10566)) &amp;&amp; (!IsQuestCompleted(10566)))">
+			<CustomBehavior File="UseItemOn" QuestId="10566" MobId="21716" ItemId="30654" NumOfTimes="1" Range="5" CollectionDistance="1000" WaitTime="2000" X="2162.21" Y="4769.62" Z="156.633" />
+		</While>
+		<Objective QuestName="Understanding the Mok&apos;Nathal" QuestId="10846" Type="KillMob" MobId="22305" KillCount="1" />
+		<RunTo X="1797.9" Y="5044.21" Z="178.462" QuestId="10846" />
+		<Objective QuestName="Trial and Error" QuestId="10566" Type="KillMob" MobId="21713" KillCount="1" />
+		<Objective QuestName="Trial and Error" QuestId="10566" Type="KillMob" MobId="21714" KillCount="1" />
+		<Objective QuestName="Trial and Error" QuestId="10566" Type="KillMob" MobId="21715" KillCount="1" />
+		<Objective QuestName="Trial and Error" QuestId="10566" Type="KillMob" MobId="21716" KillCount="1" />
+		<TurnIn QuestName="Trial and Error" QuestId="10566" TurnInName="Dertrok" TurnInId="21496" X="2162.21" Y="4769.62" Z="156.633" />
+		<PickUp QuestName="Ruuan Weald" QuestId="10615" GiverName="Dertrok" GiverId="21496" X="2162.21" Y="4769.62" Z="156.633" />
+		<TurnIn QuestName="Understanding the Mok&apos;Nathal" QuestId="10846" TurnInName="Leoroxx" TurnInId="22004" X="2207.24" Y="4761.25" Z="158.082" />
+		<PickUp QuestName="Since Time Forgotten..." QuestId="10843" GiverName="Leoroxx" GiverId="22004" X="2207.24" Y="4761.25" Z="158.082" />
+		<PickUp QuestName="The Totems of My Enemy" QuestId="10851" GiverName="Spiritcaller Dohgar" GiverId="22312" X="2221.21" Y="4781.8" Z="156.583" />
+		<Objective QuestName="Mok&apos;Nathal Treats" QuestId="10860" Type="CollectItem" ItemId="31671" CollectCount="3" />
+		<Objective QuestName="Mok&apos;Nathal Treats" QuestId="10860" Type="CollectItem" ItemId="31670" CollectCount="3" />
+		<Objective QuestName="The Totems of My Enemy" QuestId="10851" Type="CollectItem" ItemId="31651" CollectCount="5" />
+		<Objective QuestName="Since Time Forgotten..." QuestId="10843" Type="KillMob" MobId="20768" KillCount="1" />
+		<RunTo X="2437.76" Y="5746.19" Z="272.288" QuestId="10843" />
+		<TurnIn QuestName="Since Time Forgotten..." QuestId="10843" TurnInName="Leoroxx" TurnInId="22004" X="2207.24" Y="4761.25" Z="158.082" />
+		<PickUp QuestName="Slay the Brood Mother" QuestId="10845" GiverName="Leoroxx" GiverId="22004" X="2207.24" Y="4761.25" Z="158.082" />
+		<TurnIn QuestName="The Totems of My Enemy" QuestId="10851" TurnInName="Spiritcaller Dohgar" TurnInId="22312" X="2221.21" Y="4781.8" Z="156.583" />
+		<PickUp QuestName="Spirit Calling" QuestId="10853" GiverName="Spiritcaller Dohgar" GiverId="22312" X="2221.21" Y="4781.8" Z="156.583" />
+		<TurnIn QuestName="Mok&apos;Nathal Treats" QuestId="10860" TurnInName="Matron Varah" TurnInId="21088" X="2227.13" Y="4717.91" Z="162.075" />
+		<While Condition="((HasQuest(10845)) &amp;&amp; (!IsQuestCompleted(10845)))">
+			<CustomBehavior File="UseItemOn" QuestId="10845" MobId="21032" ItemId="31663" NumOfTimes="1" Range="5" CollectionDistance="1000" WaitTime="2000" X="1609.29" Y="5440.47" Z="266.058" />
+		</While>
+		<Objective QuestName="Spirit Calling" QuestId="10853" Type="CollectItem" ItemId="31656" CollectCount="8" />
+		<Objective QuestName="Slay the Brood Mother" QuestId="10845" Type="KillMob" MobId="21032" KillCount="1" />
+		<RunTo X="1609.29" Y="5440.47" Z="266.058" QuestId="10845" />
+		<TurnIn QuestName="Slay the Brood Mother" QuestId="10845" TurnInName="Leoroxx" TurnInId="22004" X="2207.24" Y="4761.25" Z="158.082" />
+		<TurnIn QuestName="Spirit Calling" QuestId="10853" TurnInName="Spiritcaller Dohgar" TurnInId="22312" X="2221.21" Y="4781.8" Z="156.583" />
+		<PickUp QuestName="Gather the Orbs" QuestId="10859" GiverName="Spiritcaller Dohgar" GiverId="22312" X="2221.21" Y="4781.8" Z="156.583" />
+		<While Condition="((HasQuest(10859)) &amp;&amp; (!IsQuestCompleted(10859)))">
+			<CustomBehavior File="UseItemOn" QuestId="10859" MobId="21929" ItemId="31668" NumOfTimes="1" Range="5" CollectionDistance="1000" WaitTime="2000" X="2221.21" Y="4781.8" Z="156.583" />
+		</While>
+		<TurnIn QuestName="Gather the Orbs" QuestId="10859" TurnInName="Spiritcaller Dohgar" TurnInId="22312" X="2221.21" Y="4781.8" Z="156.583" />
+		<PickUp QuestName="Inform Leoroxx!" QuestId="10865" GiverName="Spiritcaller Dohgar" GiverId="22312" X="2221.21" Y="4781.8" Z="156.583" />
+		<TurnIn QuestName="Inform Leoroxx!" QuestId="10865" TurnInName="Leoroxx" TurnInId="22004" X="2207.24" Y="4761.25" Z="158.082" />
+		<PickUp QuestName="There Can Be Only One Response" QuestId="10867" GiverName="Leoroxx" GiverId="22004" X="2207.24" Y="4761.25" Z="158.082" />
+		<TurnIn QuestName="Ruuan Weald" QuestId="10615" TurnInName="Timeon" TurnInId="21782" X="2993.94" Y="5473.5" Z="145.197" />
+		<PickUp QuestName="Creating the Pendant" QuestId="10567" GiverName="Timeon" GiverId="21782" X="2993.94" Y="5473.5" Z="145.197" />
+		<PickUp QuestName="Culling the Wild" QuestId="10753" GiverName="Faradrella" GiverId="22133" X="3024.71" Y="5452.03" Z="147.35" />
+		<PickUp QuestName="Little Embers" QuestId="10770" GiverName="Mosswood the Ancient" GiverId="22053" X="3017.66" Y="5523.29" Z="148.27" />
+		<PickUp QuestName="From the Ashes" QuestId="10771" GiverName="Mosswood the Ancient" GiverId="22053" X="3017.66" Y="5523.29" Z="148.27" />
+		<PickUp QuestName="A Time for Negotiation..." QuestId="10682" GiverName="Tree Warden Chawn" GiverId="22007" X="2980.58" Y="5483.43" Z="143.841" />
+		<Objective QuestName="There Can Be Only One Response" QuestId="10867" Type="CollectItem" ItemId="30890" CollectCount="1" />
+		<TurnIn QuestName="There Can Be Only One Response" QuestId="10867" TurnInName="Spiritcaller Dohgar" TurnInId="22312" X="2221.21" Y="4781.8" Z="156.583" />
+		<Objective QuestName="Culling the Wild" QuestId="10753" Type="KillMob" MobId="21300" KillCount="2" />
+		<RunTo X="3113.37" Y="5087.61" Z="267.159" QuestId="10753" />
+		<Objective QuestName="Culling the Wild" QuestId="10753" Type="KillMob" MobId="21123" KillCount="4" />
+		<RunTo X="3014.69" Y="5098.9" Z="262.165" QuestId="10753" />
+		<Objective QuestName="Culling the Wild" QuestId="10753" Type="KillMob" MobId="21124" KillCount="4" />
+		<RunTo X="2955.63" Y="5091.86" Z="263.055" QuestId="10753" />
+		<While Condition="((HasQuest(10753)) &amp;&amp; (!IsQuestCompleted(10753)))">
+			<CustomBehavior File="UseItemOn" QuestId="10753" MobId="21124" ItemId="31384" NumOfTimes="1" Range="5" CollectionDistance="1000" WaitTime="2000" X="2955.63" Y="5091.86" Z="263.055" />
+		</While>
+		<PickUp QuestName="Damaged Mask" QuestId="10810" GiverName="Spiritcaller Dohgar" GiverId="22312" X="2221.21" Y="4781.8" Z="156.583" />
+		<RunTo X="3599.83" Y="4958.24" Z="267.815" QuestId="10771" />
+		<RunTo X="3672.17" Y="4962.03" Z="266.285" QuestId="10771" />
+		<Objective QuestName="Little Embers" QuestId="10770" Type="KillMob" MobId="21021" KillCount="8" />
+		<RunTo X="3512.25" Y="4952.45" Z="265.819" QuestId="10770" />
+		<RunTo X="3740.23" Y="4962.22" Z="276.698" QuestId="10771" />
+		<Objective QuestName="Damaged Mask" QuestId="10810" Type="CollectItem" ItemId="31384" CollectCount="1" />
+		<Objective QuestName="Damaged Mask" QuestId="10810" Type="KillMob" MobId="21300" KillCount="1" />
+		<TurnIn QuestName="Damaged Mask" QuestId="10810" TurnInName="Spiritcaller Dohgar" TurnInId="22312" X="2221.21" Y="4781.8" Z="156.583" />
+		<PickUp QuestName="Mystery Mask" QuestId="10812" GiverName="Spiritcaller Dohgar" GiverId="22312" X="2221.21" Y="4781.8" Z="156.583" />
+		<Objective QuestName="Mystery Mask" QuestId="10812" Type="CollectItem" ItemId="31387" CollectCount="1" />
+		<TurnIn QuestName="Mystery Mask" QuestId="10812" TurnInName="Wildlord Antelarion" TurnInId="22127" X="2959.73" Y="5465.37" Z="144.332" />
+		<PickUp QuestName="Felsworn Gas Mask" QuestId="10819" GiverName="Wildlord Antelarion" GiverId="22127" X="2959.73" Y="5465.37" Z="144.332" />
+		<TurnIn QuestName="Culling the Wild" QuestId="10753" TurnInName="Faradrella" TurnInId="22133" X="3024.71" Y="5452.03" Z="147.35" />
+		<TurnIn QuestName="Little Embers" QuestId="10770" TurnInName="Mosswood the Ancient" TurnInId="22053" X="3017.66" Y="5523.29" Z="148.27" />
+		<Objective QuestName="From the Ashes" QuestId="10771" Type="CollectItem" ItemId="185124" CollectCount="1" />
+		<Objective QuestName="From the Ashes" QuestId="10771" Type="CollectItem" ItemId="185147" CollectCount="1" />
+		<Objective QuestName="From the Ashes" QuestId="10771" Type="CollectItem" ItemId="185148" CollectCount="1" />
+		<Objective QuestName="From the Ashes" QuestId="10771" Type="CollectItem" ItemId="31300" CollectCount="1" />
+		<TurnIn QuestName="From the Ashes" QuestId="10771" TurnInName="Mosswood the Ancient" TurnInId="22053" X="3017.66" Y="5523.29" Z="148.27" />
+		<TurnIn QuestName="A Time for Negotiation..." QuestId="10682" TurnInName="Tree Warden Chawn" TurnInId="22007" X="2980.58" Y="5483.43" Z="143.841" />
+		<PickUp QuestName="...and a Time for Action" QuestId="10713" GiverName="Tree Warden Chawn" GiverId="22007" X="2980.58" Y="5483.43" Z="143.841" />
+		<PickUp QuestName="Poaching from Poachers" QuestId="10717" GiverName="Samia Inkling" GiverId="21983" X="2981.4" Y="5485.77" Z="143.858" />
+		<Objective QuestName="...and a Time for Action" QuestId="10713" Type="KillMob" MobId="21810" KillCount="10" />
+		<RunTo X="2908.18" Y="5713.98" Z="144.763" QuestId="10713" />
+		<Objective QuestName="Poaching from Poachers" QuestId="10717" Type="CollectItem" ItemId="31119" CollectCount="5" />
+		<While Condition="((HasQuest(10717)) &amp;&amp; (!IsQuestCompleted(10717)))">
+			<CustomBehavior File="UseItemOn" QuestId="10717" MobId="31119" ItemId="31120" NumOfTimes="1" Range="5" CollectionDistance="1000" WaitTime="2000" X="2927.91" Y="5627.67" Z="146.414" />
+		</While>
+		<PickUp QuestName="Did You Get The Note?" QuestId="10719" GiverName="Samia Inkling" GiverId="21983" X="2981.4" Y="5485.77" Z="143.858" />
+		<TurnIn QuestName="Poaching from Poachers" QuestId="10717" TurnInName="Samia Inkling" TurnInId="21983" X="2981.4" Y="5485.77" Z="143.858" />
+		<PickUp QuestName="Whelps of the Wyrmcult" QuestId="10747" GiverName="Samia Inkling" GiverId="21983" X="2981.4" Y="5485.77" Z="143.858" />
+		<TurnIn QuestName="...and a Time for Action" QuestId="10713" TurnInName="Tree Warden Chawn" TurnInId="22007" X="2980.58" Y="5483.43" Z="143.841" />
+		<Objective QuestName="Did You Get The Note?" QuestId="10719" Type="CollectItem" ItemId="31120" CollectCount="1" />
+		<TurnIn QuestName="Did You Get The Note?" QuestId="10719" TurnInName="Tree Warden Chawn" TurnInId="22007" X="2980.58" Y="5483.43" Z="143.841" />
+		<PickUp QuestName="Wyrmskull Watcher" QuestId="10894" GiverName="Tree Warden Chawn" GiverId="22007" X="2980.58" Y="5483.43" Z="143.841" />
+		<TurnIn QuestName="Felsworn Gas Mask" QuestId="10819" TurnInName="Tree Warden Chawn" TurnInId="22007" X="2980.58" Y="5483.43" Z="143.841" />
+		<PickUp QuestName="Deceive thy Enemy" QuestId="10820" GiverName="Tree Warden Chawn" GiverId="22007" X="2980.58" Y="5483.43" Z="143.841" />
+		<Objective QuestName="Deceive thy Enemy" QuestId="10820" Type="KillMob" MobId="19961" KillCount="4" />
+		<RunTo X="2962.18" Y="4867.59" Z="277.53" QuestId="10820" />
+		<Objective QuestName="Deceive thy Enemy" QuestId="10820" Type="KillMob" MobId="19960" KillCount="4" />
+		<RunTo X="2961.35" Y="4827.73" Z="277.629" QuestId="10820" />
+		<TurnIn QuestName="Deceive thy Enemy" QuestId="10820" TurnInName="Tree Warden Chawn" TurnInId="22007" X="2980.58" Y="5483.43" Z="143.841" />
+		<While Condition="((HasQuest(10567)) &amp;&amp; (!IsQuestCompleted(10567)))">
+			<CustomBehavior File="UseItemOn" QuestId="10567" MobId="30706" ItemId="30704" NumOfTimes="1" Range="5" CollectionDistance="1000" WaitTime="2000" X="2993.94" Y="5473.5" Z="145.197" />
+		</While>
+		<While Condition="((HasQuest(10714)) &amp;&amp; (!IsQuestCompleted(10714)))">
+			<CustomBehavior File="UseItemOn" QuestId="10714" MobId="22383" ItemId="31128" NumOfTimes="1" Range="5" CollectionDistance="1000" WaitTime="2000" X="2298.11" Y="6034.42" Z="142.586" />
+		</While>
+		<TurnIn QuestName="On Spirit&apos;s Wings" QuestId="10714" TurnInName="Rexxar" TurnInId="21984" X="2298.11" Y="6034.42" Z="142.586" />
+		<PickUp QuestName="Baron Sablemane" QuestId="10783" GiverName="Rexxar" GiverId="21984" X="2298.11" Y="6034.42" Z="142.586" />
+		<Objective QuestName="Creating the Pendant" QuestId="10567" Type="CollectItem" ItemId="30706" CollectCount="1" />
+		<TurnIn QuestName="Creating the Pendant" QuestId="10567" TurnInName="Timeon" TurnInId="21782" X="2993.94" Y="5473.5" Z="145.197" />
+		<PickUp QuestName="Whispers of the Raven God" QuestId="10607" GiverName="Timeon" GiverId="21782" X="2993.94" Y="5473.5" Z="145.197" />
+		<TurnIn QuestName="Baron Sablemane" QuestId="10783" TurnInName="Baron Sablemane" TurnInId="22103" X="2919.11" Y="5956.93" Z="3.1615" />
+		<PickUp QuestName="Into the Churning Gulch" QuestId="10715" GiverName="Baron Sablemane" GiverId="22103" X="2919.11" Y="5956.93" Z="3.1615" />
+		<Objective QuestName="Into the Churning Gulch" QuestId="10715" Type="CollectItem" ItemId="31132" CollectCount="7" />
+		<TurnIn QuestName="Into the Churning Gulch" QuestId="10715" TurnInName="Baron Sablemane" TurnInId="22103" X="2919.11" Y="5956.93" Z="3.1615" />
+		<PickUp QuestName="Baron Sablemane&apos;s Poison" QuestId="10749" GiverName="Baron Sablemane" GiverId="22103" X="2919.11" Y="5956.93" Z="3.1615" />
+		<Objective QuestName="Baron Sablemane&apos;s Poison" QuestId="10749" Type="CollectItem" ItemId="31135" CollectCount="1" />
+		<TurnIn QuestName="Baron Sablemane&apos;s Poison" QuestId="10749" TurnInName="Rexxar" TurnInId="21984" X="2298.11" Y="6034.42" Z="142.586" />
+		<PickUp QuestName="The Smallest Creatures" QuestId="10720" GiverName="Rexxar" GiverId="21984" X="2298.11" Y="6034.42" Z="142.586" />
+		<PickUp QuestName="Crush the Bloodmaul Camp" QuestId="10784" GiverName="Tor&apos;chunk Twoclaws" GiverId="21147" X="2295.88" Y="6027.99" Z="142.641" />
+		<Objective QuestName="Crush the Bloodmaul Camp" QuestId="10784" Type="KillMob" MobId="19993" KillCount="10" />
+		<RunTo X="3096.4" Y="5897.46" Z="-5.5926" QuestId="10784" />
+		<Objective QuestName="Crush the Bloodmaul Camp" QuestId="10784" Type="KillMob" MobId="19994" KillCount="5" />
+		<RunTo X="3087.89" Y="5925.95" Z="-6.5774" QuestId="10784" />
+		<RunTo X="3388.65" Y="5843.18" Z="2.9487" QuestId="10720" />
+		<RunTo X="3467.9" Y="5847.08" Z="5.2595" QuestId="10720" />
+		<RunTo X="3574.68" Y="5809.42" Z="2.9336" QuestId="10720" />
+		<Objective QuestName="The Smallest Creatures" QuestId="10720" Type="KillMob" MobId="22356" KillCount="1" />
+		<Objective QuestName="The Smallest Creatures" QuestId="10720" Type="KillMob" MobId="22367" KillCount="1" />
+		<Objective QuestName="The Smallest Creatures" QuestId="10720" Type="KillMob" MobId="22368" KillCount="1" />
+		<Objective QuestName="The Smallest Creatures" QuestId="10720" Type="CollectItem" ItemId="31141" CollectCount="1" />
+		<TurnIn QuestName="The Smallest Creatures" QuestId="10720" TurnInName="Rexxar" TurnInId="21984" X="2298.11" Y="6034.42" Z="142.586" />
+		<PickUp QuestName="A Boaring Time for Grulloc" QuestId="10721" GiverName="Rexxar" GiverId="21984" X="2298.11" Y="6034.42" Z="142.586" />
+		<TurnIn QuestName="Crush the Bloodmaul Camp" QuestId="10784" TurnInName="Tor&apos;chunk Twoclaws" TurnInId="21147" X="2295.88" Y="6027.99" Z="142.641" />
+		<While Condition="((HasQuest(10721)) &amp;&amp; (!IsQuestCompleted(10721)))">
+			<CustomBehavior File="UseItemOn" QuestId="10721" MobId="31349" ItemId="31350" NumOfTimes="1" Range="5" CollectionDistance="1000" WaitTime="2000" X="2298.11" Y="6034.42" Z="142.586" />
+		</While>
+		<TurnIn QuestName="A Boaring Time for Grulloc" QuestId="10721" TurnInName="Baron Sablemane" TurnInId="22103" X="2919.11" Y="5956.93" Z="3.1615" />
+		<PickUp QuestName="It&apos;s a Trap!" QuestId="10785" GiverName="Baron Sablemane" GiverId="22103" X="2919.11" Y="5956.93" Z="3.1615" />
+		<Objective QuestName="It&apos;s a Trap!" QuestId="10785" Type="CollectItem" ItemId="31351" CollectCount="1" />
+		<TurnIn QuestName="It&apos;s a Trap!" QuestId="10785" TurnInName="Rexxar" TurnInId="21984" X="2298.11" Y="6034.42" Z="142.586" />
+		<PickUp QuestName="Gorgrom the Dragon-Eater" QuestId="10723" GiverName="Rexxar" GiverId="21984" X="2298.11" Y="6034.42" Z="142.586" />
+		<PickUp QuestName="Slaughter at Boulder&apos;mok" QuestId="10786" GiverName="Tor&apos;chunk Twoclaws" GiverId="21147" X="2295.88" Y="6027.99" Z="142.641" />
+		<Objective QuestName="Wyrmskull Watcher" QuestId="10894" Type="CollectItem" ItemId="31740" CollectCount="1" />
+		<TurnIn QuestName="Wyrmskull Watcher" QuestId="10894" TurnInName="Watcher Moonshade" TurnInId="22386" X="3108.07" Y="6131.54" Z="136.461" />
+		<PickUp QuestName="Longtail is the Lynchpin" QuestId="10893" GiverName="Watcher Moonshade" GiverId="22386" X="3108.07" Y="6131.54" Z="136.461" />
+		<Objective QuestName="Longtail is the Lynchpin" QuestId="10893" Type="KillMob" MobId="22396" KillCount="1" />
+		<RunTo X="3233.38" Y="6394.42" Z="131.46" QuestId="10893" />
+		<TurnIn QuestName="Longtail is the Lynchpin" QuestId="10893" TurnInName="Watcher Moonshade" TurnInId="22386" X="3108.07" Y="6131.54" Z="136.461" />
+		<PickUp QuestName="Meeting at the Blackwing Coven" QuestId="10722" GiverName="Watcher Moonshade" GiverId="22386" X="3108.07" Y="6131.54" Z="136.461" />
+		<RunTo X="3734.71" Y="6639.49" Z="133.736" QuestId="10607" />
+		<RunTo X="3784.44" Y="6729.34" Z="170.528" QuestId="10607" />
+		<RunTo X="3625.61" Y="6541.65" Z="155.13" QuestId="10607" />
+		<While Condition="((HasQuest(10607)) &amp;&amp; (!IsQuestCompleted(10607)))">
+			<CustomBehavior File="UseItemOn" QuestId="10607" MobId="22801" ItemId="31489" NumOfTimes="1" Range="5" CollectionDistance="1000" WaitTime="2000" X="3575.48" Y="6666.42" Z="128.562" />
+		</While>
+		<PickUp QuestName="The Truth Unorbed" QuestId="10825" GiverName="Watcher Moonshade" GiverId="22386" X="3108.07" Y="6131.54" Z="136.461" />
+		<While Condition="((HasQuest(10747)) &amp;&amp; (!IsQuestCompleted(10747)))">
+			<CustomBehavior File="UseItemOn" QuestId="10747" MobId="31130" ItemId="31129" NumOfTimes="1" Range="5" CollectionDistance="1000" WaitTime="2000" X="2981.4" Y="5485.77" Z="143.858" />
+		</While>
+		<While Condition="((HasQuest(10722)) &amp;&amp; (!IsQuestCompleted(10722)))">
+			<CustomBehavior File="UseItemOn" QuestId="10722" MobId="None" ItemId="31122" NumOfTimes="1" Range="5" CollectionDistance="1000" WaitTime="2000" X="3108.07" Y="6131.54" Z="136.461" />
+		</While>
+		<Objective QuestName="Slaughter at Boulder&apos;mok" QuestId="10786" Type="KillMob" MobId="21046" KillCount="5" />
+		<RunTo X="3536.76" Y="7188.01" Z="155.59" QuestId="10786" />
+		<Objective QuestName="Slaughter at Boulder&apos;mok" QuestId="10786" Type="KillMob" MobId="21047" KillCount="3" />
+		<RunTo X="3528.53" Y="7165.08" Z="174.65" QuestId="10786" />
+		<While Condition="((HasQuest(10723)) &amp;&amp; (!IsQuestCompleted(10723)))">
+			<CustomBehavior File="UseItemOn" QuestId="10723" MobId="22434" ItemId="31754" NumOfTimes="1" Range="5" CollectionDistance="1000" WaitTime="2000" X="2298.11" Y="6034.42" Z="142.586" />
+		</While>
+		<TurnIn QuestName="Whelps of the Wyrmcult" QuestId="10747" TurnInName="Samia Inkling" TurnInId="21983" X="2981.4" Y="5485.77" Z="143.858" />
+		<TurnIn QuestName="Meeting at the Blackwing Coven" QuestId="10722" TurnInName="Tree Warden Chawn" TurnInId="22007" X="2980.58" Y="5483.43" Z="143.841" />
+		<PickUp QuestName="Maxnar Must Die!" QuestId="10748" GiverName="Tree Warden Chawn" GiverId="22007" X="2980.58" Y="5483.43" Z="143.841" />
+		<Objective QuestName="The Truth Unorbed" QuestId="10825" Type="CollectItem" ItemId="31489" CollectCount="1" />
+		<TurnIn QuestName="The Truth Unorbed" QuestId="10825" TurnInName="Tree Warden Chawn" TurnInId="22007" X="2980.58" Y="5483.43" Z="143.841" />
+		<PickUp QuestName="Treebole Must Know" QuestId="10829" GiverName="Tree Warden Chawn" GiverId="22007" X="2980.58" Y="5483.43" Z="143.841" />
+		<Objective QuestName="Whispers of the Raven God" QuestId="10607" Type="KillMob" MobId="22798" KillCount="1" />
+		<Objective QuestName="Whispers of the Raven God" QuestId="10607" Type="KillMob" MobId="22799" KillCount="1" />
+		<Objective QuestName="Whispers of the Raven God" QuestId="10607" Type="KillMob" MobId="22800" KillCount="1" />
+		<Objective QuestName="Whispers of the Raven God" QuestId="10607" Type="KillMob" MobId="22801" KillCount="1" />
+		<TurnIn QuestName="Whispers of the Raven God" QuestId="10607" TurnInName="Timeon" TurnInId="21782" X="2993.94" Y="5473.5" Z="145.197" />
+		<Objective QuestName="Gorgrom the Dragon-Eater" QuestId="10723" Type="KillMob" MobId="22434" KillCount="3" />
+		<Objective QuestName="Gorgrom the Dragon-Eater" QuestId="10723" Type="CollectItem" ItemId="31752" CollectCount="1" />
+		<TurnIn QuestName="Gorgrom the Dragon-Eater" QuestId="10723" TurnInName="Rexxar" TurnInId="21984" X="2298.11" Y="6034.42" Z="142.586" />
+		<TurnIn QuestName="Slaughter at Boulder&apos;mok" QuestId="10786" TurnInName="Tor&apos;chunk Twoclaws" TurnInId="21147" X="2295.88" Y="6027.99" Z="142.641" />
+		<TurnIn QuestName="Treebole Must Know" QuestId="10829" TurnInName="Treebole" TurnInId="22215" X="3609.03" Y="6829.56" Z="136.69" />
+		<PickUp QuestName="Exorcising the Trees" QuestId="10830" GiverName="Treebole" GiverId="22215" X="3609.03" Y="6829.56" Z="136.69" />
+		<While Condition="((HasQuest(10830)) &amp;&amp; (!IsQuestCompleted(10830)))">
+			<CustomBehavior File="UseItemOn" QuestId="10830" MobId="22226" ItemId="31518" NumOfTimes="1" Range="5" CollectionDistance="1000" WaitTime="2000" X="3609.03" Y="6829.56" Z="136.69" />
+		</While>
+		<TurnIn QuestName="Exorcising the Trees" QuestId="10830" TurnInName="Treebole" TurnInId="22215" X="3609.03" Y="6829.56" Z="136.69" />
+		<Objective QuestName="Maxnar Must Die!" QuestId="10748" Type="KillMob" MobId="21389" KillCount="1" />
+		<RunTo X="3130.8" Y="7006.54" Z="168.207" QuestId="10748" />
+		<TurnIn QuestName="Maxnar Must Die!" QuestId="10748" TurnInName="Tree Warden Chawn" TurnInId="22007" X="2980.58" Y="5483.43" Z="143.841" />
+		<PickUp QuestName="Off To Area 52" QuestId="10183" GiverName="Netherologist Coppernickels" GiverId="19569" X="3389.06" Y="4296.1" Z="120.867" />
+		<PickUp QuestName="Recharging the Batteries" QuestId="10190" GiverName="Bot-Specialist Alley" GiverId="19578" X="3352.84" Y="3726.39" Z="141.512" />
+		<While Condition="((HasQuest(10190)) &amp;&amp; (!IsQuestCompleted(10190)))">
+			<CustomBehavior File="UseItemOn" QuestId="10190" MobId="19595" ItemId="28369" NumOfTimes="1" Range="5" CollectionDistance="1000" WaitTime="2000" X="3352.84" Y="3726.39" Z="141.512" />
+		</While>
+		<TurnIn QuestName="Recharging the Batteries" QuestId="10190" TurnInName="Bot-Specialist Alley" TurnInId="19578" X="3352.84" Y="3726.39" Z="141.512" />
+		<If Condition="Me.Level &lt; 69">
+			<GrindTo Level="69" />
+		</If>
+		<PickUp QuestName="Securing the Shaleskin Shale" QuestId="10342" GiverName="Boots" GiverId="19617" X="3080.51" Y="3684.4" Z="142.533" />
+		<PickUp QuestName="Consortium Crystal Collection" QuestId="10265" GiverName="Nether-Stalker Khay&apos;ji" GiverId="19880" X="3069.96" Y="3674.86" Z="142.527" />
+		<PickUp QuestName="Manaforge B&apos;naar" QuestId="10189" GiverName="Spymaster Thalodien" GiverId="19468" X="3074.95" Y="3699.25" Z="142.576" />
+		<Objective QuestName="Off To Area 52" QuestId="10183" Type="CollectItem" ItemId="28359" CollectCount="1" />
+		<TurnIn QuestName="Off To Area 52" QuestId="10183" TurnInName="Rocket-Chief Fuselage" TurnInId="19570" X="3041.8" Y="3658.85" Z="143.406" />
+		<PickUp QuestName="You&apos;re Hired!" QuestId="10186" GiverName="Rocket-Chief Fuselage" GiverId="19570" X="3041.8" Y="3658.85" Z="143.406" />
+		<PickUp QuestName="The Archmage&apos;s Staff" QuestId="10173" GiverName="Ravandwyr" GiverId="19217" X="2997.61" Y="3734.97" Z="144.078" />
+		<Objective QuestName="Securing the Shaleskin Shale" QuestId="10342" Type="CollectItem" ItemId="29464" CollectCount="5" />
+		<PickUp QuestName="Mark V is Alive!" QuestId="10191" GiverName="Maxx A. Million Mk. V" GiverId="19589" X="3351.4" Y="3722.33" Z="141.397" />
+		<Objective QuestName="You&apos;re Hired!" QuestId="10186" Type="CollectItem" ItemId="28364" CollectCount="10" />
+		<TurnIn QuestName="Mark V is Alive!" QuestId="10191" TurnInName="Bot-Specialist Alley" TurnInId="19578" X="3352.84" Y="3726.39" Z="141.512" />
+		<TurnIn QuestName="Securing the Shaleskin Shale" QuestId="10342" TurnInName="Boots" TurnInId="19617" X="3080.51" Y="3684.4" Z="142.533" />
+		<PickUp QuestName="That Little Extra Kick" QuestId="10199" GiverName="Boots" GiverId="19617" X="3080.51" Y="3684.4" Z="142.533" />
+		<TurnIn QuestName="You&apos;re Hired!" QuestId="10186" TurnInName="Rocket-Chief Fuselage" TurnInId="19570" X="3041.8" Y="3658.85" Z="143.406" />
+		<PickUp QuestName="Invaluable Asset Zapping" QuestId="10203" GiverName="Rocket-Chief Fuselage" GiverId="19570" X="3041.8" Y="3658.85" Z="143.406" />
+		<PickUp QuestName="Report to Engineering" QuestId="10225" GiverName="Rocket-Chief Fuselage" GiverId="19570" X="3041.8" Y="3658.85" Z="143.406" />
+		<Objective QuestName="Report to Engineering" QuestId="10225" Type="CollectItem" ItemId="28526" CollectCount="1" />
+		<TurnIn QuestName="Report to Engineering" QuestId="10225" TurnInName="Chief Engineer Trep" TurnInId="19709" X="2974.39" Y="3675.3" Z="143.457" />
+		<PickUp QuestName="Essence for the Engines" QuestId="10224" GiverName="Chief Engineer Trep" GiverId="19709" X="2974.39" Y="3675.3" Z="143.457" />
+		<Objective QuestName="Essence for the Engines" QuestId="10224" Type="CollectItem" ItemId="28527" CollectCount="7" />
+		<TurnIn QuestName="Essence for the Engines" QuestId="10224" TurnInName="Chief Engineer Trep" TurnInId="19709" X="2974.39" Y="3675.3" Z="143.457" />
+		<PickUp QuestName="Elemental Power Extraction" QuestId="10226" GiverName="Chief Engineer Trep" GiverId="19709" X="2974.39" Y="3675.3" Z="143.457" />
+		<While Condition="((HasQuest(10226)) &amp;&amp; (!IsQuestCompleted(10226)))">
+			<CustomBehavior File="UseItemOn" QuestId="10226" MobId="28548" ItemId="28547" NumOfTimes="1" Range="5" CollectionDistance="1000" WaitTime="2000" X="2974.39" Y="3675.3" Z="143.457" />
+		</While>
+		<RunTo X="2787.98" Y="3172.17" Z="146.042" QuestId="10203" />
+		<RunTo X="2715.88" Y="3192.04" Z="147.597" QuestId="10203" />
+		<RunTo X="2746.59" Y="3239.64" Z="147.597" QuestId="10203" />
+		<While Condition="((HasQuest(10173)) &amp;&amp; (!IsQuestCompleted(10173)))">
+			<CustomBehavior File="UseItemOn" QuestId="10173" MobId="28292" ItemId="29207" NumOfTimes="1" Range="5" CollectionDistance="1000" WaitTime="2000" X="2683.67" Y="3123.88" Z="133.612" />
+		</While>
+		<Objective QuestName="That Little Extra Kick" QuestId="10199" Type="CollectItem" ItemId="28417" CollectCount="5" />
+		<Objective QuestName="Invaluable Asset Zapping" QuestId="10203" Type="CollectItem" ItemId="183805" CollectCount="1" />
+		<Objective QuestName="Invaluable Asset Zapping" QuestId="10203" Type="CollectItem" ItemId="30354" CollectCount="1" />
+		<Objective QuestName="Invaluable Asset Zapping" QuestId="10203" Type="CollectItem" ItemId="183806" CollectCount="1" />
+		<Objective QuestName="Invaluable Asset Zapping" QuestId="10203" Type="CollectItem" ItemId="183807" CollectCount="1" />
+		<Objective QuestName="Invaluable Asset Zapping" QuestId="10203" Type="CollectItem" ItemId="183808" CollectCount="1" />
+		<TurnIn QuestName="Invaluable Asset Zapping" QuestId="10203" TurnInName="Lead Sapper Blastfizzle" TurnInId="19634" X="2923.39" Y="3577.39" Z="129.389" />
+		<PickUp QuestName="Dr. Boom!" QuestId="10221" GiverName="Lead Sapper Blastfizzle" GiverId="19634" X="2923.39" Y="3577.39" Z="129.389" />
+		<TurnIn QuestName="Elemental Power Extraction" QuestId="10226" TurnInName="Chief Engineer Trep" TurnInId="19709" X="2974.39" Y="3675.3" Z="143.457" />
+		<Objective QuestName="The Archmage&apos;s Staff" QuestId="10173" Type="CollectItem" ItemId="28292" CollectCount="1" />
+		<Objective QuestName="The Archmage&apos;s Staff" QuestId="10173" Type="CollectItem" ItemId="29207" CollectCount="1" />
+		<Objective QuestName="The Archmage&apos;s Staff" QuestId="10173" Type="KillMob" MobId="19493" KillCount="1" />
+		<TurnIn QuestName="The Archmage&apos;s Staff" QuestId="10173" TurnInName="Ravandwyr" TurnInId="19217" X="2997.61" Y="3734.97" Z="144.078" />
+		<PickUp QuestName="Rebuilding the Staff" QuestId="10300" GiverName="Ravandwyr" GiverId="19217" X="2997.61" Y="3734.97" Z="144.078" />
+		<Objective QuestName="Consortium Crystal Collection" QuestId="10265" Type="CollectItem" ItemId="28829" CollectCount="1" />
+		<Objective QuestName="Consortium Crystal Collection" QuestId="10265" Type="KillMob" MobId="20215" KillCount="1" />
+		<TurnIn QuestName="Consortium Crystal Collection" QuestId="10265" TurnInName="Nether-Stalker Khay&apos;ji" TurnInId="19880" X="3069.96" Y="3674.86" Z="142.527" />
+		<PickUp QuestName="A Heap of Ethereals" QuestId="10262" GiverName="Nether-Stalker Khay&apos;ji" GiverId="19880" X="3069.96" Y="3674.86" Z="142.527" />
+		<TurnIn QuestName="That Little Extra Kick" QuestId="10199" TurnInName="Boots" TurnInId="19617" X="3080.51" Y="3684.4" Z="142.533" />
+		<PickUp QuestName="Pick Your Part" QuestId="10206" GiverName="Papa Wheeler" GiverId="19645" X="3053.08" Y="3644.41" Z="143.263" />
+		<Objective QuestName="Manaforge B&apos;naar" QuestId="10189" Type="CollectItem" ItemId="28376" CollectCount="1" />
+		<Objective QuestName="Manaforge B&apos;naar" QuestId="10189" Type="KillMob" MobId="19635" KillCount="1" />
+		<TurnIn QuestName="Manaforge B&apos;naar" QuestId="10189" TurnInName="Spymaster Thalodien" TurnInId="19468" X="3074.95" Y="3699.25" Z="142.576" />
+		<PickUp QuestName="High Value Targets" QuestId="10193" GiverName="Spymaster Thalodien" GiverId="19468" X="3074.95" Y="3699.25" Z="142.576" />
+		<PickUp QuestName="Bloodgem Crystals" QuestId="10204" GiverName="Magistrix Larynna" GiverId="19469" X="3077.69" Y="3696.48" Z="142.559" />
+		<Objective QuestName="Rebuilding the Staff" QuestId="10300" Type="CollectItem" ItemId="29216" CollectCount="4" />
+		<While Condition="((HasQuest(10221)) &amp;&amp; (!IsQuestCompleted(10221)))">
+			<CustomBehavior File="UseItemOn" QuestId="10221" MobId="20284" ItemId="29429" NumOfTimes="1" Range="5" CollectionDistance="1000" WaitTime="2000" X="3242.53" Y="3531.44" Z="121.253" />
+		</While>
+		<RunTo X="3242.53" Y="3531.44" Z="121.253" QuestId="10221" />
+		<TurnIn QuestName="Rebuilding the Staff" QuestId="10300" TurnInName="Ravandwyr" TurnInId="19217" X="2997.61" Y="3734.97" Z="144.078" />
+		<PickUp QuestName="Curse of the Violet Tower" QuestId="10174" GiverName="Ravandwyr" GiverId="19217" X="2997.61" Y="3734.97" Z="144.078" />
+		<TurnIn QuestName="Dr. Boom!" QuestId="10221" TurnInName="Lead Sapper Blastfizzle" TurnInId="19634" X="2923.39" Y="3577.39" Z="129.389" />
+		<While Condition="((HasQuest(10204)) &amp;&amp; (!IsQuestCompleted(10204)))">
+			<CustomBehavior File="UseItemOn" QuestId="10204" MobId="None" ItemId="28452" NumOfTimes="1" Range="5" CollectionDistance="1000" WaitTime="2000" X="3077.69" Y="3696.48" Z="142.559" />
+		</While>
+		<Objective QuestName="High Value Targets" QuestId="10193" Type="KillMob" MobId="18857" KillCount="2" />
+		<RunTo X="2843.58" Y="4368.46" Z="140.813" QuestId="10193" />
+		<Objective QuestName="High Value Targets" QuestId="10193" Type="KillMob" MobId="18852" KillCount="6" />
+		<RunTo X="2829.79" Y="4365.04" Z="138.607" QuestId="10193" />
+		<Objective QuestName="High Value Targets" QuestId="10193" Type="KillMob" MobId="19779" KillCount="8" />
+		<RunTo X="2999.76" Y="4120.61" Z="155.337" QuestId="10193" />
+		<Objective QuestName="A Heap of Ethereals" QuestId="10262" Type="CollectItem" ItemId="29209" CollectCount="10" />
+		<Objective QuestName="Pick Your Part" QuestId="10206" Type="CollectItem" ItemId="28457" CollectCount="10" />
+		<TurnIn QuestName="Pick Your Part" QuestId="10206" TurnInName="Papa Wheeler" TurnInId="19645" X="3053.08" Y="3644.41" Z="143.263" />
+		<TurnIn QuestName="A Heap of Ethereals" QuestId="10262" TurnInName="Nether-Stalker Khay&apos;ji" TurnInId="19880" X="3069.96" Y="3674.86" Z="142.527" />
+		<PickUp QuestName="Warp-Raider Nesaad" QuestId="10205" GiverName="Nether-Stalker Khay&apos;ji" GiverId="19880" X="3069.96" Y="3674.86" Z="142.527" />
+		<TurnIn QuestName="High Value Targets" QuestId="10193" TurnInName="Spymaster Thalodien" TurnInId="19468" X="3074.95" Y="3699.25" Z="142.576" />
+		<PickUp QuestName="Shutting Down Manaforge B&apos;naar" QuestId="10329" GiverName="Spymaster Thalodien" GiverId="19468" X="3074.95" Y="3699.25" Z="142.576" />
+		<TurnIn QuestName="Bloodgem Crystals" QuestId="10204" TurnInName="Magistrix Larynna" TurnInId="19469" X="3077.69" Y="3696.48" Z="142.559" />
+		<RunTo X="2828.02" Y="4154.67" Z="162.599" QuestId="10329" />
+		<Objective QuestName="Shutting Down Manaforge B&apos;naar" QuestId="10329" Type="CollectItem" ItemId="29366" CollectCount="1" />
+		<Objective QuestName="Shutting Down Manaforge B&apos;naar" QuestId="10329" Type="KillMob" MobId="20209" KillCount="1" />
+		<Objective QuestName="Shutting Down Manaforge B&apos;naar" QuestId="10329" Type="KillMob" MobId="20416" KillCount="1" />
+		<TurnIn QuestName="Shutting Down Manaforge B&apos;naar" QuestId="10329" TurnInName="Spymaster Thalodien" TurnInId="19468" X="3074.95" Y="3699.25" Z="142.576" />
+		<PickUp QuestName="Stealth Flight" QuestId="10194" GiverName="Spymaster Thalodien" GiverId="19468" X="3074.95" Y="3699.25" Z="142.576" />
+		<Objective QuestName="Warp-Raider Nesaad" QuestId="10205" Type="KillMob" MobId="19641" KillCount="1" />
+		<RunTo X="2503.19" Y="3902.48" Z="129.355" QuestId="10205" />
+		<TurnIn QuestName="Warp-Raider Nesaad" QuestId="10205" TurnInName="Nether-Stalker Khay&apos;ji" TurnInId="19880" X="3069.96" Y="3674.86" Z="142.527" />
+		<TurnIn QuestName="Stealth Flight" QuestId="10194" TurnInName="Veronia" TurnInId="20162" X="3068.91" Y="3598.24" Z="144.157" />
+		<PickUp QuestName="Behind Enemy Lines" QuestId="10652" GiverName="Veronia" GiverId="20162" X="3068.91" Y="3598.24" Z="144.157" />
+		<TurnIn QuestName="Behind Enemy Lines" QuestId="10652" TurnInName="Caledis Brightdawn" TurnInId="19840" X="2237.67" Y="2793.89" Z="128.813" />
+		<PickUp QuestName="A Convincing Disguise" QuestId="10197" GiverName="Caledis Brightdawn" GiverId="19840" X="2237.67" Y="2793.89" Z="128.813" />
+		<Objective QuestName="A Convincing Disguise" QuestId="10197" Type="CollectItem" ItemId="28636" CollectCount="1" />
+		<Objective QuestName="A Convincing Disguise" QuestId="10197" Type="CollectItem" ItemId="28637" CollectCount="1" />
+		<Objective QuestName="A Convincing Disguise" QuestId="10197" Type="CollectItem" ItemId="28635" CollectCount="1" />
+		<Objective QuestName="A Convincing Disguise" QuestId="10197" Type="KillMob" MobId="20136" KillCount="1" />
+		<Objective QuestName="A Convincing Disguise" QuestId="10197" Type="KillMob" MobId="20134" KillCount="1" />
+		<TurnIn QuestName="A Convincing Disguise" QuestId="10197" TurnInName="Caledis Brightdawn" TurnInId="19840" X="2237.67" Y="2793.89" Z="128.813" />
+		<PickUp QuestName="Information Gathering" QuestId="10198" GiverName="Caledis Brightdawn" GiverId="19840" X="2237.67" Y="2793.89" Z="128.813" />
+		<Objective QuestName="Information Gathering" QuestId="10198" Type="CollectItem" ItemId="28607" CollectCount="1" />
+		<TurnIn QuestName="Information Gathering" QuestId="10198" TurnInName="Caledis Brightdawn" TurnInId="19840" X="2237.67" Y="2793.89" Z="128.813" />
+		<PickUp QuestName="Shutting Down Manaforge Coruu" QuestId="10330" GiverName="Caledis Brightdawn" GiverId="19840" X="2237.67" Y="2793.89" Z="128.813" />
+		<RunTo X="2426.77" Y="2750.39" Z="133.243" QuestId="10330" />
+		<Objective QuestName="Shutting Down Manaforge Coruu" QuestId="10330" Type="CollectItem" ItemId="29396" CollectCount="1" />
+		<Objective QuestName="Shutting Down Manaforge Coruu" QuestId="10330" Type="KillMob" MobId="20417" KillCount="1" />
+		<Objective QuestName="Shutting Down Manaforge Coruu" QuestId="10330" Type="KillMob" MobId="20397" KillCount="1" />
+		<TurnIn QuestName="Shutting Down Manaforge Coruu" QuestId="10330" TurnInName="Caledis Brightdawn" TurnInId="19840" X="2237.67" Y="2793.89" Z="128.813" />
+		<PickUp QuestName="Return to Thalodien" QuestId="10200" GiverName="Caledis Brightdawn" GiverId="19840" X="2237.67" Y="2793.89" Z="128.813" />
+		<PickUp QuestName="Needs More Cowbell" QuestId="10334" GiverName="Thadell" GiverId="20464" X="2299.38" Y="2265.28" Z="95.4419" />
+		<PickUp QuestName="Indispensable Tools" QuestId="10331" GiverName="Apprentice Andrethan" GiverId="20463" X="2290.12" Y="2266.04" Z="93.7195" />
+		<PickUp QuestName="Malevolent Remnants" QuestId="10184" GiverName="Custodian Dieworth" GiverId="19488" X="2247.11" Y="2277.43" Z="97.9116" />
+		<TurnIn QuestName="Curse of the Violet Tower" QuestId="10174" TurnInName="Image of Archmage Vargoth" TurnInId="19644" />
+		<PickUp QuestName="The Sigil of Krasus" QuestId="10188" GiverName="Image of Archmage Vargoth" GiverId="19644" />
+		<PickUp QuestName="A Fate Worse Than Death" QuestId="10185" GiverName="Custodian Dieworth" GiverId="19488" X="2247.11" Y="2277.43" Z="97.9116" />
+		<PickUp QuestName="The Unending Invasion" QuestId="10343" GiverName="Lieutenant-Sorcerer Morran" GiverId="19489" X="2248.73" Y="2273.1" Z="97.9139" />
+		<Objective QuestName="Needs More Cowbell" QuestId="10334" Type="CollectItem" ItemId="29428" CollectCount="1" />
+		<TurnIn QuestName="Needs More Cowbell" QuestId="10334" TurnInName="Bessy" TurnInId="20415" X="2528.0" Y="2185.68" Z="102.6" />
+		<PickUp QuestName="When the Cows Come Home" QuestId="10337" GiverName="Bessy" GiverId="20415" X="2528.0" Y="2185.68" Z="102.6" />
+		<TurnIn QuestName="When the Cows Come Home" QuestId="10337" TurnInName="Thadell" TurnInId="20464" X="2299.38" Y="2265.28" Z="95.4419" />
+		<PickUp QuestName="Abjurist Belmara" QuestId="10305" GiverName="Thadell" GiverId="20464" X="2299.38" Y="2265.28" Z="95.4419" />
+		<PickUp QuestName="Cohlien Frostweaver" QuestId="10307" GiverName="Thadell" GiverId="20464" X="2299.38" Y="2265.28" Z="95.4419" />
+		<PickUp QuestName="Battle-Mage Dathric" QuestId="10182" GiverName="Thadell" GiverId="20464" X="2299.38" Y="2265.28" Z="95.4419" />
+		<PickUp QuestName="Conjurer Luminrath" QuestId="10306" GiverName="Thadell" GiverId="20464" X="2299.38" Y="2265.28" Z="95.4419" />
+		<Objective QuestName="Indispensable Tools" QuestId="10331" Type="CollectItem" ItemId="29365" CollectCount="1" />
+		<Objective QuestName="Indispensable Tools" QuestId="10331" Type="KillMob" MobId="20409" KillCount="1" />
+		<TurnIn QuestName="Indispensable Tools" QuestId="10331" TurnInName="Apprentice Andrethan" TurnInId="20463" X="2290.12" Y="2266.04" Z="93.7195" />
+		<PickUp QuestName="Master Smith Rhonsus" QuestId="10332" GiverName="Apprentice Andrethan" GiverId="20463" X="2290.12" Y="2266.04" Z="93.7195" />
+		<Objective QuestName="Malevolent Remnants" QuestId="10184" Type="KillMob" MobId="19881" KillCount="20" />
+		<TurnIn QuestName="Malevolent Remnants" QuestId="10184" TurnInName="Custodian Dieworth" TurnInId="19488" X="2247.11" Y="2277.43" Z="97.9116" />
+		<PickUp QuestName="The Annals of Kirin&apos;Var" QuestId="10312" GiverName="Custodian Dieworth" GiverId="19488" X="2247.11" Y="2277.43" Z="97.9116" />
+		<Objective QuestName="Master Smith Rhonsus" QuestId="10332" Type="KillMob" MobId="20410" KillCount="1" />
+		<RunTo X="2288.35" Y="2051.09" Z="70.0708" QuestId="10332" />
+		<TurnIn QuestName="Master Smith Rhonsus" QuestId="10332" TurnInName="Apprentice Andrethan" TurnInId="20463" X="2290.12" Y="2266.04" Z="93.7195" />
+		<While Condition="((HasQuest(10182)) &amp;&amp; (!IsQuestCompleted(10182)))">
+			<CustomBehavior File="UseItemOn" QuestId="10182" MobId="19549" ItemId="28351" NumOfTimes="1" Range="5" CollectionDistance="1000" WaitTime="2000" X="2228.32" Y="2312.22" Z="89.3019" />
+		</While>
+		<While Condition="((HasQuest(10306)) &amp;&amp; (!IsQuestCompleted(10306)))">
+			<CustomBehavior File="UseItemOn" QuestId="10306" MobId="19548" ItemId="28352" NumOfTimes="1" Range="5" CollectionDistance="1000" WaitTime="2000" X="2191.15" Y="2339.52" Z="90.4991" />
+		</While>
+		<While Condition="((HasQuest(10307)) &amp;&amp; (!IsQuestCompleted(10307)))">
+			<CustomBehavior File="UseItemOn" QuestId="10307" MobId="19550" ItemId="28353" NumOfTimes="1" Range="5" CollectionDistance="1000" WaitTime="2000" X="2202.37" Y="2412.08" Z="109.269" />
+		</While>
+		<While Condition="((HasQuest(10305)) &amp;&amp; (!IsQuestCompleted(10305)))">
+			<CustomBehavior File="UseItemOn" QuestId="10305" MobId="19547" ItemId="28336" NumOfTimes="1" Range="5" CollectionDistance="1000" WaitTime="2000" X="2239.45" Y="2389.64" Z="112.748" />
+		</While>
+		<Objective QuestName="A Fate Worse Than Death" QuestId="10185" Type="KillMob" MobId="18867" KillCount="10" />
+		<RunTo X="2248.62" Y="2373.09" Z="108.931" QuestId="10185" />
+		<Objective QuestName="A Fate Worse Than Death" QuestId="10185" Type="KillMob" MobId="18866" KillCount="10" />
+		<RunTo X="2180.39" Y="2440.31" Z="104.837" QuestId="10185" />
+		<Objective QuestName="Abjurist Belmara" QuestId="10305" Type="KillMob" MobId="19547" KillCount="1" />
+		<TurnIn QuestName="Abjurist Belmara" QuestId="10305" TurnInName="Custodian Dieworth" TurnInId="19488" X="2247.11" Y="2277.43" Z="97.9116" />
+		<TurnIn QuestName="A Fate Worse Than Death" QuestId="10185" TurnInName="Custodian Dieworth" TurnInId="19488" X="2247.11" Y="2277.43" Z="97.9116" />
+		<Objective QuestName="Cohlien Frostweaver" QuestId="10307" Type="KillMob" MobId="19550" KillCount="1" />
+		<TurnIn QuestName="Cohlien Frostweaver" QuestId="10307" TurnInName="Custodian Dieworth" TurnInId="19488" X="2247.11" Y="2277.43" Z="97.9116" />
+		<Objective QuestName="Battle-Mage Dathric" QuestId="10182" Type="KillMob" MobId="19549" KillCount="1" />
+		<TurnIn QuestName="Battle-Mage Dathric" QuestId="10182" TurnInName="Custodian Dieworth" TurnInId="19488" X="2247.11" Y="2277.43" Z="97.9116" />
+		<Objective QuestName="Conjurer Luminrath" QuestId="10306" Type="KillMob" MobId="19548" KillCount="1" />
+		<TurnIn QuestName="Conjurer Luminrath" QuestId="10306" TurnInName="Custodian Dieworth" TurnInId="19488" X="2247.11" Y="2277.43" Z="97.9116" />
+		<Objective QuestName="The Unending Invasion" QuestId="10343" Type="CollectItem" ItemId="29461" CollectCount="1" />
+		<TurnIn QuestName="The Unending Invasion" QuestId="10343" TurnInName="Lieutenant-Sorcerer Morran" TurnInId="19489" X="2248.73" Y="2273.1" Z="97.9139" />
+		<PickUp QuestName="Potential Energy Source" QuestId="10239" GiverName="Lieutenant-Sorcerer Morran" GiverId="19489" X="2248.73" Y="2273.1" Z="97.9139" />
+		<Objective QuestName="The Annals of Kirin&apos;Var" QuestId="10312" Type="CollectItem" ItemId="29331" CollectCount="1" />
+		<Objective QuestName="The Annals of Kirin&apos;Var" QuestId="10312" Type="KillMob" MobId="19543" KillCount="1" />
+		<TurnIn QuestName="The Annals of Kirin&apos;Var" QuestId="10312" TurnInName="Custodian Dieworth" TurnInId="19488" X="2247.11" Y="2277.43" Z="97.9116" />
+		<PickUp QuestName="Searching for Evidence" QuestId="10316" GiverName="Custodian Dieworth" GiverId="19488" X="2247.11" Y="2277.43" Z="97.9116" />
+		<TurnIn QuestName="Searching for Evidence" QuestId="10316" TurnInName="Custodian Dieworth" TurnInId="19488" X="2247.11" Y="2277.43" Z="97.9116" />
+		<PickUp QuestName="A Lingering Suspicion" QuestId="10314" GiverName="Custodian Dieworth" GiverId="19488" X="2247.11" Y="2277.43" Z="97.9116" />
+		<Objective QuestName="A Lingering Suspicion" QuestId="10314" Type="CollectItem" ItemId="29338" CollectCount="10" />
+		<TurnIn QuestName="A Lingering Suspicion" QuestId="10314" TurnInName="Custodian Dieworth" TurnInId="19488" X="2247.11" Y="2277.43" Z="97.9116" />
+		<PickUp QuestName="Capturing the Phylactery" QuestId="10319" GiverName="Custodian Dieworth" GiverId="19488" X="2247.11" Y="2277.43" Z="97.9116" />
+		<Objective QuestName="Capturing the Phylactery" QuestId="10319" Type="CollectItem" ItemId="29361" CollectCount="1" />
+		<TurnIn QuestName="Capturing the Phylactery" QuestId="10319" TurnInName="Custodian Dieworth" TurnInId="19488" X="2247.11" Y="2277.43" Z="97.9116" />
+		<Objective QuestName="Potential Energy Source" QuestId="10239" Type="CollectItem" ItemId="28564" CollectCount="10" />
+		<Objective QuestName="The Sigil of Krasus" QuestId="10188" Type="CollectItem" ItemId="28368" CollectCount="1" />
+		<Objective QuestName="The Sigil of Krasus" QuestId="10188" Type="KillMob" MobId="19593" KillCount="1" />
+		<TurnIn QuestName="The Sigil of Krasus" QuestId="10188" TurnInName="Image of Archmage Vargoth" TurnInId="19644" />
+		<PickUp QuestName="Krasus&apos;s Compendium" QuestId="10192" GiverName="Image of Archmage Vargoth" GiverId="19644" />
+		<TurnIn QuestName="Potential Energy Source" QuestId="10239" TurnInName="Lieutenant-Sorcerer Morran" TurnInId="19489" X="2248.73" Y="2273.1" Z="97.9139" />
+		<Objective QuestName="Krasus&apos;s Compendium" QuestId="10192" Type="CollectItem" ItemId="28472" CollectCount="1" />
+		<Objective QuestName="Krasus&apos;s Compendium" QuestId="10192" Type="CollectItem" ItemId="28473" CollectCount="1" />
+		<Objective QuestName="Krasus&apos;s Compendium" QuestId="10192" Type="CollectItem" ItemId="28474" CollectCount="1" />
+		<TurnIn QuestName="Krasus&apos;s Compendium" QuestId="10192" TurnInName="Image of Archmage Vargoth" TurnInId="19644" />
+		<TurnIn QuestName="Return to Thalodien" QuestId="10200" TurnInName="Spymaster Thalodien" TurnInId="19468" X="3074.95" Y="3699.25" Z="142.576" />
+		<PickUp QuestName="Help Mama Wheeler" QuestId="10333" GiverName="Papa Wheeler" GiverId="19645" X="3053.08" Y="3644.41" Z="143.263" />
+		<TurnIn QuestName="Help Mama Wheeler" QuestId="10333" TurnInName="Mama Wheeler" TurnInId="19728" X="3355.2" Y="2883.44" Z="144.111" />
+		<PickUp QuestName="Run a Diagnostic!" QuestId="10417" GiverName="Mehrdad" GiverId="20810" X="3359.65" Y="2893.79" Z="144.007" />
+		<PickUp QuestName="New Opportunities" QuestId="10348" GiverName="Mehrdad" GiverId="20810" X="3359.65" Y="2893.79" Z="144.007" />
+		<PickUp QuestName="Keeping Up Appearances" QuestId="10433" GiverName="Shauly Pore" GiverId="20921" X="3373.58" Y="2892.23" Z="144.049" />
+		<Objective QuestName="New Opportunities" QuestId="10348" Type="CollectItem" ItemId="29474" CollectCount="15" />
+		<Objective QuestName="Keeping Up Appearances" QuestId="10433" Type="CollectItem" ItemId="29801" CollectCount="10" />
+		<TurnIn QuestName="New Opportunities" QuestId="10348" TurnInName="Mehrdad" TurnInId="20810" X="3359.65" Y="2893.79" Z="144.007" />
+		<Objective QuestName="Run a Diagnostic!" QuestId="10417" Type="CollectItem" ItemId="29741" CollectCount="1" />
+		<TurnIn QuestName="Run a Diagnostic!" QuestId="10417" TurnInName="Mehrdad" TurnInId="20810" X="3359.65" Y="2893.79" Z="144.007" />
+		<PickUp QuestName="Deal With the Saboteurs" QuestId="10418" GiverName="Mehrdad" GiverId="20810" X="3359.65" Y="2893.79" Z="144.007" />
+		<TurnIn QuestName="Keeping Up Appearances" QuestId="10433" TurnInName="Shauly Pore" TurnInId="20921" X="3373.58" Y="2892.23" Z="144.049" />
+		<Objective QuestName="Deal With the Saboteurs" QuestId="10418" Type="KillMob" MobId="20773" KillCount="8" />
+		<RunTo X="3451.48" Y="2891.16" Z="140.964" QuestId="10418" />
+		<TurnIn QuestName="Deal With the Saboteurs" QuestId="10418" TurnInName="Mehrdad" TurnInId="20810" X="3359.65" Y="2893.79" Z="144.007" />
+		<PickUp QuestName="One Demon&apos;s Trash..." QuestId="10234" GiverName="Mama Wheeler" GiverId="19728" X="3355.2" Y="2883.44" Z="144.111" />
+		<Objective QuestName="One Demon&apos;s Trash..." QuestId="10234" Type="CollectItem" ItemId="28551" CollectCount="10" />
+		<TurnIn QuestName="One Demon&apos;s Trash..." QuestId="10234" TurnInName="Mama Wheeler" TurnInId="19728" X="3355.2" Y="2883.44" Z="144.111" />
+		<If Condition="Me.Level &lt; 70">
+			<GrindTo Level="70" />
+		</If>
+		<CustomBehavior File="LoadProfile" ProfileName="16 - Northrend (70-72)" />
+	</QuestOrder>
+</HBProfile>
