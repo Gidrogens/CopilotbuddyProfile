@@ -1,5 +1,5 @@
 <HBProfile>
-	<Name>New Kurumi prem\ork\START - Orc 1-80 (load this)</Name>
+	<Name>New Kurumi prem\ork\START - Orc 1-80 (load this) [Fixed]</Name>
 	<MinLevel>1</MinLevel>
 	<MaxLevel>80</MaxLevel>
 	<MinDurability>0.2</MinDurability>
@@ -25,6 +25,67 @@
 	</Mailboxes>
 	<QuestOrder>
 		<CustomBehavior File="UserSettings" LootMobs="True" TrainNewSkills="True" FindVendorsAutomatically="True" LearnFlightPaths="True" UseFlightPaths="True" PullDistance="25" />
-		<CustomBehavior File="LoadProfile" ProfileName="01 - Orc (1-13)" />
+
+		<!-- Smart loader: continues from the correct segment based on level -->
+		<If Condition="Me.Level &lt; 13">
+			<CustomBehavior File="LoadProfile" ProfileName="01 - Orc (1-13)" />
+		</If>
+		<If Condition="Me.Level &gt;= 13 &amp;&amp; Me.Level &lt; 20">
+			<CustomBehavior File="LoadProfile" ProfileName="02 - Main Guide (13-20)" />
+		</If>
+		<If Condition="Me.Level &gt;= 20 &amp;&amp; Me.Level &lt; 25">
+			<CustomBehavior File="LoadProfile" ProfileName="03 - Levels (20-25)" />
+		</If>
+		<If Condition="Me.Level &gt;= 25 &amp;&amp; Me.Level &lt; 30">
+			<CustomBehavior File="LoadProfile" ProfileName="04 - Levels (25-30)" />
+		</If>
+		<If Condition="Me.Level &gt;= 30 &amp;&amp; Me.Level &lt; 35">
+			<CustomBehavior File="LoadProfile" ProfileName="05 - Levels (30-35)" />
+		</If>
+		<If Condition="Me.Level &gt;= 35 &amp;&amp; Me.Level &lt; 40">
+			<CustomBehavior File="LoadProfile" ProfileName="06 - Levels (35-40)" />
+		</If>
+		<If Condition="Me.Level &gt;= 40 &amp;&amp; Me.Level &lt; 45">
+			<CustomBehavior File="LoadProfile" ProfileName="07 - Levels (40-45)" />
+		</If>
+		<If Condition="Me.Level &gt;= 45 &amp;&amp; Me.Level &lt; 50">
+			<CustomBehavior File="LoadProfile" ProfileName="08 - Levels (45-50)" />
+		</If>
+		<If Condition="Me.Level &gt;= 50 &amp;&amp; Me.Level &lt; 55">
+			<CustomBehavior File="LoadProfile" ProfileName="09 - Levels (50-55)" />
+		</If>
+		<If Condition="Me.Level &gt;= 55 &amp;&amp; Me.Level &lt; 60">
+			<CustomBehavior File="LoadProfile" ProfileName="10 - Levels (55-60)" />
+		</If>
+		<If Condition="Me.Level &gt;= 60 &amp;&amp; Me.Level &lt; 62">
+			<CustomBehavior File="LoadProfile" ProfileName="11 - Outland (60-62)" />
+		</If>
+		<If Condition="Me.Level &gt;= 62 &amp;&amp; Me.Level &lt; 64">
+			<CustomBehavior File="LoadProfile" ProfileName="12 - Outland (62-64)" />
+		</If>
+		<If Condition="Me.Level &gt;= 64 &amp;&amp; Me.Level &lt; 66">
+			<CustomBehavior File="LoadProfile" ProfileName="13 - Outland (64-66)" />
+		</If>
+		<If Condition="Me.Level &gt;= 66 &amp;&amp; Me.Level &lt; 68">
+			<CustomBehavior File="LoadProfile" ProfileName="14 - Outland (66-68)" />
+		</If>
+		<If Condition="Me.Level &gt;= 68 &amp;&amp; Me.Level &lt; 70">
+			<CustomBehavior File="LoadProfile" ProfileName="15 - Outland (68-70)" />
+		</If>
+		<If Condition="Me.Level &gt;= 70 &amp;&amp; Me.Level &lt; 72">
+			<CustomBehavior File="LoadProfile" ProfileName="16 - Northrend (70-72)" />
+		</If>
+		<If Condition="Me.Level &gt;= 72 &amp;&amp; Me.Level &lt; 74">
+			<CustomBehavior File="LoadProfile" ProfileName="17 - Northrend (72-74)" />
+		</If>
+		<If Condition="Me.Level &gt;= 74 &amp;&amp; Me.Level &lt; 76">
+			<CustomBehavior File="LoadProfile" ProfileName="18 - Northrend (74-76)" />
+		</If>
+		<If Condition="Me.Level &gt;= 76 &amp;&amp; Me.Level &lt; 78">
+			<CustomBehavior File="LoadProfile" ProfileName="19 - Northrend (76-78)" />
+		</If>
+		<If Condition="Me.Level &gt;= 78">
+			<CustomBehavior File="LoadProfile" ProfileName="20 - Northrend (78-80)" />
+		</If>
 	</QuestOrder>
 </HBProfile>
