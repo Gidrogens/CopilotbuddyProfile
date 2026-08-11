@@ -5827,8 +5827,8 @@ wManager.wManagerSetting.CurrentSetting.DoNotSellList.Add("Gooey Spider Leg");
     <PickUp QuestName="Eight-Legged Menaces" QuestId="245" GiverName="Дозорный Додс" GiverId="888" />
     <Objective QuestName="Eight-Legged Menaces" QuestId="245" Type="KillMob" MobId="539" KillCount="15" />
     <TurnIn QuestName="Eight-Legged Menaces" QuestId="245" TurnInName="Дозорный Додс" TurnInId="888" />
-    <TurnIn QuestName="Sven's Revenge" QuestId="95" TurnInName="Object_59" TurnInType="Object" TurnInId="59" />
-    <PickUp QuestName="Sven's Camp" QuestId="230" GiverName="Object_59" GiverType="Object" GiverId="59" />
+    <TurnIn QuestName="Sven's Revenge" QuestId="95" TurnInName="Object_59" TurnInType="Object" TurnInId="59" X="-11115.50" Y="-512.67" Z="32.60" />
+    <PickUp QuestName="Sven's Camp" QuestId="230" GiverName="Object_59" GiverType="Object" GiverId="59" X="-11115.50" Y="-512.67" Z="32.60" />
     <TurnIn QuestName="Sven's Camp" QuestId="230" TurnInName="Свен Йорген" TurnInId="311" />
     <PickUp QuestName="The Shadowy Figure" QuestId="262" GiverName="Свен Йорген" GiverId="311" />
     <TurnIn QuestName="The Shadowy Figure" QuestId="262" TurnInName="Мадам Ева" TurnInId="265" />
