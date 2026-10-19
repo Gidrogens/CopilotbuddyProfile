@@ -5398,11 +5398,13 @@
     <GrindTo Level="6" />
     </If>
     </If>
-    <If Condition="Me.Level &gt;= 6 &amp;&amp; Me.Level &lt; 11">
+    <If Condition="Me.Level &gt;= 6 &amp;&amp; (Me.Level &lt; 11 || (Me.Level &lt;= 18 &amp;&amp; !HasQuest(239) &amp;&amp; !IsQuestCompleted(239)))">
     <PickUp QuestName="Go to Dungeon 1" QuestId="62" GiverName="Маршал Дугхан" GiverId="240" />
     <PickUp QuestName="Gold Dust Exchange" QuestId="47" GiverName="Реми Повторюх" GiverId="241" />
     <PickUp QuestName="Kobold Candles" QuestId="60" GiverName="Вильям Пест" GiverId="253" />
+    <If Condition="HasQuest(62) || HasQuest(47) || HasQuest(60)">
     <MoveTo X="-9845.98" Y="131.5413" Z="5.175591" />
+    </If>
     <Objective QuestName="Gold Dust Exchange" QuestId="47" Type="CollectItem" ItemId="773" CollectCount="10" />
     <Objective QuestName="Kobold Candles" QuestId="60" Type="CollectItem" ItemId="772" CollectCount="8" />
     <TurnIn QuestName="Go to Dungeon 1" QuestId="62" TurnInName="Маршал Дугхан" TurnInId="240" />
@@ -5435,7 +5437,9 @@
     </SetGrindArea>
     <GrindTo Level="8" />
     </If>
+    <If Condition="HasQuest(76)">
     <MoveTo X="-9102.002" Y="-564.9047" Z="61.09156" />
+    </If>
     <TurnIn QuestName="Go to Gundeon 2.2" QuestId="76" TurnInName="Маршал Дугхан" TurnInId="240" />
     <PickUp QuestName="Westbrook Garrison Needs Help!" QuestId="239" GiverName="Маршал Дугхан" GiverId="240" />
     <TurnIn QuestName="Further Concerns" QuestId="35" TurnInName="Стражник Томас" TurnInId="261" />
